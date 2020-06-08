@@ -73,6 +73,7 @@ contentDir = "content/es"
 # Everything below this are Site Params
 
 [params]
+github_branch = "dev"
 copyright = "The Docsy Authors"
 privacy_policy = "https://policies.google.com/privacy"
 
