@@ -25,11 +25,29 @@ cd project-tetra
 
 == Running the website locally
 
-Once you've cloned the project repo, from the `tetrabiodistributed.github.io` root directory, run:
+Once you've cloned the project repo, you can run your own local Hugo server via the following options:
+
+=== Option 1: Using Hugo + Asciidoctor (Recommended for Linux & MacOS users)
+
+. Follow the instructions in https://gohugo.io/getting-started/installing/[Getting started] to install Hugo. You'll need at least *Hugo version 0.68.3*.
+  If you install from the https://github.com/gohugoio/hugo/releases[release page],
+  make sure you download the `_extended` version which supports SCSS.
+. You will also need to install https://asciidoctor.org/[Asciidoctor].
+. Run `serve.sh` script in the site root directory. By default your site will be available at `+http://localhost:1313+`. Hugo will watch for changes to the content and automatically refresh your site.
 
 [source,bash]
 ----
-sh serve.sh
+ sh serve.sh
 ----
 
-The `serve.sh` script builds and locally serves the site to https://localhost:1313.
+ NOTE: You will also need Graphviz (2.38.0 recommended) and https://plantuml.com/download[Plantuml] installed in order to be able to render UML diagrams.
+
+=== Option 2: Using Docker (Recommended for Windows users)
+
+. Install https://www.docker.com/[docker].
+. Run the following command in the site root directory. By default your site will be available at `+http://localhost:1313+`. Hugo will watch for changes to the content and automatically refresh your site.
+
+[source,bash]
+----
+ docker run --rm --volume $PWD:/src -p 1313:1313 -w "/src" bwklein/hugo-asciidoctor sh serve.sh
+----

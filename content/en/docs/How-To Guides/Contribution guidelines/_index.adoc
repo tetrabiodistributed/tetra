@@ -60,22 +60,41 @@ If you've just spotted something you'd like to change while using the docs, Docs
 
 If you want to preview your changes as you work, you'll need to run your own local Hugo server:
 
+=== Option 1: Using Hugo + Asciidoctor (Recommended for Linux & MacOS users)
+
 . Follow the instructions in https://gohugo.io/getting-started/installing/[Getting started] to install Hugo and any other tools you need. You'll need at least *Hugo version 0.68.3*.
   If you install from the https://github.com/gohugoio/hugo/releases[release page],
   make sure you download the `_extended` version which supports SCSS.
+. You will also need to install https://asciidoctor.org/[Asciidoctor].
 . Fork the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io[Project Tetra repo] into your own project, then create a local copy using `git clone`. Don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site.
 +
 ----
  git clone --recurse-submodules --depth 1 https://github.com/<your_github_username>/tetrabiodistributed.github.io.git
 ----
 
-. Run `hugo server` in the site root directory. By default your site will be available at `+http://localhost:1313+`. Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
+. Run `serve.sh` script in the site root directory. By default your site will be available at `+http://localhost:1313+`. Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
 +
 ----
- hugo server
+ sh serve.sh
 ----
 
-. Follow the rest of the <<updating-the-site,Updating the site>> process to propose your changes.
++
+Note: You will also need Graphviz (2.38.0 recommended) and https://plantuml.com/download[Plantuml] installed in order to be able to render UML diagrams.
+
+=== Option 2: Using Docker (Recommended for Windows users)
+
+. Install https://www.docker.com/[docker].
+. Fork the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io[Project Tetra repo] into your own project, then create a local copy using `git clone`. Don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site.
++
+----
+ git clone --recurse-submodules --depth 1 https://github.com/<your_github_username>/tetrabiodistributed.github.io.git
+----
+
+. Run the following command in the site root directory. By default your site will be available at `+http://localhost:1313+`. Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
++
+----
+ docker run --rm --volume $PWD:/src -p 1313:1313 -w "/src" bwklein/hugo-asciidoctor sh serve.sh
+----
 
 == Creating an issue
 
