@@ -14,29 +14,10 @@ jobs:
           submodules: recursive  # Fetch Hugo themes
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.68.3'
-          extended: true
-
-      - name: Setup Node
-        uses: actions/setup-node@v1
-        with:
-          node-version: '12.x'
-
-      - name: Cache dependencies
-        uses: actions/cache@v1
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
       - run: npm ci
 
       - name: Build
-        run: hugo --minify
+        run: docker run --rm --volume $PWD:/src -w "/src" bwklein/hugo-asciidoctor ./build.sh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
