@@ -40,7 +40,7 @@ Once you've cloned the project repo, you can run your own local Hugo server via 
  sh serve.sh
 ----
 
- NOTE: You will also need Graphviz (2.38.0 recommended) and https://plantuml.com/download[Plantuml] installed in order to be able to render UML diagrams.
+NOTE: You will also need https://graphviz.org/[Graphviz] (2.38.0 recommended) and https://plantuml.com/download[Plantuml] installed in order to be able to render UML diagrams.
 
 === Option 2: Using Docker (Recommended for Windows users)
 
