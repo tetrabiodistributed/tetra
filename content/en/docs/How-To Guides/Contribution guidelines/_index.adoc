@@ -39,7 +39,7 @@ Consult the https://documentation.divio.com/[The Documentation System] for:
 
 Here's a quick guide to updating the site:
 
-. Fork the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io[Project Tetra repo] on GitHub.
+. Fork the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io[Project Tetra docs repo] on GitHub.
 . Make your changes and create a pull request (PR).
 . If you're not yet ready for a review, add "WIP" to the PR name to indicate
   it's a work in progress.
@@ -54,7 +54,7 @@ If you've just spotted something you'd like to change while using the docs, Docs
 
 . Click *Edit this page* in the top right hand corner of the page.
 . If you don't already have an up to date fork of the project repo, you are prompted to get one - click *Fork this repository and propose changes* or *Update your Fork* to get an up to date version of the project to edit. The appropriate page in your fork is displayed in edit mode.
-. Follow the rest of the <<updating-the-site,Updating the site>> process to propose your changes.
+. Follow the rest of the <<#_updating_the_site, Updating the site>> process to propose your changes.
 
 == Previewing your changes
 
@@ -66,7 +66,7 @@ If you want to preview your changes as you work, you'll need to run your own loc
   If you install from the https://github.com/gohugoio/hugo/releases[release page],
   make sure you download the `_extended` version which supports SCSS.
 . You will also need to install https://asciidoctor.org/[Asciidoctor].
-. Fork the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io[Project Tetra repo] into your own project, then create a local copy using `git clone`. Don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site.
+. Fork the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io[Project Tetra docs repo] into your own project, then create a local copy using `git clone`. Don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site.
 +
 ----
  git clone --recurse-submodules --depth 1 https://github.com/<your_github_username>/tetrabiodistributed.github.io.git
@@ -84,7 +84,7 @@ Note: You will also need Graphviz (2.38.0 recommended) and https://plantuml.com/
 === Option 2: Using Docker (Recommended for Windows users)
 
 . Install https://www.docker.com/[docker].
-. Fork the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io[Project Tetra repo] into your own project, then create a local copy using `git clone`. Don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site.
+. Fork the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io[Project Tetra docs repo] into your own project, then create a local copy using `git clone`. Don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site.
 +
 ----
  git clone --recurse-submodules --depth 1 https://github.com/<your_github_username>/tetrabiodistributed.github.io.git
@@ -98,7 +98,7 @@ Note: You will also need Graphviz (2.38.0 recommended) and https://plantuml.com/
 
 == Creating an issue
 
-If you've found a problem in the docs, but you're not sure how to fix it yourself, please create an issue in the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io/issues[Project Tetra repo]. You can also create an issue about a specific page by clicking the *Create Issue* button in the top right hand corner of the page.
+If you've found a problem in the docs, but you're not sure how to fix it yourself, please create an issue in the https://github.com/tetrabiodistributed/tetrabiodistributed.github.io/issues[Project Tetra docs repo]. You can also create an issue about a specific page by clicking the *Create Issue* button in the top right hand corner of the page.
 
 == Useful resources
 
