@@ -102,6 +102,6 @@ If you've found a problem in the docs, but you're not sure how to fix it yoursel
 
 == Useful resources
 
-* link:wherever it goes[Docsy user guide]: All about Docsy, including how it manages navigation, look and feel, and multi-language support.
+* https://www.docsy.dev/docs/[Docsy user guide]: All about Docsy, including how it manages navigation, look and feel, and multi-language support.
 * https://gohugo.io/documentation/[Hugo documentation]: Comprehensive reference for Hugo.
 * https://guides.github.com/activities/hello-world/[Github Hello World!]: A basic introduction to GitHub concepts and workflow.
