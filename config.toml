@@ -1,4 +1,4 @@
-baseURL = "https://tetrabiodistributed.github.io"
+baseURL = "https://tetrabiodistributed.github.io/project-tetra-docs"
 title = "Project Tetra"
 canonifyURLs = true
 
@@ -99,7 +99,7 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/tetrabiodistributed/tetrabiodistributed.github.io"
+github_repo = "https://github.com/tetrabiodistributed/project-tetra-docs"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/google/docsy"
 
@@ -148,7 +148,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/tetrabiodistributed/tetrabiodistributed.github.io/"
+	url = "https://github.com/tetrabiodistributed/project-tetra-docs/"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 [[params.links.developer]]
