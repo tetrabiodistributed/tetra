@@ -1,0 +1,16 @@
+---
+title: "Electronic sensing system"
+linkTitle: "Electronic sensing system"
+weight: 1
+description: >
+  Circuit schematic for electronic sensing system
+---
+
+[plantuml, circuit_schematic, svg]
+....
+<<<<<<< HEAD
+include::content/en/References/circuit_schematic.plantuml
+=======
+include::content/en/References/circuit_schematic.plantuml[]
+>>>>>>> 13f4f3f... link to circuit uml diagram added to content\en\References\_index.adoc
+....
