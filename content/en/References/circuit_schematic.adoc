@@ -8,5 +8,5 @@ description: >
 
 [plantuml, circuit_schematic, svg]
 ....
-include::content/en/References/circuit_schematic.plantuml[]
+include::src/system_model/ibd-electronic-sensing-system.puml[]
 ....
