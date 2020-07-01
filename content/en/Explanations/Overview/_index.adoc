@@ -68,11 +68,13 @@ Between the two complexes is a '`bias circuit`', a branch with a one-way valve t
 This bias circuit is crucial for the operation of the system.
 
 Figure 2 lays out the core components of the device.
-image:./Figure_2.png[Figure 2]
 
-_Figure 2: High-level schematics of the Tetra system.
-Air flows from the ventilator to the inspiratory arm, with separate patients isolated by one-way valves, through flow-control valves and shutoff valves, to the patient.
-The expired air travels back through a flow meter, a PEEP valve to ensure the patient still has air pressure in their lungs at the end of the breath, and through another one-way valve back to the ventilator._
+._Figure 2: High-level schematics of the Tetra system. Air flows from the ventilator to the inspiratory arm, with separate patients isolated by one-way valves, through flow-control valves and shutoff valves, to the patient. The expired air travels back through a flow meter, a PEEP valve to ensure the patient still has air pressure in their lungs at the end of the breath, and through another one-way valve back to the ventilator._
+[plantuml, ibd-ventilator-splitter-assembly, svg]
+....
+include::src/system_model/ibd-ventilator-splitter-assembly.puml[]
+....
+
 
 Air travels in the following pathway for a given patient on inspiration:
 
