@@ -5,3 +5,4 @@
 [submodule "src"]
 	path = src
 	url = https://github.com/helpfulengineering/project-tetra.git
+	update = merge
