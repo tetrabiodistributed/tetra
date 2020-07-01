@@ -3,4 +3,8 @@ public/
 resources/
 node_modules/
 tech-doc-hugo
+static/
 
+# asciidoctor
+.asciidoctor/
+*.svg
