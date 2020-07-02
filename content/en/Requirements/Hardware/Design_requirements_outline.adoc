@@ -1,0 +1,254 @@
+
+---
+title: "Project Tetra Hardware Requirements Outline"
+linkTitle: "Hardware Requirements Outline"
+weight: 1
+description: >
+  Summary of hardware design requirements for project tetra.
+---
+
+== Section formatting
+=== Name of requirement domain
+
+  *Goal* = Aim that the below items seek to address/provide
+  
+> Requirement or Criteria
+ 
+	- specification or test
+  
+	- *leading asterisk denotes specification or test needed
+
+	- trailing question mark denotes that definitive requirement for specification or test is unknown?
+
+
+== Overall device requirements/criteria:
+....
+....
+=== Functional
+
+  *Goal* = Provide adequate splitting of a single ventilator for up to four (4) simultaneous patients.
+
+==== Criteria/requirements
+
+> All airflow entirely self contained, no leaks
+
+	- test splitter system across the full spectrum of possible loads and verify that no component or joint experiences leakage
+
+	- *test sustained load(s) for X hours? 
+
+> Device does not permit cross-contamination between patient airways
+
+	- *specify test, requirement, and acceptable tolerances
+
+> Device will operate consistently on 1, 2, 3, and/or 4 patients connected
+
+	- *specify tolerable variance
+
+	- *specify repeatability metrics for each component and/or inspiratory/expiratory arm
+
+	- *specify a duration of consistency?
+
+> Device allows for or provides means to maintain and adjust PEEP (10-25cm H2O)
+
+	- CONFIRMED using test ventilator
+
+	- test other ventilator models?
+
+	- verify with external valve [optional]
+
+> Device is capable of configuring and maintaining the full range of PIP 
+
+	- flow control valve permits adjustments of tidal volumes within therapeutic range, from 200-500 mL
+
+> Device will have means to measure and report pressure and/or flow for each individual patient across the entire range of values/loads
+
+> Shutoff valves allow to safely attach and detach patients
+
+	- no air leakage when valves are shut during patient attaching/detaching
+
+	- *verify that when when patients are attached or detached, conditions in the other patients remain stable [specification required]
+
+> Device must be powered from standard wall outlets with failsafes
+
+	- power cable minimum length = 10 feet [3.3 meters]
+
+	- power cable needs to have locking safeguard from accidental unplugging? 
+
+	- power connection should be controllable via rocker switch
+
+	- power switch should have safeguard to prevent accidental shutoff?
+
+	- battery power failover safeguard required for 20 minutes (minimum) of use in case of power loss
+....
+....
+=== Useability
+
+  *Goal* = Device is easy and comfortable to use by as many medical professionals as possible.
+
+==== Criteria/requirements 
+
+> Adequate clearance for grabbing and turning knobs for adjustment
+
+	- specify clearances?
+
+> Labels or marker on the housing are visible from more than one viewpoints/angles
+
+	- specify number of viewpoints?
+
+> Monitor is readable from a wide range of viewing angles and is not easily obstructed by anything that might be placed on top of the housing (even tho nothing should be placed here)
+
+	- specify viewing angle ranges?
+
+> Knobs are easy to turn
+
+	- comfortable to grasp
+
+	- specify force to begin rotating knob?
+
+> Repetitive use of device (viewing display, knobs gripping, etc) does not cause strain for users [ergonomics]
+
+	- specify operating time limits?
+
+> Adequate clearance for filters (vertically from surface the device is placed); verify that tubing cannot get lodged or pinched underneath filters
+
+	- specify clearance range?
+
+> Device operation is simple and easy to understand (requires sample of medical workers to test)
+
+	- specify % of successful operators with 20 minutes (or whatever time) of training?
+
+> Device surfaces are easily cleanable and soiling is easily visible
+
+> Label and markers are have easily readable font (Helvetica), size, and color; with obvious placement and visibility
+
+	- specify distance/angle markers can be easily read by someone with 20/20 vision?
+
+> Device makes it simple to differentiate between each patient quickly
+	- *specify test and requirement
+
+> Determine force required to move, rotate, or slide the device on a surface??
+	- *specify test and requirement (if any)
+....
+....
+=== Appearance
+
+  *Goal* = Device has an appropriate form and look for a medical setting
+
+==== Criteria/requirements
+
+> Shape and color of device is soft and non-threatening 
+
+> Device appearance is clean and simple
+
+> Housing should likely be white in color (or something similar)
+
+> Discrete placement of Tetra Bio-Distributed logo 
+....
+....
+=== Internal balance
+
+  *Goal* = Device weight distribution is mostly even, so it does not tip/fall over when carried.
+
+==== Criteria/requirements
+
+> Weight distribution is no more than 60-40 side-to-side
+
+	- suspend device and measure tension required for either side?
+
+> Weight distribution is no more than 60-40 front-to-back (with preference for higher amount in the front)
+
+	- suspend device and measure tension required for either side?
+> Device is not top heavy
+
+	- determine tipping angle
+....
+....
+=== Handle placement
+
+  *Goal* = device is easy to pick up and carry for anyone
+
+==== Criteria/requirements
+
+> Device handles are comfortable to grasp
+
+	- subjective assessment?
+
+> Handles are not too far apart
+
+	- subjective assessment?
+
+> Handles are located such that the device weight can be properly supported
+
+	- handles must be structural components
+
+> Based on weight and size, determine if possible to carry with one person or if two will be needed
+
+	- Regulatory weight/size requirement?
+....
+....
+=== Serviceability
+
+  *Goal* = Device is easily serviceable by medical staff.
+
+==== Criteria/requirements
+
+> Interior of device is easy to access
+
+	- *specify number of steps required to access internals
+
+	- *specify tools required to access internals
+
+> Ease to clean surfaces and/or parts
+
+	- *specify number of steps required to clean each component (including removal and reinstallation if needed)
+
+	- determine device materials compatibility with various cleaning methods/solvents?
+
+> Device has readily available replacement parts/components
+
+> The internal clearances for components are reasonable for device servicing
+
+	- ability to remove any one part and install a new one without removing other components)?
+
+	- *specify clearances between components
+
+> Provide functional/dynamic [analog] feedback that components are correctly assembled/replaced?
+....
+....
+=== Durability and robustness
+
+  *Goal* = Ensure the device will maintain functionality under normal conditions for a reasonable amount of time before service/maintenance is required.
+
+==== Criteria/requirements
+
+> Device display is secure and will not dislodge under normal stationary use (including periodic touch presses)
+
+	- specify number of hours of use?
+
+> The tubing connections and component complexes are secure such that they do not move significantly, nor decouple when device experiences standard use (without moving)
+
+	- specify the number of connect/disconnects before maintenance is required?
+
+> Device can withstand a drop from some height and remain functional
+
+	- *specify drop height and/or angle
+
+	- *specify drop with or without electronic components
+
+> Device can withstand cleaning and/or light splashes
+
+	- IPx rating?
+
+	- Materials solvent compatibility?
+
+> Device does not have ingress for airborne particulates to enter the housing.
+
+	- IPx rating?
+
+> When device is used, carried, or leaned on, the panels do not flex in such a way that impeades any of the devices functionality, damages components, or causes any detrimental outcomes.
+
+	- *determine specifications and appropriate testing
+
+> No internal build up of heat
+
+	- determine max internal temperature of fully loaded device [provide heat control as required]
