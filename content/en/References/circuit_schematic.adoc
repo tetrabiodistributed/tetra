@@ -1,0 +1,12 @@
+---
+title: "Electronic sensing system"
+linkTitle: "Electronic sensing system"
+weight: 1
+description: >
+  Circuit schematic for electronic sensing system
+---
+
+[plantuml, circuit_schematic, svg]
+....
+include::src/system_model/ibd-electronic-sensing-system.puml[]
+....
