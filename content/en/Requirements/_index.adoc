@@ -1,8 +1,0 @@
-
----
-title: "Requirements"
-linkTitle: "Requirements"
-weight: 1
-description: >
-  Outline of device requirements.
----
