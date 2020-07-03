@@ -1,6 +1,6 @@
 ---
-title: "Electronic sensing system"
-linkTitle: "Electronic sensing system"
+title: "Electronic Sensing System"
+linkTitle: "Electronic Sensing System"
 weight: 1
 description: >
   Circuit schematic for electronic sensing system

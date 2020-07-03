@@ -11,4 +11,3 @@ description: >
 * https://docs.google.com/document/d/164DD9j-OUmsBKB3FELcanB-5L1GkFy0qX10EiUfEtjM/edit[Testing Questions]
 * https://docs.google.com/spreadsheets/d/1FWTYRxglWDqIK_xI6HlBGKUegICQRsXe5NHCJTlTlHs/edit?usp=sharing[Printing Queue]
 * https://docs.google.com/presentation/d/1UeSRyUB0dAOZZecX4TGh40GkVtGADlXzBOwVFjPqIFE/edit#slide=id.g7f621674bc_0_63[System Concept Diagram]
-* link:circuit_schematic.adoc[Circuit Schematic UML Diagram]
