@@ -3,4 +3,712 @@
 &lt;div class="content">
 &lt;img src="https://tetrabiodistributed.github.io/project-tetra-docs/images/circuit_schematic.svg" alt="circuit schematic" width="1925" height="831">
 &lt;/div>
+&lt;/div></description></item><item><title>References: Hardware Requirements Outline</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/hardware-requirements-outline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/references/hardware-requirements-outline/</guid><description>
+&lt;div class="sect1">
+&lt;h2 id="_section_formatting">&lt;a class="anchor" href="#_section_formatting">&lt;/a>&lt;a class="link" href="#_section_formatting">Section formatting&lt;/a>&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="sect2">
+&lt;h3 id="_name_of_requirement_domain">&lt;a class="anchor" href="#_name_of_requirement_domain">&lt;/a>&lt;a class="link" href="#_name_of_requirement_domain">Name of requirement domain&lt;/a>&lt;/h3>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>*Goal* = Aim that the below items seek to address/provide&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Requirement or Criteria&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specification or test&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>*leading asterisk denotes specification or test needed&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>trailing question mark denotes that definitive requirement for specification or test is unknown?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_overall_device_requirementscriteria">&lt;a class="anchor" href="#_overall_device_requirementscriteria">&lt;/a>&lt;a class="link" href="#_overall_device_requirementscriteria">Overall device requirements/criteria:&lt;/a>&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_functional">&lt;a class="anchor" href="#_functional">&lt;/a>&lt;a class="link" href="#_functional">Functional&lt;/a>&lt;/h3>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>*Goal* = Provide adequate splitting of a single ventilator for up to four (4) simultaneous patients.&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_criteriarequirements">&lt;a class="anchor" href="#_criteriarequirements">&lt;/a>&lt;a class="link" href="#_criteriarequirements">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>All airflow entirely self contained, no leaks&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>test splitter system across the full spectrum of possible loads and verify that no component or joint experiences leakage&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>*test sustained load(s) for X hours?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device does not permit cross-contamination between patient airways&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>*specify test, requirement, and acceptable tolerances&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device will operate consistently on 1, 2, 3, and/or 4 patients connected&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>*specify tolerable variance&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>*specify repeatability metrics for each component and/or inspiratory/expiratory arm&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>*specify a duration of consistency?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device allows for or provides means to maintain and adjust PEEP (10-25cm H2O)&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>CONFIRMED using test ventilator&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>test other ventilator models?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>verify with external valve [optional]&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device is capable of configuring and maintaining the full range of PIP&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>flow control valve permits adjustments of tidal volumes within therapeutic range, from 200-500 mL&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device will have means to measure and report pressure and/or flow for each individual patient across the entire range of values/loads&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Shutoff valves allow to safely attach and detach patients&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>no air leakage when valves are shut during patient attaching/detaching&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>*verify that when when patients are attached or detached, conditions in the other patients remain stable [specification required]&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device must be powered from standard wall outlets with failsafes&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>power cable minimum length = 10 feet [3.3 meters]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>power cable needs to have locking safeguard from accidental unplugging?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>power connection should be controllable via rocker switch&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>power switch should have safeguard to prevent accidental shutoff?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>battery power failover safeguard required for 20 minutes (minimum) of use in case of power loss&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_useability">&lt;a class="anchor" href="#_useability">&lt;/a>&lt;a class="link" href="#_useability">Useability&lt;/a>&lt;/h3>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>*Goal* = Device is easy and comfortable to use by as many medical professionals as possible.&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_criteriarequirements_2">&lt;a class="anchor" href="#_criteriarequirements_2">&lt;/a>&lt;a class="link" href="#_criteriarequirements_2">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Adequate clearance for grabbing and turning knobs for adjustment&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specify clearances?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Labels or marker on the housing are visible from more than one viewpoints/angles&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specify number of viewpoints?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Monitor is readable from a wide range of viewing angles and is not easily obstructed by anything that might be placed on top of the housing (even tho nothing should be placed here)&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specify viewing angle ranges?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Knobs are easy to turn&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>comfortable to grasp&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>specify force to begin rotating knob?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Repetitive use of device (viewing display, knobs gripping, etc) does not cause strain for users [ergonomics]&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specify operating time limits?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Adequate clearance for filters (vertically from surface the device is placed); verify that tubing cannot get lodged or pinched underneath filters&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specify clearance range?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device operation is simple and easy to understand (requires sample of medical workers to test)&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specify % of successful operators with 20 minutes (or whatever time) of training?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device surfaces are easily cleanable and soiling is easily visible&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Label and markers are have easily readable font (Helvetica), size, and color; with obvious placement and visibility&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specify distance/angle markers can be easily read by someone with 20/20 vision?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device makes it simple to differentiate between each patient quickly
+- *specify test and requirement&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Determine force required to move, rotate, or slide the device on a surface??
+- *specify test and requirement (if any)&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_appearance">&lt;a class="anchor" href="#_appearance">&lt;/a>&lt;a class="link" href="#_appearance">Appearance&lt;/a>&lt;/h3>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>*Goal* = Device has an appropriate form and look for a medical setting&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_criteriarequirements_3">&lt;a class="anchor" href="#_criteriarequirements_3">&lt;/a>&lt;a class="link" href="#_criteriarequirements_3">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Shape and color of device is soft and non-threatening&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device appearance is clean and simple&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Housing should likely be white in color (or something similar)&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Discrete placement of Tetra Bio-Distributed logo&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_internal_balance">&lt;a class="anchor" href="#_internal_balance">&lt;/a>&lt;a class="link" href="#_internal_balance">Internal balance&lt;/a>&lt;/h3>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>*Goal* = Device weight distribution is mostly even, so it does not tip/fall over when carried.&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_criteriarequirements_4">&lt;a class="anchor" href="#_criteriarequirements_4">&lt;/a>&lt;a class="link" href="#_criteriarequirements_4">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Weight distribution is no more than 60-40 side-to-side&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>suspend device and measure tension required for either side?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Weight distribution is no more than 60-40 front-to-back (with preference for higher amount in the front)&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>suspend device and measure tension required for either side?
+&amp;gt; Device is not top heavy&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>determine tipping angle&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_handle_placement">&lt;a class="anchor" href="#_handle_placement">&lt;/a>&lt;a class="link" href="#_handle_placement">Handle placement&lt;/a>&lt;/h3>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>*Goal* = device is easy to pick up and carry for anyone&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_criteriarequirements_5">&lt;a class="anchor" href="#_criteriarequirements_5">&lt;/a>&lt;a class="link" href="#_criteriarequirements_5">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device handles are comfortable to grasp&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>subjective assessment?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Handles are not too far apart&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>subjective assessment?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Handles are located such that the device weight can be properly supported&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>handles must be structural components&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Based on weight and size, determine if possible to carry with one person or if two will be needed&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Regulatory weight/size requirement?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_serviceability">&lt;a class="anchor" href="#_serviceability">&lt;/a>&lt;a class="link" href="#_serviceability">Serviceability&lt;/a>&lt;/h3>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>*Goal* = Device is easily serviceable by medical staff.&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_criteriarequirements_6">&lt;a class="anchor" href="#_criteriarequirements_6">&lt;/a>&lt;a class="link" href="#_criteriarequirements_6">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Interior of device is easy to access&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>*specify number of steps required to access internals&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>*specify tools required to access internals&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Ease to clean surfaces and/or parts&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>*specify number of steps required to clean each component (including removal and reinstallation if needed)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>determine device materials compatibility with various cleaning methods/solvents?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device has readily available replacement parts/components&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>The internal clearances for components are reasonable for device servicing&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>ability to remove any one part and install a new one without removing other components)?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>*specify clearances between components&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Provide functional/dynamic [analog] feedback that components are correctly assembled/replaced?&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_durability_and_robustness">&lt;a class="anchor" href="#_durability_and_robustness">&lt;/a>&lt;a class="link" href="#_durability_and_robustness">Durability and robustness&lt;/a>&lt;/h3>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>*Goal* = Ensure the device will maintain functionality under normal conditions for a reasonable amount of time before service/maintenance is required.&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect3">
+&lt;h4 id="_criteriarequirements_7">&lt;a class="anchor" href="#_criteriarequirements_7">&lt;/a>&lt;a class="link" href="#_criteriarequirements_7">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device display is secure and will not dislodge under normal stationary use (including periodic touch presses)&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specify number of hours of use?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>The tubing connections and component complexes are secure such that they do not move significantly, nor decouple when device experiences standard use (without moving)&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>specify the number of connect/disconnects before maintenance is required?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device can withstand a drop from some height and remain functional&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>*specify drop height and/or angle&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>*specify drop with or without electronic components&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device can withstand cleaning and/or light splashes&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>IPx rating?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Materials solvent compatibility?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>Device does not have ingress for airborne particulates to enter the housing.&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>IPx rating?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>When device is used, carried, or leaned on, the panels do not flex in such a way that impeades any of the devices functionality, damages components, or causes any detrimental outcomes.&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>*determine specifications and appropriate testing&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="quoteblock">
+&lt;blockquote>
+&lt;div class="paragraph">
+&lt;p>No internal build up of heat&lt;/p>
+&lt;/div>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>determine max internal temperature of fully loaded device [provide heat control as required]&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div></description></item></channel></rss>
