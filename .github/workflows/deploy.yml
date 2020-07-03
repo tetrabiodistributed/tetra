@@ -17,12 +17,10 @@ jobs:
       - name: Update submodules
         uses: srt32/git-actions@v0.0.3
         with:
-          args: git submodule update --remote --merge
-
-      - run: npm ci
+          args: git submodule update --init --recursive
 
       - name: Build
-        run: docker run --rm --volume $PWD:/src -w "/src" bwklein/hugo-asciidoctor ./build.sh
+        run: bash build.sh
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
