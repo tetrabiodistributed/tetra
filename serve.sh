@@ -1,4 +1,3 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
-export PATH="$PWD/bin:$PATH"
-hugo --minify && hugo serve --bind=0.0.0.0 --buildDrafts --disableFastRender
+docker run --rm --volume $PWD:/src -p 1313:1313 -w "/src" hugo-asciidoctor-plantuml:Dockerfile bash -c "hugo serve --bind=0.0.0.0 --buildDrafts --disableFastRender --destination public"

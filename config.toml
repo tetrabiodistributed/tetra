@@ -1,6 +1,6 @@
 baseURL = "https://tetrabiodistributed.github.io/project-tetra-docs"
 title = "Project Tetra"
-canonifyURLs = true
+canonifyURLs = false
 
 enableRobotsTXT = true
 
@@ -77,6 +77,10 @@ languageName ="Spanish"
 contentDir = "content/es"
 
 [markup]
+  [markup.asciidocext]
+    extensions = ["asciidoctor-diagram"]
+    workingFolderCurrent = true
+    trace = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
