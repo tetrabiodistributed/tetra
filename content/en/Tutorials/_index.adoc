@@ -15,3 +15,8 @@ Tutorials are *complete worked examples* made up of *multiple tasks* that guide 
 If you have already created some Examples for your project you can base Tutorials on them.
 This section is *optional*.
 However, remember that although you may not need this section at first, having tutorials can be useful to help your users engage with your example code, especially if there are aspects that need more explanation than you can easily provide in code comments.
+
+== Assembly Instructions Part 1 ==
+Get all the parts from John, etc.
+Enclosure:
+image::IMG_20200714_203705.jpg[]
