@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Tetra – References</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/</link><description>Recent content in References on Project Tetra</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/project-tetra-docs/references/index.xml" rel="self" type="application/rss+xml"/><item><title>References: Electronic sensing system</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/circuit_schematic/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/references/circuit_schematic/</guid><description>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="https://tetrabiodistributed.github.io/project-tetra-docs/images/circuit_schematic.svg" alt="circuit schematic" width="1925" height="831">
+&lt;img src="circuit_schematic.svg" alt="circuit schematic" width="1929" height="831">
 &lt;/div>
-&lt;/div></description></item><item><title>References: Hardware Requirements Outline</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/hardware-requirements-outline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/references/hardware-requirements-outline/</guid><description>
+&lt;/div></description></item><item><title>References: Hardware Requirements Outline</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/references/hardware_requirements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/references/hardware_requirements/</guid><description>
 &lt;div class="sect1">
-&lt;h2 id="_section_formatting">&lt;a class="anchor" href="#_section_formatting">&lt;/a>&lt;a class="link" href="#_section_formatting">Section formatting&lt;/a>&lt;/h2>
+&lt;h2 id="_section_formatting">Section formatting&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="sect2">
-&lt;h3 id="_name_of_requirement_domain">&lt;a class="anchor" href="#_name_of_requirement_domain">&lt;/a>&lt;a class="link" href="#_name_of_requirement_domain">Name of requirement domain&lt;/a>&lt;/h3>
+&lt;h3 id="_name_of_requirement_domain">Name of requirement domain&lt;/h3>
 &lt;div class="literalblock">
 &lt;div class="content">
 &lt;pre>*Goal* = Aim that the below items seek to address/provide&lt;/pre>
@@ -38,7 +38,7 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="sect1">
-&lt;h2 id="_overall_device_requirementscriteria">&lt;a class="anchor" href="#_overall_device_requirementscriteria">&lt;/a>&lt;a class="link" href="#_overall_device_requirementscriteria">Overall device requirements/criteria:&lt;/a>&lt;/h2>
+&lt;h2 id="_overall_device_requirementscriteria">Overall device requirements/criteria:&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="literalblock">
 &lt;div class="content">
@@ -46,14 +46,14 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_functional">&lt;a class="anchor" href="#_functional">&lt;/a>&lt;a class="link" href="#_functional">Functional&lt;/a>&lt;/h3>
+&lt;h3 id="_functional">Functional&lt;/h3>
 &lt;div class="literalblock">
 &lt;div class="content">
 &lt;pre>*Goal* = Provide adequate splitting of a single ventilator for up to four (4) simultaneous patients.&lt;/pre>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect3">
-&lt;h4 id="_criteriarequirements">&lt;a class="anchor" href="#_criteriarequirements">&lt;/a>&lt;a class="link" href="#_criteriarequirements">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;h4 id="_criteriarequirements">Criteria/requirements&lt;/h4>
 &lt;div class="quoteblock">
 &lt;blockquote>
 &lt;div class="paragraph">
@@ -197,14 +197,14 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_useability">&lt;a class="anchor" href="#_useability">&lt;/a>&lt;a class="link" href="#_useability">Useability&lt;/a>&lt;/h3>
+&lt;h3 id="_useability">Useability&lt;/h3>
 &lt;div class="literalblock">
 &lt;div class="content">
 &lt;pre>*Goal* = Device is easy and comfortable to use by as many medical professionals as possible.&lt;/pre>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect3">
-&lt;h4 id="_criteriarequirements_2">&lt;a class="anchor" href="#_criteriarequirements_2">&lt;/a>&lt;a class="link" href="#_criteriarequirements_2">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;h4 id="_criteriarequirements_2">Criteria/requirements&lt;/h4>
 &lt;div class="quoteblock">
 &lt;blockquote>
 &lt;div class="paragraph">
@@ -351,14 +351,14 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_appearance">&lt;a class="anchor" href="#_appearance">&lt;/a>&lt;a class="link" href="#_appearance">Appearance&lt;/a>&lt;/h3>
+&lt;h3 id="_appearance">Appearance&lt;/h3>
 &lt;div class="literalblock">
 &lt;div class="content">
 &lt;pre>*Goal* = Device has an appropriate form and look for a medical setting&lt;/pre>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect3">
-&lt;h4 id="_criteriarequirements_3">&lt;a class="anchor" href="#_criteriarequirements_3">&lt;/a>&lt;a class="link" href="#_criteriarequirements_3">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;h4 id="_criteriarequirements_3">Criteria/requirements&lt;/h4>
 &lt;div class="quoteblock">
 &lt;blockquote>
 &lt;div class="paragraph">
@@ -395,14 +395,14 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_internal_balance">&lt;a class="anchor" href="#_internal_balance">&lt;/a>&lt;a class="link" href="#_internal_balance">Internal balance&lt;/a>&lt;/h3>
+&lt;h3 id="_internal_balance">Internal balance&lt;/h3>
 &lt;div class="literalblock">
 &lt;div class="content">
 &lt;pre>*Goal* = Device weight distribution is mostly even, so it does not tip/fall over when carried.&lt;/pre>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect3">
-&lt;h4 id="_criteriarequirements_4">&lt;a class="anchor" href="#_criteriarequirements_4">&lt;/a>&lt;a class="link" href="#_criteriarequirements_4">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;h4 id="_criteriarequirements_4">Criteria/requirements&lt;/h4>
 &lt;div class="quoteblock">
 &lt;blockquote>
 &lt;div class="paragraph">
@@ -443,14 +443,14 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_handle_placement">&lt;a class="anchor" href="#_handle_placement">&lt;/a>&lt;a class="link" href="#_handle_placement">Handle placement&lt;/a>&lt;/h3>
+&lt;h3 id="_handle_placement">Handle placement&lt;/h3>
 &lt;div class="literalblock">
 &lt;div class="content">
 &lt;pre>*Goal* = device is easy to pick up and carry for anyone&lt;/pre>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect3">
-&lt;h4 id="_criteriarequirements_5">&lt;a class="anchor" href="#_criteriarequirements_5">&lt;/a>&lt;a class="link" href="#_criteriarequirements_5">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;h4 id="_criteriarequirements_5">Criteria/requirements&lt;/h4>
 &lt;div class="quoteblock">
 &lt;blockquote>
 &lt;div class="paragraph">
@@ -515,14 +515,14 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_serviceability">&lt;a class="anchor" href="#_serviceability">&lt;/a>&lt;a class="link" href="#_serviceability">Serviceability&lt;/a>&lt;/h3>
+&lt;h3 id="_serviceability">Serviceability&lt;/h3>
 &lt;div class="literalblock">
 &lt;div class="content">
 &lt;pre>*Goal* = Device is easily serviceable by medical staff.&lt;/pre>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect3">
-&lt;h4 id="_criteriarequirements_6">&lt;a class="anchor" href="#_criteriarequirements_6">&lt;/a>&lt;a class="link" href="#_criteriarequirements_6">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;h4 id="_criteriarequirements_6">Criteria/requirements&lt;/h4>
 &lt;div class="quoteblock">
 &lt;blockquote>
 &lt;div class="paragraph">
@@ -596,14 +596,14 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="sect2">
-&lt;h3 id="_durability_and_robustness">&lt;a class="anchor" href="#_durability_and_robustness">&lt;/a>&lt;a class="link" href="#_durability_and_robustness">Durability and robustness&lt;/a>&lt;/h3>
+&lt;h3 id="_durability_and_robustness">Durability and robustness&lt;/h3>
 &lt;div class="literalblock">
 &lt;div class="content">
 &lt;pre>*Goal* = Ensure the device will maintain functionality under normal conditions for a reasonable amount of time before service/maintenance is required.&lt;/pre>
 &lt;/div>
 &lt;/div>
 &lt;div class="sect3">
-&lt;h4 id="_criteriarequirements_7">&lt;a class="anchor" href="#_criteriarequirements_7">&lt;/a>&lt;a class="link" href="#_criteriarequirements_7">Criteria/requirements&lt;/a>&lt;/h4>
+&lt;h4 id="_criteriarequirements_7">Criteria/requirements&lt;/h4>
 &lt;div class="quoteblock">
 &lt;blockquote>
 &lt;div class="paragraph">

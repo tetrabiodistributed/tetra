@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="831px" preserveAspectRatio="none" style="width:1929px;height:831px;" version="1.1" viewBox="0 0 1929 831" width="1929px" zoomAndPan="magnify"><defs><filter height="300%" id="f70xbqka1xfac" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[231e41c115a9d5657f14026a7acfbcd1]
+cluster ibd [System] Electronic Sensing System [Power and Data Flow]--><rect fill="#FFFFFF" filter="url(#f70xbqka1xfac)" height="796" style="stroke: #000000; stroke-width: 1.5;" width="1896" x="22" y="24"/><path d="M529,25 L529,33.2969 L519,43.2969 L22,43.2969 " fill="none" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="497" x="25" y="37.9951">ibd [System] Electronic Sensing System [Power and Data Flow]</text><!--MD5=[69baca66d633bee4663b6b022bf4ea4f]
+cluster Power System--><rect fill="#FFFFFF" filter="url(#f70xbqka1xfac)" height="105" style="stroke: #000000; stroke-width: 1.5;" width="528.5" x="653" y="67"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="114" x="860.25" y="81.9951">Power System</text><!--MD5=[a62a56b87ab40b314025e74aa2de1504]
+cluster PresSens--><rect fill="#FFFFFF" filter="url(#f70xbqka1xfac)" height="168" style="stroke: #000000; stroke-width: 1.5;" width="596" x="237.5" y="220"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="203" x="434" y="234.9951">Pressure Sensing System</text><!--MD5=[62a9b3e1f06d7093c23d82dfa31bf6bd]
+cluster Open--><rect fill="#FFFFFF" filter="url(#f70xbqka1xfac)" height="168" style="stroke: #000000; stroke-width: 1.5;" width="1006" x="197" y="604"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="277" x="561.5" y="618.9951">Open-Source Flow Sensing System</text><!--MD5=[8ca44ef63c47614dc7e20c7803ace7f6]
+cluster FDA--><rect fill="#FFFFFF" filter="url(#f70xbqka1xfac)" height="168" style="stroke: #000000; stroke-width: 1.5;" width="984" x="204" y="412"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="287" x="552.5" y="426.9951">FDA-Approved Flow Sensing System</text><!--MD5=[7ac5496373f27f81cf75c14fdf13b2e5]
+cluster Clinical Feedback--><rect fill="#FFFFFF" filter="url(#f70xbqka1xfac)" height="425" style="stroke: #000000; stroke-width: 1.5;" width="212" x="1537" y="142"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="136" x="1575" y="156.9951">Clinical Feedback</text><!--MD5=[9c57b27997a76b2ab9c61836d6d898c8]
+entity Pi--><rect fill="#FEFECE" filter="url(#f70xbqka1xfac)" height="52.5938" style="stroke: #A80036; stroke-width: 1.5;" width="140" x="1312" y="337.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1307" y="342.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="1307" y="380.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="120" x="1322" y="360.4951">«Microcontroller»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="1326" y="376.792">Raspberry Pi B+</text><!--MD5=[3ebe3fc39788d9586b6a788237dafbe0]
+entity WO--><ellipse cx="331.5" cy="129" fill="#FEFECE" filter="url(#f70xbqka1xfac)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="73" x="295" y="158.9951">Wall Outlet</text><!--MD5=[f138531b5c7ec98bcba2d29a7db668a7]
+entity Doc--><ellipse cx="1868" cy="340.7969" fill="#FEFECE" filter="url(#f70xbqka1xfac)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M1868,348.7969 L1868,375.7969 M1855,356.7969 L1881,356.7969 M1868,375.7969 L1855,390.7969 M1868,375.7969 L1881,390.7969 " fill="none" filter="url(#f70xbqka1xfac)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="1840" y="409.292">Clinician</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="68" x="1834" y="327.9951">«Human»</text><!--MD5=[4dc362a4069dbfa4117156f162731ce6]
+entity Pat--><ellipse cx="72" cy="452.7969" fill="#FEFECE" filter="url(#f70xbqka1xfac)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M72,460.7969 L72,487.7969 M59,468.7969 L85,468.7969 M72,487.7969 L59,502.7969 M72,487.7969 L85,502.7969 " fill="none" filter="url(#f70xbqka1xfac)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48" x="48" y="521.292">Patient</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="68" x="38" y="439.9951">«Human»</text><!--MD5=[3731d842061e492f7914f1cd8c71dbe9]
+entity VR--><rect fill="#FEFECE" filter="url(#f70xbqka1xfac)" height="52.5938" style="stroke: #A80036; stroke-width: 1.5;" width="162" x="1003.5" y="102.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="998.5" y="107.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="998.5" y="145.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="142" x="1013.5" y="125.4951">«Voltage Regulator»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="78" x="1045.5" y="141.792">LM259SX-5</text><!--MD5=[e4aaec21de269c7bd285ce6876c0ce8e]
+entity PJ--><rect fill="#FEFECE" filter="url(#f70xbqka1xfac)" height="36.2969" style="stroke: #A80036; stroke-width: 1.5;" width="94" x="669" y="111"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="664" y="116"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="664" y="137.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="679" y="133.9951">Power Jack</text><!--MD5=[95a3782a1e0b8f7d06e63642eb7624f3]
+entity Pres--><rect fill="#FEFECE" filter="url(#f70xbqka1xfac)" height="52.5938" style="stroke: #A80036; stroke-width: 1.5;" width="156" x="253.5" y="277.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="248.5" y="282.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="248.5" y="320.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="136" x="263.5" y="300.4951">«Pressure Sensors»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="113" x="275" y="316.792">SPL06 - 007 (x5)</text><!--MD5=[d90744675e3b737dad790a8684596ff6]
+entity MUX1--><rect fill="#FEFECE" filter="url(#f70xbqka1xfac)" height="52.5938" style="stroke: #A80036; stroke-width: 1.5;" width="203" x="614.5" y="274.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="609.5" y="279.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="609.5" y="317.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="183" x="624.5" y="297.4951">«I2C Pressure Multiplexer»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="73" x="679.5" y="313.792">TCA9548A</text><!--MD5=[b2772bca14f4f0ded085b55f270cbaf2]
+entity AAS--><rect fill="#FEFECE" filter="url(#f70xbqka1xfac)" height="52.5938" style="stroke: #A80036; stroke-width: 1.5;" width="237" x="213" y="640.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="208" y="645.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="208" y="683.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="131" x="266" y="663.4951">«Generic Sensors»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="217" x="223" y="679.792">Automotive Airflow Sensors (x4)</text><!--MD5=[42811681d3549880614161e8bda90a35]
+entity ADC--><rect fill="#FEFECE" filter="url(#f70xbqka1xfac)" height="52.5938" style="stroke: #A80036; stroke-width: 1.5;" width="205" x="982" y="639.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="977" y="644.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="977" y="682.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="185" x="992" y="662.4951">«Analog Digital Converter»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="73" x="1048" y="678.792">TCA9548A</text><!--MD5=[c9ddee325b7b7bec99cd3de9fa4af928]
+entity ACon--><ellipse cx="716" cy="668" fill="#FEFECE" filter="url(#f70xbqka1xfac)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="241" x="595.5" y="697.9951">Automotive Airflow Connectors (x4)</text><!--MD5=[5c7c32375199ad5dc7dce2aeef312364]
+entity Sens--><rect fill="#FEFECE" filter="url(#f70xbqka1xfac)" height="52.5938" style="stroke: #A80036; stroke-width: 1.5;" width="223" x="220" y="449.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="215" y="454.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="215" y="492.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="140" x="261.5" y="472.4951">«Sensirion Sensors»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="203" x="230" y="488.792">Sensirion Airflow Sensors (x4)</text><!--MD5=[e1af7d7aa319dee8443b1a74aa762d84]
+entity MUX2--><rect fill="#FEFECE" filter="url(#f70xbqka1xfac)" height="52.5938" style="stroke: #A80036; stroke-width: 1.5;" width="175" x="997" y="447.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="992" y="452.5"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="992" y="490.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="155" x="1007" y="470.4951">«I2C Flow Multiplexer»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="73" x="1048" y="486.792">TCA9548A</text><!--MD5=[719972010eb4348acdf85e57300ab58a]
+entity SCon--><ellipse cx="716" cy="476" fill="#FEFECE" filter="url(#f70xbqka1xfac)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="227" x="602.5" y="505.9951">Sensirion Airflow Connectors (x4)</text><!--MD5=[70d610b3ca277a70fbee293757a13e46]
+entity Display--><ellipse cx="1643" cy="522" fill="#FEFECE" filter="url(#f70xbqka1xfac)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="165" x="1560.5" y="551.9951">Raspberry Pi B+ Display</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="67" x="1609.5" y="501.6982">«Display»</text><!--MD5=[6501f345ffec8c404045b662ce434929]
+entity LED--><ellipse cx="1643" cy="364" fill="#FEFECE" filter="url(#f70xbqka1xfac)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="128" x="1579" y="393.9951">Indicator LEDs (x8)</text><!--MD5=[9861b719929120b3c1394e9627ae51af]
+entity Aud--><ellipse cx="1643" cy="206" fill="#FEFECE" filter="url(#f70xbqka1xfac)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="81" x="1602.5" y="235.9951">Audio Alarm</text><!--MD5=[65dce5911937bb9e61dbf35816f99151]
+link WO to PJ--><path d="M340.84,129 C382.72,129 571.55,129 663.87,129 " fill="none" id="WO-&gt;PJ" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="669,129,660,125,664,129,660,133,669,129" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c716c3c8091a5e10deff367933687a7b]
+link PJ to VR--><path d="M763.05,129 C821.81,129 924.62,129 997.95,129 " fill="none" id="PJ-&gt;VR" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1003.17,129,994.17,125,998.17,129,994.17,133,1003.17,129" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[23e8353a21e5356663650aad2400a8f3]
+link VR to Pi--><path d="M1165.79,133.85 C1189.51,138.16 1214.56,145.76 1235,159 C1301.47,202.07 1347.01,286.94 1367.93,332.81 " fill="none" id="VR-&gt;Pi" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1370,337.39,1369.9429,327.5413,1367.9428,332.8328,1362.6513,330.8328,1370,337.39" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="17" x="1244" y="163.0669">5V</text><!--MD5=[22372af9dee4c8298be32aa218ea21b1]
+link Pres to MUX1--><path d="M409.9,303.39 C468.84,302.93 550.47,302.29 614.46,301.79 " fill="none" id="Pres-MUX1" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="36" x="501" y="299.0669">«I2C»</text><!--MD5=[e08ab81de073eba21edf8b2736bacb82]
+link AAS to ACon--><path d="M450.12,667.31 C547.17,667.56 674.06,667.89 706.94,667.98 " fill="none" id="AAS-ACon" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[bb2bd11a8d954ad14b80421001a43b7b]
+link ACon to ADC--><path d="M725.34,667.95 C759.12,667.77 888.37,667.06 981.92,666.55 " fill="none" id="ACon-ADC" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="36" x="895" y="663.0669">«SPI»</text><!--MD5=[61ab6338072ce9ff550fc55ee64a7ab8]
+link Sens to SCon--><path d="M443.13,476 C540.66,476 672.41,476 706.61,476 " fill="none" id="Sens-SCon" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[78056703e8174c9cca573dfb11f98e03]
+link SCon to MUX2--><path d="M725.34,475.95 C760.93,475.76 902.5,474.99 996.64,474.47 " fill="none" id="SCon-MUX2" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="36" x="895" y="471.0669">«I2C»</text><!--MD5=[3c23a70da753dd75fb8d4d6761c86d97]
+link Pat to Sens--><path d="M106.14,476 C133.83,476 175.03,476 214.6,476 " fill="none" id="Pat-&gt;Sens" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="219.92,476,210.92,472,214.92,476,210.92,480,219.92,476" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[185906c24e0a518f124d186f8670d115]
+link Pat to Pres--><path d="M106.18,453.56 C123.66,441.76 145.47,427.07 165,414 C205.88,386.64 252.57,355.63 285.91,333.52 " fill="none" id="Pat-&gt;Pres" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="290.32,330.6,280.6088,332.241,286.1532,333.3636,285.0305,338.9079,290.32,330.6" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[44f6d33cb73da69227f8185c8079f1fd]
+link Pat to AAS--><path d="M101.73,525.12 C117.85,549.31 139.78,577.41 165,597 C187.03,614.12 213.87,627.82 239.47,638.4 " fill="none" id="Pat-&gt;AAS" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="244.23,640.34,237.4044,633.24,239.5995,638.4535,234.386,640.6487,244.23,640.34" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[cb73ff80b30a12b195a6ecf83b7978e3]
+link MUX2 to Pi--><path d="M1172.08,460.51 C1193.01,456.03 1215.08,450.28 1235,443 C1270.2,430.14 1307.32,409.96 1335.31,393.22 " fill="none" id="MUX2-&gt;Pi" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1339.73,390.56,1329.9575,391.7844,1335.4488,393.143,1334.0903,398.6343,1339.73,390.56" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5bdbcbba173b9ec474037f78d5d91eef]
+link ADC to Pi--><path d="M1165.1,639.4 C1189.31,628.77 1214.83,614.75 1235,597 C1300.82,539.07 1347.36,444.31 1368.39,395.4 " fill="none" id="ADC-&gt;Pi" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1370.47,390.53,1363.2658,397.2456,1368.5125,395.1309,1370.6272,400.3776,1370.47,390.53" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2771e83feda2140352d7d427dcaade38]
+link MUX1 to Pi--><path d="M817.85,310.57 C952.26,323.32 1187.03,345.6 1306.53,356.93 " fill="none" id="MUX1-&gt;Pi" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1311.78,357.43,1303.1978,352.5982,1306.8023,356.958,1302.4426,360.5625,1311.78,357.43" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6004182150c6439132ca022b8248de39]
+link Pi to LED--><path d="M1452.07,364 C1512.98,364 1596.89,364 1628.89,364 " fill="none" id="Pi-&gt;LED" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1633.9,364,1624.9,360,1628.9,364,1624.9,368,1633.9,364" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[b502c9f6e3f7524c28b66397a476938f]
+link Pi to Aud--><path d="M1426.64,337.38 C1487.07,300.51 1592.91,235.95 1629.29,213.75 " fill="none" id="Pi-&gt;Aud" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1633.76,211.03,1623.9943,212.3073,1629.4929,213.6361,1628.1641,219.1347,1633.76,211.03" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f070feb7113c8a0843c594b82e9f6fc8]
+link Pi to Display--><path d="M1426.64,390.62 C1487.07,427.49 1592.91,492.05 1629.29,514.25 " fill="none" id="Pi-&gt;Display" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1633.76,516.97,1628.1641,508.8653,1629.4929,514.3639,1623.9943,515.6927,1633.76,516.97" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[84f02cc4c1757ad94a01989ca050c281]
+link LED to Doc--><path d="M1652.2,364 C1680.44,364 1774.88,364 1828.66,364 " fill="none" id="LED-&gt;Doc" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1833.73,364,1824.73,360,1828.73,364,1824.73,368,1833.73,364" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[73e0db9a52f44b07d4a85d535efbea00]
+link Aud to Doc--><path d="M1652.25,211.71 C1670.94,224.67 1717.94,257.32 1757,285 C1781.28,302.2 1808.44,321.71 1829.69,337.03 " fill="none" id="Aud-&gt;Doc" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1833.86,340.04,1828.8839,331.5407,1829.7991,337.123,1824.2167,338.0381,1833.86,340.04" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[408dee324a96c85004691f3f8f8e9a65]
+link Display to Doc--><path d="M1652.25,516.29 C1670.94,503.33 1717.94,470.68 1757,443 C1781.28,425.8 1808.44,406.29 1829.69,390.97 " fill="none" id="Display-&gt;Doc" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1833.86,387.96,1824.2167,389.9619,1829.7991,390.877,1828.8839,396.4593,1833.86,387.96" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[3f25ede50ada78b0cb7a475027069e5d]
+@startuml
+left to right direction
+skinparam nodesep 100
+skinparam ranksep 100
+frame "ibd [System] Electronic Sensing System [Power and Data Flow]" {
+  [Raspberry Pi B+] <<Microcontroller>> as [Pi]
+  () "Wall Outlet" as WO
+
+  rectangle "Power System" {
+    [LM259SX-5] <<Voltage Regulator>> as [VR]
+    [Power Jack] as PJ
+    WO ..> PJ
+    PJ ..> VR
+    VR ..> Pi: 5V
+  }
+
+  together {
+    rectangle "Pressure Sensing System" as PresSens{
+      [SPL06 - 007 (x5)] <<Pressure Sensors>> as Pres
+      [TCA9548A] <<I2C Pressure Multiplexer>> as [MUX1]
+      Pres .. MUX1: <<I2C>>
+    }
+
+    rectangle "Open-Source Flow Sensing System"  as Open{
+      [Automotive Airflow Sensors (x4)] <<Generic Sensors>> as AAS
+      [TCA9548A] <<Analog Digital Converter>> as [ADC]
+      () "Automotive Airflow Connectors (x4)" as ACon
+      AAS - - ACon
+      ACon .. ADC: <<SPI>>
+    }
+
+    rectangle "FDA-Approved Flow Sensing System"  as FDA{
+      [Sensirion Airflow Sensors (x4)] <<Sensirion Sensors>> as Sens
+      [TCA9548A] <<I2C Flow Multiplexer>> as [MUX2]
+      () "Sensirion Airflow Connectors (x4)" as SCon
+      Sens - - SCon
+      SCon .. MUX2: <<I2C>>
+    }
+  }
+
+
+  "Clinician" <<Human>> as Doc
+  "Patient" <<Human>> as Pat
+
+  Pat ..> Sens
+  Pat ..> Pres
+  Pat ..> AAS
+
+
+  MUX2 ..> Pi
+  ADC  ..> Pi
+  MUX1 ..> Pi
+
+  rectangle "Clinical Feedback" {
+      () "Raspberry Pi B+ Display" <<Display>> as Display
+      () "Indicator LEDs (x8)" as LED
+      () "Audio Alarm"  as Aud
+  }
+
+  Pi ..> LED
+  Pi ..> Aud
+  Pi ..> Display
+
+  LED ..> Doc
+  Aud ..> Doc
+  Display ..> Doc
+}
+@enduml
+
+PlantUML version 1.2020.06(Sun Apr 05 07:38:32 CDT 2020)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.7+10-post-Ubuntu-3ubuntu1
+Operating System: Linux
+Default Encoding: ANSI_X3.4-1968
+Language: en
+Country: US
+--></g></svg>
