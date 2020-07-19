@@ -11,50 +11,5 @@ description: >
 These guidelines assume that you're familiar with the GitHub workflow.
 {{% /pageinfo %}}
 
-We use a https://www.writethedocs.org/videos/portland/2019/lessons-learned-in-a-year-of-docs-driven-development-jessica-parsons/[docs-driven development] approach, using the GitHub workflow, to facilitate configuration management for Project Tetra. The documentation for this project is maintained in the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo] with the project source code maintained in the https://github.com/helpfulengineering/project-tetra[Project Tetra repo].
+The following pages are a work-in-progress and intended for internal use by the Project Tetra team.
 
-== How to make changes to a design
-
-. Create a new working branch, or checkout an existing branch, in the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo]. The branch name should describe the feature or component to be changed or implemented, e.g., `tricoder-with-touchscreen`.
-. Write or update the appropriate documentation files (i.e., link:../../tutorials[Tutorials], link:../../how-to-guides[How-To Guides], link:../../explanations[Explanations], and/or link:../../references[References]) relevant to the design changes to be made. (See <<#_how_to_write_good_documentation, How to write good documentation>>)
-. Commit the documentation changes to your working branch in the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo].
-. Create a new working branch, or checkout an existing branch, in the https://github.com/helpfulengineering/project-tetra[Project Tetra repo]. The branch name should describe the feature or component to be changed or implemented, e.g., `tricoder-with-touchscreen`.
-. Implement the design changes in the appropriate design files (e.g., STEP files, drawings, STL's, and/or code). Simultaneously, update the documentation as need be in your working branch on the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo].
-. Once satisfied with the design changes, update the P/N Registry and CHANGELOG. (See <<_how_to_document_a_part_number_release_hardware, How to document a part number release>> and <<_how_to_document_a_version_release_software, How to document a version release>>)
-. Commit the design changes to your working branch in the https://github.com/helpfulengineering/project-tetra[Project Tetra repo].
-. Create a pull request for your working branches in the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo] and https://github.com/helpfulengineering/project-tetra[Project Tetra repo] to be merged into their respective main branch.
-
-== How to write good documentation
-
-There are four types of documentation: https://documentation.divio.com/tutorials[Tutorials], https://documentation.divio.com/how-to-guides/[How-To Guides], https://documentation.divio.com/reference/[References], and https://documentation.divio.com/explanation/#[Explanations].
-Consult the https://documentation.divio.com/[The Documentation System] for:
-
-* https://documentation.divio.com/tutorials/#how-to-write-good-tutorials[How to write good tutorials]
-* https://documentation.divio.com/how-to-guides/#how-to-write-good-how-to-guides[How to write good how-to guides]
-* https://documentation.divio.com/reference/#how-to-write-good-reference-guides[How to write good reference guides]
-* https://documentation.divio.com/explanation/#how-to-write-good-explanation[How to write good explanation]
-
-== How to document a part number release (hardware)
-
-Changes to a part number (P/N) should be made in the P/N Registry file, located in the root directory of the https://github.com/helpfulengineering/project-tetra[Project Tetra repo]. Part numbers should adopt the following naming convention: 
-
-  A-TET-ZZZZZZ-R = Assembly 
-      ZZZZZZ-R is Assembly Number & Revision
-  P-TET-ZZZZZZ-R = Part
-      ZZZZZZ-R is Part Number & Revision
-  M-YYY-ZZZZZ = Buy Part, M = Manufacturer, YYY = manufacturer code (ex, UNI = Unistrut)
-      ZZZZZ = Manufacturer part number
-  V-XXX-ZZZZZ = OTS part, V = Vendor, XXX = vendor code (ex, MCM = McMaster-Carr)
-      ZZZZ = Vendor part number
-
-Note: In the event there is a design change to an interface used in an existing part, it is recommended to designate an entirely new part number, as opposed to bumping its revision number.
-
-== How to document a version release (software)
-
-Changes to a software version (i.e., a software release) should be reflected in the CHANGELOG file, located in the root directory in the https://github.com/helpfulengineering/project-tetra[Project Tetra repo]. Software releases should also be https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository[tagged] and follow the https://semver.org/[semantic versioning] system. 
-
-== Useful resources
-
-* https://www.docsy.dev/docs/[Docsy user guide]: All about Docsy, including how it manages navigation, look and feel, and multi-language support.
-* https://gohugo.io/documentation/[Hugo documentation]: Comprehensive reference for Hugo.
-* https://guides.github.com/activities/hello-world/[Github Hello World!]: A basic introduction to GitHub concepts and workflow.

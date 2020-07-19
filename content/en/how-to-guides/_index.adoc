@@ -2,8 +2,7 @@
 ---
 title: "How-To Guides"
 linkTitle: "How-To Guides"
-weight: 6
-date: 2017-01-05
+weight: 3
 description: >
   How to use or contribute to the project.
 ---
