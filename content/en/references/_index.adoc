@@ -6,5 +6,3 @@ weight: 4
 description: >
   Technical documents relevant to the project.
 ---
-
-link:ibd-system-electronic-sensing-system-dataflow.adoc[Sensing System UML Diagram]

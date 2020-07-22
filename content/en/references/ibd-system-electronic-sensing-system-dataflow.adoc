@@ -1,9 +1,9 @@
 ---
-title: "Electronic sensing system"
-linkTitle: "Electronic sensing system"
+title: "Sensing System UML Diagram"
+linkTitle: "Sensing System UML Diagram"
 weight: 1
 description: >
-  UML diagram of electronic sensing system
+  UML diagram of Project Tetra's electronic sensing system.
 ---
 
 [plantuml, ibd-system-electronic-sensing-system-dataflow, svg]

@@ -1,0 +1,12 @@
+---
+title: "Splitter Assembly UML Diagram"
+linkTitle: "Splitter Assembly UML Diagram"
+weight: 1
+description: >
+  UML diagram of the Project Tetra splitter assembly.
+---
+
+[plantuml, ibd-system-ventilator-splitter-assembly-airflow, svg]
+....
+include::system_model/ibd-system-ventilator-splitter-assembly-airflow.puml[]
+....
