@@ -55,6 +55,11 @@ anchor = "smart"
     name = "Slack"
     weight = 50
     url = "https://app.slack.com/client/TUTSYURT3/C0103QJMA84"
+[[menu.main]]
+    name = "Donate"
+    weight = 50
+    url = "https://www.gofundme.com/"
+    # /\ Placeholder URL to update later
 
 [services]
 [services.googleAnalytics]
