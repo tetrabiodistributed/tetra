@@ -51,24 +51,25 @@ If you've just spotted something you'd like to change while using the docs, Docs
 You can run your own Hugo server using docker to preview the site locally:
 
 . Install https://www.docker.com/[docker].
-. Fork the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo], then create a local copy using `git clone`. Don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site.
+. Clone the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo]. Don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site.
 +
 [source,bash]
 ----
-git clone --recurse-submodules https://github.com/<your_github_username>/project-tetra-docs.git
+git clone --recurse-submodules https://github.com/tetrabiodistributed/project-tetra-docs.git
 cd project-tetra-docs
 ----
+Note: If you accidentally cloned without using `--recurse-submodules`, you can run `git submodule update --init --recursive` to pull down submodules needed to generate a working site.
 . Run the `build.sh` script in the site root directory (Note: Linux users may need to prepend this command `sudo`). This will build a docker image, as well as install node modules, needed to locally run the `project-tetra-docs` Hugo webserver. Once the image is built and stored on your machine, you do not need to rerun this step. You can view all locally installed images by running `docker images`.
 +
 [source,bash]
 ----
-bash build.sh
+./build.sh
 ----
 . Run the `serve.sh` script in the site root directory (Note: Linux users may need to prepend this command `sudo`). By default, your site will be available at `+http://localhost:1313/project-tetra-docs+`.
 +
 [source,bash]
 ----
-bash serve.sh
+./serve.sh
 ----
 . Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
 
