@@ -2,8 +2,7 @@
 ---
 title: "Tutorials"
 linkTitle: "Tutorials"
-weight: 8
-date: 2017-01-04
+weight: 2
 description: >
   Assembly, build, and testing instructions through end-to-end examples.
 ---

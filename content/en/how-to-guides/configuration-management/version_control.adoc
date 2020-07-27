@@ -1,0 +1,28 @@
+
+---
+title: "Version Control"
+linkTitle: "Version Control"
+weight: 30
+description: >
+  Version control guidelines
+---
+
+== How to document a part number release ==
+
+Part numbers for CAD, STL, & drawings should adopt the following naming convention: 
+
+  A-TET-ZZZZZZ-R = Assembly 
+      ZZZZZZ-R is Assembly Number & Revision
+  P-TET-ZZZZZZ-R = Part
+      ZZZZZZ-R is Part Number & Revision
+  M-YYY-ZZZZZ = Buy Part, M = Manufacturer, YYY = manufacturer code (ex, UNI = Unistrut)
+      ZZZZZ = Manufacturer part number
+  V-XXX-ZZZZZ = OTS part, V = Vendor, XXX = vendor code (ex, MCM = McMaster-Carr)
+      ZZZZ = Vendor part number
+
+Note: In the event there is a design change to an interface used in an existing part, it is recommended to designate an entirely new part number, as opposed to bumping its revision number.
+
+== How to document a version release ==
+
+Changes to a software version (i.e., a software release) should be reflected in the CHANGELOG file, located in the root directory in the https://github.com/tetrabiodistributed/project-tetra[Project Tetra repo]. Software releases should also be https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository[tagged] and follow the https://semver.org/[semantic versioning] system. 
+

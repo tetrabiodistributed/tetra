@@ -1,0 +1,21 @@
+
+---
+title: "Writing Documentation"
+linkTitle: "Writing Documentation"
+weight: 10
+description: >
+  Documentation methodology & how to write good documentation
+---
+
+We use a https://www.writethedocs.org/guide/docs-as-code/[Docs as Code] and https://www.writethedocs.org/videos/portland/2019/lessons-learned-in-a-year-of-docs-driven-development-jessica-parsons/[Docs-Driven Development] (i.e., __Document first, then implement what you documented__) approach, using the GitHub workflow, to facilitate documentation for Project Tetra. The documentation for this project is maintained in the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo] with the project source code maintained in the https://github.com/tetrabiodistributed/project-tetra[Project Tetra repo].
+
+== How to write good documentation ==
+
+There are four types of documentation: https://documentation.divio.com/tutorials[Tutorials], https://documentation.divio.com/how-to-guides/[How-To Guides], https://documentation.divio.com/reference/[References], and https://documentation.divio.com/explanation/#[Explanations].
+Consult the https://documentation.divio.com/[The Documentation System] for:
+
+* https://documentation.divio.com/tutorials/#how-to-write-good-tutorials[How to write good tutorials]
+* https://documentation.divio.com/how-to-guides/#how-to-write-good-how-to-guides[How to write good how-to guides]
+* https://documentation.divio.com/reference/#how-to-write-good-reference-guides[How to write good reference guides]
+* https://documentation.divio.com/explanation/#how-to-write-good-explanation[How to write good explanation]
+
