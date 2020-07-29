@@ -1,6 +1,6 @@
 ---
-title: "Splitter Assembly UML Diagram"
-linkTitle: "Splitter Assembly UML Diagram"
+title: "Splitter Assembly"
+linkTitle: "Splitter Assembly"
 weight: 1
 description: >
   Interface control document for ventilator splitter assembly.
