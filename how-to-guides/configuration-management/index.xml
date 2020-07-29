@@ -1,1 +1,175 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Tetra – Configuration Management</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/</link><description>Recent content in Configuration Management on Project Tetra</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Tetra – Configuration Management</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/</link><description>Recent content in Configuration Management on Project Tetra</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/index.xml" rel="self" type="application/rss+xml"/><item><title>How-to-Guides: Writing Documentation</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/documentation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/documentation/</guid><description>
+&lt;div class="paragraph">
+&lt;p>We use a &lt;a href="https://www.writethedocs.org/guide/docs-as-code/">Docs as Code&lt;/a> and &lt;a href="https://www.writethedocs.org/videos/portland/2019/lessons-learned-in-a-year-of-docs-driven-development-jessica-parsons/">Docs-Driven Development&lt;/a> (i.e., &lt;em>Document first, then implement what you documented&lt;/em>) approach, using the GitHub workflow, to facilitate documentation for Project Tetra. The documentation for this project is maintained in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a> with the project source code maintained in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra">Project Tetra repo&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_how_to_write_good_documentation">How to write good documentation&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>There are four types of documentation: &lt;a href="https://documentation.divio.com/tutorials">Tutorials&lt;/a>, &lt;a href="https://documentation.divio.com/how-to-guides/">How-To Guides&lt;/a>, &lt;a href="https://documentation.divio.com/reference/">References&lt;/a>, and &lt;a href="https://documentation.divio.com/explanation/#">Explanations&lt;/a>.
+Consult the &lt;a href="https://documentation.divio.com/">The Documentation System&lt;/a> for:&lt;/p>
+&lt;/div>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://documentation.divio.com/tutorials/#how-to-write-good-tutorials">How to write good tutorials&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://documentation.divio.com/how-to-guides/#how-to-write-good-how-to-guides">How to write good how-to guides&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://documentation.divio.com/reference/#how-to-write-good-reference-guides">How to write good reference guides&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://documentation.divio.com/explanation/#how-to-write-good-explanation">How to write good explanation&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>How-to-Guides: Change Management</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/change_management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/change_management/</guid><description>
+&lt;div class="paragraph">
+&lt;div class="pageinfo pageinfo-primary">
+&lt;div class="paragraph">
+&lt;p>These guidelines assume that you&amp;#8217;re familiar with the GitHub workflow.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_how_to_use_the_kanban_board">How to use the kanban board&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="olist arabic">
+&lt;ol class="arabic">
+&lt;li>
+&lt;p>Assign yourself to a new or existing card or issue in the &lt;a href="https://github.com/orgs/tetrabiodistributed/projects/1">Project Tetra - kanban board&lt;/a>. Consult the GitHub project admin for access, if needed.&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Documentation related issues should be created in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs issues&lt;/a> and added to the &lt;a href="https://github.com/orgs/tetrabiodistributed/projects/1">Project Tetra - kanban board&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Source code related issues should be created in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra/issues">Project Tetra issues&lt;/a> and added to the &lt;a href="https://github.com/orgs/tetrabiodistributed/projects/1">Project Tetra - kanban board&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Non-documentation or source code related issues should be added as a card to the &lt;a href="https://github.com/orgs/tetrabiodistributed/projects/1">Project Tetra - kanban board&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Record relevant discussions in the comment section of the GitHub issues.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_how_to_make_documentation_changes">How to make documentation changes&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="olist arabic">
+&lt;ol class="arabic">
+&lt;li>
+&lt;p>Create a new branch, or checkout an existing branch, in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>. The branch name should describe the changes to be made, followed by its associated issue number, e.g., &lt;code>add-tricoder-with-touchscreen-docs-1701&lt;/code>. If no such issue exists, &lt;a href="#_creating_an_issue">create a new issue&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Write or update the appropriate documentation page relevant to the design changes to be made in your working branch. All documentation should be nested under &lt;a href="../../tutorials">Tutorials&lt;/a>, &lt;a href="../../how-to-guides">How-To Guides&lt;/a>, &lt;a href="../../explanations">Explanations&lt;/a>, and/or &lt;a href="../../references">References&lt;/a>. (See &lt;a href="#_how_to_write_good_documentation">How to write good documentation&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Commit your changes and create a pull request (PR). Prepend the pull request title with the keyword for closing an issue, followed by the issue number, then issue description, e.g., &lt;code>Closes #1701: add tricorder with touchscreen docs&lt;/code>. If the pull request closes multiple issues, simply reference each issue prepended with a closing keyword. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When you&amp;#8217;re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_how_to_make_design_changes">How to make design changes&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>Design changes include changes to CAD, STL, Drawings, or software.&lt;/p>
+&lt;/div>
+&lt;div class="olist arabic">
+&lt;ol class="arabic">
+&lt;li>
+&lt;p>Update the documentation to reflect the design changes to be made. (See &lt;a href="#_how_to_make_documentation_changes">How to make documentation changes&lt;/a>)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Create a new working branch, or checkout an existing branch, in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra">Project Tetra repo&lt;/a>. The branch name should describe the change to be made, followed by its associated issue number, e.g., &lt;code>add-tricoder-with-touchscreen-1031&lt;/code>. If no such issue exists, create a new issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra/issues">Project Tetra issues&lt;/a>.&lt;/p>
+&lt;div class="paragraph">
+&lt;p>Note: Part number revisions and version releases should accompany a design change where appropriate. (See &lt;a href="../version_control/">Version Control&lt;/a>)&lt;/p>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Commit your changes and create a pull request (PR). Prepend the pull request title with the keyword for closing an issue, followed by the issue number, then issue description, e.g., &lt;code>Closes #1031: add tricorder with touchscreen&lt;/code>. If the pull request closes multiple issues, simply reference each issue prepended with a closing keyword. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When you&amp;#8217;re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_creating_an_issue">Creating an issue&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>If you&amp;#8217;ve found a problem in the docs, but you&amp;#8217;re not sure how to fix it yourself, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_useful_resources">Useful resources&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.docsy.dev/docs/">Docsy user guide&lt;/a>: All about Docsy, including how it manages navigation, look and feel, and multi-language support.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gohugo.io/documentation/">Hugo documentation&lt;/a>: Comprehensive reference for Hugo.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://guides.github.com/activities/hello-world/">Github Hello World!&lt;/a>: A basic introduction to GitHub concepts and workflow.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>How-to-Guides: Version Control</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/version_control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/configuration-management/version_control/</guid><description>
+&lt;div class="sect1">
+&lt;h2 id="_how_to_document_a_part_number_release">How to document a part number release&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>Part numbers for CAD, STL, &amp;amp; drawings should adopt the following naming convention:&lt;/p>
+&lt;/div>
+&lt;div class="literalblock">
+&lt;div class="content">
+&lt;pre>A-TET-ZZZZZZ-R = Assembly
+ZZZZZZ-R is Assembly Number &amp;amp; Revision
+P-TET-ZZZZZZ-R = Part
+ZZZZZZ-R is Part Number &amp;amp; Revision
+M-YYY-ZZZZZ = Buy Part, M = Manufacturer, YYY = manufacturer code (ex, UNI = Unistrut)
+ZZZZZ = Manufacturer part number
+V-XXX-ZZZZZ = OTS part, V = Vendor, XXX = vendor code (ex, MCM = McMaster-Carr)
+ZZZZ = Vendor part number&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Note: In the event there is a design change to an interface used in an existing part, it is recommended to designate an entirely new part number, as opposed to bumping its revision number.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_how_to_document_a_version_release">How to document a version release&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>Changes to a software version (i.e., a software release) should be reflected in the CHANGELOG file, located in the root directory in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra">Project Tetra repo&lt;/a>. Software releases should also be &lt;a href="https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository">tagged&lt;/a> and follow the &lt;a href="https://semver.org/">semantic versioning&lt;/a> system.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
