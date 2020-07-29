@@ -3,7 +3,7 @@ title: "Splitter Assembly UML Diagram"
 linkTitle: "Splitter Assembly UML Diagram"
 weight: 1
 description: >
-  UML diagram of the Project Tetra splitter assembly.
+  Interface control document for ventilator splitter assembly.
 ---
 
 [plantuml, ibd-system-ventilator-splitter-assembly-airflow, svg]
