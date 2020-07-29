@@ -1,0 +1,12 @@
+---
+title: "Sensing System UML Diagram"
+linkTitle: "Sensing System UML Diagram"
+weight: 1
+description: >
+  UML diagInterface control document for electronic sensing system.
+---
+
+[plantuml, ibd-system-electronic-sensing-system-dataflow, svg]
+....
+include::system_model/ibd-system-electronic-sensing-system-dataflow.puml[]
+....
