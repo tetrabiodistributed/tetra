@@ -1,9 +1,11 @@
-= Project Tetra - Project Repository
+= Project Tetra Docs
 
-This repository contains the content and source code for generating the Project Tetra site.
-For more information about Project Tetra, please visit https://tetrabiodistributed.github.io/project-tetra-docs
+This repository contains the content and source code for generating the https://tetrabiodistributed.github.io/project-tetra-docs[Project Tetra Docs] site.
 
-This Project is hosted at https://tetrabiodistributed.github.io
+We use https://gohugo.io/[Hugo] and https://asciidoctor.org/[ Asciidoctor] to format and generate our website,
+the https://github.com/google/docsy[Docsy] theme for styling and site structure,
+https://graphviz.org/[Graphviz] and https://plantuml.com/[plantuml] for rendering diagrams,
+and https://github.com/peaceiris/actions-gh-pages[GitHub Actions for GitHub Pages] to manage the deployment of the site.
 
 == Running the website locally
 
