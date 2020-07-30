@@ -34,3 +34,36 @@ Note: If you accidentally cloned without using `--recurse-submodules`, you can r
 ----
 . Now that you're serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.
 
+== Contributors
+
+@Burhan-Q Burhan Qaddoumi | Design & Simulation Engineer | Corning, NY, USA
+
+@cyunis Catherine Yunis | Writing, Testing and Assembly | Los Angeles, CA, USA
+
+@chrismolinari456 Christopher Molinari | Documentation, Outreach | Methuen, MA, USA
+
+Daniel Stemen RCP | Clinical Validation and Testing | Los Angeles, CA, USA
+
+Darryl H. Hwang, PhD | Additive Manufacturing and Design Support | Los Angeles, CA, USA
+
+@thehannahfink Hannah Fink | Industrial Design | San Francisco, CA, USA
+
+@Judoguy12 Jamie Waters | Outreach and Project Manager| Worcester, England, UK
+
+John Brooks, MS | Visual Media | Ventura, CA, USA
+
+@jgrano John Grano | Design & Manufacturing Engineer | Denver, CO, USA
+
+Linda Yan | Media | Bellevue, Washington, USA
+
+@mmroden Mark Roden, PhD | Product Manager, Assembly, and Testing | Sherman Oaks, CA, USA
+
+@adebuleo Oluwafemi Adebule | Project Manager | Toronto, ON, Canada
+
+@mechatroniks-git Patrick Campbell | Electromechanical Design Engineer | Los Angeles, CA, USA
+
+@capsulecorplab Sean Marquez | Software & Systems Engineering, Documentation | Los Angeles, CA, USA
+
+@hydronics2 Thomas Hudson | Electromechanical Design Engineer | Portland, OR, USA
+
+Valerie Seabaugh MD | Clinical Advisement and Testing | Los Angeles, CA, USA
