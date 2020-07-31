@@ -2,7 +2,7 @@
 ---
 title: "Parts in Development"
 linkTitle: "Parts in Development"
-weight: 1
+weight: 2
 description: >
   Work-In-Progress Components
 ---
