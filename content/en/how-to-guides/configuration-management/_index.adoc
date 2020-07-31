@@ -1,7 +1,7 @@
 
 ---
-title: "Configuration Management"
-linkTitle: "Configuration Management"
+title: "Internal Guides"
+linkTitle: "Internal Guides"
 weight: 10
 description: >
   Documentation, change management, & version control guidelines
