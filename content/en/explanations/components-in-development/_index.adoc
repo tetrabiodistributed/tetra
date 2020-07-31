@@ -1,10 +1,10 @@
 
 ---
-title: "Components in Development"
-linkTitle: "Components in Development"
+title: "Parts in Development"
+linkTitle: "Parts in Development"
 weight: 1
 description: >
-  Work-In-Progress components
+  Work-In-Progress Components
 ---
 
 * 3WayOring
