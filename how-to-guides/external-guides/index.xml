@@ -1,0 +1,147 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Tetra – External Guides</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/external-guides/</link><description>Recent content in External Guides on Project Tetra</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/external-guides/index.xml" rel="self" type="application/rss+xml"/><item><title>How-to-Guides: Contributing to Documentation</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/external-guides/contributing-to-documentation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/external-guides/contributing-to-documentation/</guid><description>
+&lt;div class="paragraph">
+&lt;div class="pageinfo pageinfo-primary">
+&lt;div class="paragraph">
+&lt;p>These guidelines assume that you&amp;#8217;re familiar with the GitHub workflow.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_how_to_contribute">How to Contribute&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>We use &lt;a href="https://gohugo.io/">Hugo&lt;/a> and &lt;a href="https://asciidoctor.org/"> Asciidoctor&lt;/a> to format and generate our website,
+the &lt;a href="https://github.com/google/docsy">Docsy&lt;/a> theme for styling and site structure,
+&lt;a href="https://graphviz.org/">Graphviz&lt;/a> and &lt;a href="https://plantuml.com/">plantuml&lt;/a> for rendering diagrams,
+and &lt;a href="https://github.com/peaceiris/actions-gh-pages">GitHub Actions for GitHub Pages&lt;/a> to manage the deployment of the site.
+Hugo is an open-source static site generator that provides us with templates,
+content organisation in a standard directory structure, and a website generation engine.
+You write the pages in Markdown (or HTML if you want), and Hugo wraps them up into a website.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>All submissions, including submissions by project members, require review.
+We use GitHub pull requests for this purpose.
+Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHub Help&lt;/a> for more information on using pull requests.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_updating_the_site">Updating the site&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>Here&amp;#8217;s a quick guide to updating the site:&lt;/p>
+&lt;/div>
+&lt;div class="olist arabic">
+&lt;ol class="arabic">
+&lt;li>
+&lt;p>Create a new branch, or checkout an existing branch in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a> on GitHub. The branch name should describe the changes to be made, followed by its associated issue number, e.g., &lt;code>add-tricoder-with-touchscreen-docs-1701&lt;/code>. If no such issue exists, &lt;a href="#_creating_an_issue">create a new issue&lt;/a>.&lt;/p>
+&lt;div class="paragraph">
+&lt;p>Note: If you haven&amp;#8217;t been added as a collaborator to the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>, you will need to either fork the repo or contact the repo admin to request write access. The repo admin can be contacted via the HelpfulEngineering slack group on the &lt;a href="https://app.slack.com/client/TUTSYURT3/C0103QJMA84">#project-tetra&lt;/a> channel.&lt;/p>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Commit your changes and create a pull request (PR).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When you&amp;#8217;re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_updating_a_single_page">Updating a single page&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>If you&amp;#8217;ve just spotted something you&amp;#8217;d like to change while using the docs, Docsy has a shortcut for you:&lt;/p>
+&lt;/div>
+&lt;div class="olist arabic">
+&lt;ol class="arabic">
+&lt;li>
+&lt;p>Click &lt;strong>Edit this page&lt;/strong> in the top right hand corner of the page. The appropriate page will be displayed in edit mode.&lt;/p>
+&lt;div class="paragraph">
+&lt;p>Note: If you haven&amp;#8217;t been added as a collaborator, you will be prompted to fork the repo or update your fork of the repo - click &lt;strong>Fork this repository and propose changes&lt;/strong> or &lt;strong>Update your Fork&lt;/strong> to get an up to date version of the project to edit.&lt;/p>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Follow the rest of the &lt;a href="#_updating_the_site">Updating the site&lt;/a> process to propose your changes.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_running_the_website_locally">Running the website locally&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>You can run your own Hugo server using docker to preview the site locally:&lt;/p>
+&lt;/div>
+&lt;div class="olist arabic">
+&lt;ol class="arabic">
+&lt;li>
+&lt;p>Install &lt;a href="https://www.docker.com/">docker&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Clone the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>. Don&amp;#8217;t forget to use &lt;code>--recurse-submodules&lt;/code> or you won&amp;#8217;t pull down some of the code you need to generate a working site.&lt;/p>
+&lt;div class="listingblock">
+&lt;div class="content">
+&lt;pre class="highlight">&lt;code class="language-bash" data-lang="bash">git clone --recurse-submodules https://github.com/tetrabiodistributed/project-tetra-docs.git
+cd project-tetra-docs&lt;/code>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>Note: If you accidentally cloned without using &lt;code>--recurse-submodules&lt;/code>, you can run &lt;code>git submodule update --init --recursive&lt;/code> to pull down submodules needed to generate a working site.&lt;/p>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Run the &lt;code>build.sh&lt;/code> script in the site root directory (Note: Linux users may need to prepend this command &lt;code>sudo&lt;/code>). This will build a docker image, as well as install node modules, needed to locally run the &lt;code>project-tetra-docs&lt;/code> Hugo webserver. Once the image is built and stored on your machine, you do not need to rerun this step. You can view all locally installed images by running &lt;code>docker images&lt;/code>.&lt;/p>
+&lt;div class="listingblock">
+&lt;div class="content">
+&lt;pre class="highlight">&lt;code class="language-bash" data-lang="bash">./build.sh&lt;/code>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Run the &lt;code>serve.sh&lt;/code> script in the site root directory (Note: Linux users may need to prepend this command &lt;code>sudo&lt;/code>). By default, your site will be available at &lt;code>http://localhost:1313/project-tetra-docs&lt;/code>.&lt;/p>
+&lt;div class="listingblock">
+&lt;div class="content">
+&lt;pre class="highlight">&lt;code class="language-bash" data-lang="bash">./serve.sh&lt;/code>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Now that you&amp;#8217;re serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_creating_an_issue">Creating an issue&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>If you&amp;#8217;ve found a problem in the docs, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_useful_resources">Useful resources&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.docsy.dev/docs/">Docsy user guide&lt;/a>: All about Docsy, including how it manages navigation, look and feel, and multi-language support.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://gohugo.io/documentation/">Hugo documentation&lt;/a>: Comprehensive reference for Hugo.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://guides.github.com/activities/hello-world/">Github Hello World!&lt;/a>: A basic introduction to GitHub concepts and workflow.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
