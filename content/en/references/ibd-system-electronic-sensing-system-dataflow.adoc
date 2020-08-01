@@ -1,7 +1,7 @@
 ---
 title: "Electronic Sensing System"
 linkTitle: "Electronic Sensing System"
-weight: 1
+weight: 2
 description: >
   Interface control document for electronic sensing system.
 ---

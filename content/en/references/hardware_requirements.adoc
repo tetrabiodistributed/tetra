@@ -2,7 +2,7 @@
 ---
 title: "Hardware Requirements Outline"
 linkTitle: "Hardware Requirements Outline"
-weight: 1
+weight: 3
 description: >
   Summary of hardware design requirements for Project Tetra.
 ---
