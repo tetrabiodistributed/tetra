@@ -1,0 +1,40 @@
+= Contributors =
+
+@Burhan-Q *Burhan Qaddoumi* · Design & Simulation Engineer · Corning, NY, USA
+
+@cyunis *Catherine Yunis* · Writing, Testing and Assembly · Los Angeles, CA, USA
+
+@chrismolinari456 *Christopher Molinari* · Documentation, Outreach · Methuen, MA, USA
+
+*Daniel Stemen RCP* · Clinical Validation and Testing · Los Angeles, CA, USA
+
+@DHHwangPhD *Darryl H. Hwang, PhD* · Additive Manufacturing and Design Support · Los Angeles, CA, USA
+
+@fpdotmonkey *Fletcher Porter* · Software Developer · Pasadena, CA, USA
+
+@thehannahfink *Hannah Fink* · Industrial Design · San Francisco, CA, USA
+
+@Judoguy12 *Jamie Waters* · Outreach and Project Manager· Worcester, England, UK
+
+*John Brooks, MS* · Visual Media · Ventura, CA, USA
+
+@jgrano *John Grano* · Design & Manufacturing Engineer · Denver, CO, USA
+
+*Linda Yan* · Media · Bellevue, Washington, USA
+
+@mmroden *Mark Roden, PhD* · Product Manager, Testing, Printing, Photography
+
+@adebuleo *Oluwafemi Adebule* · Project Manager · Toronto, Canada
+
+@mechatroniks-git *Patrick Campbell* · Electromechanical Design Engineering · Los Angeles, CA, USA
+
+@capsulecorplab *Sean Marquez* · Software & Systems Engineering, Documentation · Los Angeles, CA, USA
+
+@hydronics2 *Thomas Hudson* · Electromechanical Design Engineering · Portland, OR
+
+*Valerie Seabaugh MD* · Clinical Advisement and Testing · Los Angeles, CA, USA
+
+== Development Babies ==
+
+Oluwafunmiladeayo Adebule
+
