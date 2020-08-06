@@ -24,11 +24,11 @@ These guidelines assume that you're familiar with the GitHub workflow.
 
 == Creating an issue ==
 
-If you've found a problem in the docs, please create an issue in the https://github.com/tetrabiodistributed/project-tetra-docs/issues[Project Tetra docs repo].  You can also create an issue about a specific page by clicking the *Create documentation issue* button in the top right hand corner of the page.
+If you've found a problem in the docs, please create an issue in the https://github.com/tetrabiodistributed/project-tetra-docs/issues[Project Tetra docs repo]. You can also create an issue about a specific page by clicking the *Create documentation issue* button in the top right hand corner of the page.
 
 == How to make documentation changes ==
 
-. Create a new branch, or checkout an existing branch, in the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo]. The branch name should describe the changes to be made, followed by its associated issue number, e.g., `add-tricoder-with-touchscreen-docs-1701`. If no such issue exists, <<_creating_an_issue, create a new issue>>.
+. Create a new branch, or checkout an existing branch, in the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo]. The branch name should be prepended with its associated issue label followed by a `/`, followed by a `dash-separated` description of the changes to be made, followed by its associated issue number, e.g., `feature/add-tricoder-with-touchscreen-docs-1701`. If no such issue exists, <<_creating_an_issue, create a new issue>>.
 
 . Write or update the appropriate documentation page relevant to the design changes to be made in your working branch.  All documentation should be nested under link:../../tutorials[Tutorials], link:../../how-to-guides[How-To Guides], link:../../explanations[Explanations], and/or link:../../references[References]. (See <<#_how_to_write_good_documentation, How to write good documentation>>)
 
@@ -38,13 +38,15 @@ If you've found a problem in the docs, please create an issue in the https://git
 
 . When you're ready for a review, mark the PR as _Ready for review_.
 
+. Once your PR is merged, you may safely delete your branch.
+
 == How to make design changes ==
 
 Design changes include changes to CAD, STL, Drawings, or software.
 
 . Update any relevant documentation if the design changes to be made require a change in tutorials, how-to guides, references or explanations. Update documentation before making changes to stay in line with the DDD process. (See <<_how_to_make_documentation_changes, How to make documentation changes>>)
 
-. Create a new working branch, or checkout an existing branch, in the https://github.com/tetrabiodistributed/project-tetra[Project Tetra repo]. The branch name should describe the change to be made, followed by its associated issue number, e.g., `add-tricoder-with-touchscreen-1031`. If no such issue exists, create a new issue in the https://github.com/tetrabiodistributed/project-tetra/issues[Project Tetra issues].
+. Create a new branch, or checkout an existing branch, in the https://github.com/tetrabiodistributed/project-tetra[Project Tetra repo]. The branch name should be prepended with its associated issue label followed by a `/`, followed by a `dash-separated` description of the changes to be made, followed by its associated issue number, e.g., `add-tricoder-with-touchscreen-1031`. If no such issue exists, create a new issue in the https://github.com/tetrabiodistributed/project-tetra/issues[Project Tetra issues].
 +
 Note: Part number revisions and version releases should accompany a design change where appropriate. (See link:../version_control/[Version Control])
 
@@ -53,6 +55,8 @@ Note: Part number revisions and version releases should accompany a design chang
 . If you're not yet ready for a review, mark the PR as _Draft_ to indicate it's a work in progress. Continue updating your doc and pushing your changes until you're happy with the content.
 
 . When you're ready for a review, mark the PR as _Ready for review_.
+
+. Once your PR is merged, you may safely delete your branch.
 
 == Useful resources ==
 
