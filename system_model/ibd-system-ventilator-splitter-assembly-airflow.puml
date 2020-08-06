@@ -1,0 +1,52 @@
+@startuml
+left to right direction
+skinparam linetype polyline
+/'
+skinparam linetype ortho
+'/
+
+frame "ibd [System] Ventilator Splitter Assembly [Air flow] " {
+
+  actor "<b>patient</b>" <<human>> as patient
+
+  component "<b>LTV-1200</b>" <<ventilator>> as ventilator {
+    interface "<b>Expiratory Port</b>" as pOut
+    interface "<b>Inspiratory Port</b>" as pIn
+  }
+
+  component "<b>Inspiratory Arm P/N</b>" <<Inspiratory Arm>> as armIn
+  component "<b>Expiratory Arm P/N</b>" <<Expiratory Arm>> as armOut
+
+  pOut <.. armOut
+  pIn ..> armIn
+
+  component "<b>Ventilator Splitter Assembly</b>" <<block>> as vsb {
+    !include system_model/block-ventilator-splitter-assembly.puml
+
+    vsbpOut -- vsbOut
+    vsbpIn -- vsbIn
+    vsbOut <. bc
+    bc <. vsbIn
+
+    vsbIn ...> vIn1
+    vIn1 ..> fcIn1
+    fcIn1 ..> sIn1
+
+    vsbOut <... vOut1
+    vOut1 <.. psOut1
+    psOut1 <.. sOut1
+  }
+
+  armIn ..> vsbpIn
+  armOut <.. vsbpOut
+
+  component "<b>Inspiratory Arm to patient P/N</b>" <<Inspiratory Arm>> as arm2patIn
+  component "<b>Expiratory Arm to patient P/N</b>" <<Expiratory Arm>> as arm2patOut
+
+  sIn1 ..> arm2patIn
+  arm2patIn ..> patient
+
+  sOut1 <.. arm2patOut
+  arm2patOut <.. patient
+}
+@enduml
