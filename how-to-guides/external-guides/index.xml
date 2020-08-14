@@ -26,6 +26,14 @@ Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHu
 &lt;/div>
 &lt;/div>
 &lt;div class="sect1">
+&lt;h2 id="_creating_an_issue">Creating an issue&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>If you&amp;#8217;ve found a problem in the docs, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
 &lt;h2 id="_updating_the_site">Updating the site&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
@@ -34,7 +42,7 @@ Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHu
 &lt;div class="olist arabic">
 &lt;ol class="arabic">
 &lt;li>
-&lt;p>Create a new branch, or checkout an existing branch in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a> on GitHub. The branch name should describe the changes to be made, followed by its associated issue number, e.g., &lt;code>add-tricoder-with-touchscreen-docs-1701&lt;/code>. If no such issue exists, &lt;a href="#_creating_an_issue">create a new issue&lt;/a>.&lt;/p>
+&lt;p>Create a new branch, or checkout an existing branch, in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>. The branch name should be prepended with its associated issue label followed by a &lt;code>/&lt;/code>, followed by a &lt;code>dash-separated&lt;/code> description of the changes to be made, followed by its associated issue number, e.g., &lt;code>feature/add-tricoder-with-touchscreen-docs-1701&lt;/code>. If no such issue exists, &lt;a href="#_creating_an_issue">create a new issue&lt;/a>.&lt;/p>
 &lt;div class="paragraph">
 &lt;p>Note: If you haven&amp;#8217;t been added as a collaborator to the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>, you will need to either fork the repo or contact the repo admin to request write access. The repo admin can be contacted via the HelpfulEngineering slack group on the &lt;a href="https://app.slack.com/client/TUTSYURT3/C0103QJMA84">#project-tetra&lt;/a> channel.&lt;/p>
 &lt;/div>
@@ -47,6 +55,9 @@ Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHu
 &lt;/li>
 &lt;li>
 &lt;p>When you&amp;#8217;re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Once your PR is merged, you may safely delete your branch.&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/div>
@@ -116,14 +127,6 @@ cd project-tetra-docs&lt;/code>&lt;/pre>
 &lt;p>Now that you&amp;#8217;re serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;div class="sect1">
-&lt;h2 id="_creating_an_issue">Creating an issue&lt;/h2>
-&lt;div class="sectionbody">
-&lt;div class="paragraph">
-&lt;p>If you&amp;#8217;ve found a problem in the docs, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
