@@ -13,14 +13,6 @@ These guidelines assume that you're familiar with the GitHub workflow.
 
 == How to Contribute
 
-We use https://gohugo.io/[Hugo] and https://asciidoctor.org/[ Asciidoctor] to format and generate our website,
-the https://github.com/google/docsy[Docsy] theme for styling and site structure,
-https://graphviz.org/[Graphviz] and https://plantuml.com/[plantuml] for rendering diagrams,
-and https://github.com/peaceiris/actions-gh-pages[GitHub Actions for GitHub Pages] to manage the deployment of the site.
-Hugo is an open-source static site generator that provides us with templates,
-content organisation in a standard directory structure, and a website generation engine.
-You write the pages in Markdown (or HTML if you want), and Hugo wraps them up into a website.
-
 All submissions, including submissions by project members, require review.
 We use GitHub pull requests for this purpose.
 Consult https://help.github.com/articles/about-pull-requests/[GitHub Help] for more information on using pull requests.

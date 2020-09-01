@@ -4,10 +4,8 @@ title: "Writing Documentation"
 linkTitle: "Writing Documentation"
 weight: 10
 description: >
-  Documentation methodology & how to write good documentation
+  How to write good documentation
 ---
-
-We use a https://www.writethedocs.org/guide/docs-as-code/[Docs as Code] and https://www.writethedocs.org/videos/portland/2019/lessons-learned-in-a-year-of-docs-driven-development-jessica-parsons/[Docs-Driven Development] (i.e., __Document first, then implement what you documented__) approach, using the GitHub workflow, to facilitate documentation for Project Tetra. The documentation for this project is maintained in the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo] with the project source code maintained in the https://github.com/tetrabiodistributed/project-tetra[Project Tetra repo].
 
 == How to write good documentation ==
 

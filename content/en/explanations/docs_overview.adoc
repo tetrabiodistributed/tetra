@@ -1,0 +1,35 @@
+
+---
+title: "Documentation Overview"
+linkTitle: "Documentation Overview"
+weight: 5
+description: >
+  Use cases, languages, tools, and methodologies of Project Tetra's Documentation
+---
+
+== Use cases ==
+
+The Project Tetra documentation is intended to serve multiple use cases, illustrated by the following use-case-diagram.
+
+[plantuml, uc-docs, svg]
+....
+include::system_model/uc-docs.puml[]
+....
+
+== Languages ==
+
+The site is generated from a combination of the https://asciidoctor.org/docs/what-is-asciidoc/[AsciiDoc markup language] and https://gohugo.io/templates/introduction/[Hugo template language]. Asciidoc is a markup language that was designed specifically for technical writing and documentation.
+
+== Tools ==
+
+We use https://gohugo.io/[Hugo] and https://asciidoctor.org/[Asciidoctor] to format and generate our website,
+the https://github.com/google/docsy[Docsy] theme for styling and site structure,
+https://graphviz.org/[Graphviz] and https://plantuml.com/[PlantUML] for rendering diagrams,
+and https://github.com/peaceiris/actions-gh-pages[GitHub Actions for GitHub Pages] to manage the deployment of the site.
+Hugo is an open-source static site generator that provides us with templates,
+content organisation in a standard directory structure, and a website generation engine.
+You write the pages in AsciiDoc (or HTML if you want), and Hugo wraps them up into a website.
+
+== Methodologies ==
+
+We use a https://www.writethedocs.org/guide/docs-as-code/[Docs as Code] (i.e., __maintain documentation using the same tools used to maintain code__) with https://www.writethedocs.org/videos/portland/2019/lessons-learned-in-a-year-of-docs-driven-development-jessica-parsons/[Documentation Driven Development] (i.e., __Document first, then implement what you documented__) approach, using the GitHub workflow, to facilitate documentation for Project Tetra. Content is organized using https://documentation.divio.com/[The Documentation System]. The documentation for this project is maintained in the https://github.com/tetrabiodistributed/project-tetra-docs[Project Tetra docs repo] with the project source code maintained in the https://github.com/tetrabiodistributed/project-tetra[Project Tetra repo].
