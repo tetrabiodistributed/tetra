@@ -10,15 +10,6 @@
 &lt;h2 id="_how_to_contribute">How to Contribute&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
-&lt;p>We use &lt;a href="https://gohugo.io/">Hugo&lt;/a> and &lt;a href="https://asciidoctor.org/"> Asciidoctor&lt;/a> to format and generate our website,
-the &lt;a href="https://github.com/google/docsy">Docsy&lt;/a> theme for styling and site structure,
-&lt;a href="https://graphviz.org/">Graphviz&lt;/a> and &lt;a href="https://plantuml.com/">plantuml&lt;/a> for rendering diagrams,
-and &lt;a href="https://github.com/peaceiris/actions-gh-pages">GitHub Actions for GitHub Pages&lt;/a> to manage the deployment of the site.
-Hugo is an open-source static site generator that provides us with templates,
-content organisation in a standard directory structure, and a website generation engine.
-You write the pages in Markdown (or HTML if you want), and Hugo wraps them up into a website.&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
 &lt;p>All submissions, including submissions by project members, require review.
 We use GitHub pull requests for this purpose.
 Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHub Help&lt;/a> for more information on using pull requests.&lt;/p>

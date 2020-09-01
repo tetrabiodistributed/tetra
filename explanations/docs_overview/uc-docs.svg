@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1122px" preserveAspectRatio="none" style="width:883px;height:1122px;" version="1.1" viewBox="0 0 883 1122" width="883px" zoomAndPan="magnify"><defs><filter height="300%" id="fxtw5em5idc19" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[244608be1059279136820fce33406e85]
+cluster f1--><rect fill="#FFFFFF" filter="url(#fxtw5em5idc19)" height="1087" style="stroke: #000000; stroke-width: 1.5;" width="850" x="22" y="24"/><path d="M589,25 L589,33.2969 L579,43.2969 L22,43.2969 " fill="none" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="552" x="25" y="37.9951">uc [site] Project Tetra Docs [Use Cases and Associated Stakeholders]</text><!--MD5=[fedee1b5a49a422abb3fa93dface23fd]
+cluster p1--><rect fill="#FFFFFF" filter="url(#fxtw5em5idc19)" height="784" style="stroke: #000000; stroke-width: 1.5;" width="357" x="264" y="303"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="82" x="401.5" y="317.9951">«static site»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="147" x="369" y="334.292">Project Tetra Docs</text><!--MD5=[f4009e9b95e0915e4bf40fb5c6c4e803]
+cluster p11--><rect fill="#FFFFFF" filter="url(#fxtw5em5idc19)" height="135" style="stroke: #000000; stroke-width: 1.5;" width="205" x="340" y="610"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="68" x="408.5" y="624.9951">«section»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="99" x="393" y="641.292">Explanations</text><!--MD5=[72c42e5a252c4e6dfb05b7d98a82633e]
+cluster p12--><rect fill="#FFFFFF" filter="url(#fxtw5em5idc19)" height="135" style="stroke: #000000; stroke-width: 1.5;" width="288" x="298.5" y="769"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="68" x="408.5" y="783.9951">«section»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="408" y="800.292">Tutorials</text><!--MD5=[b6b1cc166522e7b290ce401589ee9ad2]
+cluster p13--><rect fill="#FFFFFF" filter="url(#fxtw5em5idc19)" height="224" style="stroke: #000000; stroke-width: 1.5;" width="309" x="288" y="362"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="68" x="408.5" y="376.9951">«section»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="117" x="384" y="393.292">How-to Guides</text><!--MD5=[4c469fcf9740e2a1c9d161ee88d4fefc]
+cluster p14--><rect fill="#FFFFFF" filter="url(#fxtw5em5idc19)" height="135" style="stroke: #000000; stroke-width: 1.5;" width="292" x="296.5" y="928"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="68" x="408.5" y="942.9951">«section»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="91" x="397" y="959.292">References</text><!--MD5=[c43102eb9af13b6e0584468567583f91]
+cluster p2--><rect fill="#FFFFFF" filter="url(#fxtw5em5idc19)" height="212" style="stroke: #000000; stroke-width: 1.5;" width="356" x="264.5" y="67"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="102" x="391.5" y="81.9951">«GitHub repo»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="147" x="369" y="98.292">Project Tetra Docs</text><!--MD5=[4450b1a2dbc50e7f63c15942e7e8356a]
+cluster p15--><rect fill="#FFFFFF" filter="url(#fxtw5em5idc19)" height="129" style="stroke: #000000; stroke-width: 1.5;" width="308" x="288.5" y="126"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="68" x="408.5" y="140.9951">«section»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="51" x="417" y="157.292">Issues</text><!--MD5=[9b5fd479ff9e12a7cc0df0f0353b59f8]
+entity a1--><ellipse cx="141" cy="184.7969" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M141,192.7969 L141,219.7969 M128,200.7969 L154,200.7969 M141,219.7969 L128,234.7969 M141,219.7969 L154,234.7969 " fill="none" filter="url(#fxtw5em5idc19)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="206" x="38" y="253.292">Documentation Maintainer</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="206" x="38" y="171.9951">«Project Tetra team member»</text><!--MD5=[f89d8cb67b4d8c974030bdacf9c0cf39]
+entity a2--><ellipse cx="141" cy="704.7969" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M141,712.7969 L141,739.7969 M128,720.7969 L154,720.7969 M141,739.7969 L128,754.7969 M141,739.7969 L154,754.7969 " fill="none" filter="url(#fxtw5em5idc19)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="180" x="51" y="773.292">Documentation Reader</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="206" x="38" y="691.9951">«Project Tetra team member»</text><!--MD5=[5fd553d62ae787dc09382bbdf294aa1e]
+entity a3--><ellipse cx="748.5" cy="302.7969" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M748.5,310.7969 L748.5,337.7969 M735.5,318.7969 L761.5,318.7969 M748.5,337.7969 L735.5,352.7969 M748.5,337.7969 L761.5,352.7969 " fill="none" filter="url(#fxtw5em5idc19)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="215" x="641" y="371.292">Documentation Contributor</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="185" x="656" y="289.9951">«Project Tetra contributor»</text><!--MD5=[271a946153eabc1495ee7e2445644215]
+entity a4--><ellipse cx="748.5" cy="751.7969" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M748.5,759.7969 L748.5,786.7969 M735.5,767.7969 L761.5,767.7969 M748.5,786.7969 L735.5,801.7969 M748.5,786.7969 L761.5,801.7969 " fill="none" filter="url(#fxtw5em5idc19)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="180" x="658.5" y="820.292">Documentation Reader</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="146" x="675.5" y="738.9951">«Project Tetra users»</text><ellipse cx="442.6446" cy="695.0182" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="86.6446" ry="33.5182" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="79" x="403.1446" y="680.9141">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="134" x="375.6446" y="697.211">Provides context</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="116" x="384.6446" y="713.5079">into key topics</text><ellipse cx="442.5038" cy="853.9055" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="128.0038" ry="33.4055" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="79" x="403.0038" y="837.8548">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="201" x="342.0038" y="854.1517">Provides assembly, build,</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="188" x="348.5038" y="870.4485">and testing instructions</text><ellipse cx="442.6814" cy="538.7507" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="126.1814" ry="30.2507" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="79" x="403.1814" y="525.7359">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="221" x="332.1814" y="542.0328">Provides usage instructions</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="131" x="377.1814" y="558.3297">for Project Tetra</text><ellipse cx="442.4754" cy="443.0951" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="138.4754" ry="30.0951" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="79" x="402.9754" y="430.7191">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="256" x="314.4754" y="447.016">Provides contributing guidelines</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="131" x="376.9754" y="463.3128">for Project Tetra</text><ellipse cx="442.2659" cy="1013.144" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="129.7659" ry="34.144" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="79" x="402.7659" y="996.3474">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="145" x="369.7659" y="1012.6443">Provides technical</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="199" x="342.7659" y="1028.9412">reference and resources</text><ellipse cx="442.7334" cy="207.78" fill="#FEFECE" filter="url(#fxtw5em5idc19)" rx="138.2334" ry="30.78" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="79" x="403.2334" y="194.0083">«use case»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="238" x="323.7334" y="210.3052">Provides section for feedback</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="161" x="362.2334" y="226.6021">on content or layout</text><!--MD5=[4b5d096e3f14c86911c90ed629d35aed]
+link a1 to uc6--><path d="M244.23,208 C263.55,208 284.05,208 304.24,208 " fill="none" id="a1-uc6" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[11260b74ae3ac3a4567ae37d5c6778ee]
+link a2 to uc4--><path d="M165.62,678.89 C199.01,609.47 256,491 256,491 C256,491 305.13,478.29 352.82,465.95 " fill="none" id="a2-uc4" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f89e908351cb25c1a26a3bbe86712d56]
+link a2 to uc5--><path d="M173.76,777.03 C207.49,829.1 256,904 256,904 C256,904 333.53,949.56 388.34,981.76 " fill="none" id="a2-uc5" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[62a599ccebbdc87f037f2ab312d6d8ab]
+link uc6 to a3--><path d="M512.48,234.78 C550.41,249.5 598.28,268.08 640.91,284.63 " fill="none" id="uc6-a3" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[aa5d0b8845f554082f6d4d4e0372f695]
+link uc4 to a3--><path d="M511.35,416.89 C549.41,402.24 597.75,383.64 640.76,367.08 " fill="none" id="uc4-a3" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[0972593dce6ef7d05662db12f4857d2b]
+link uc1 to a4--><path d="M514.39,713.66 C557.29,724.94 612.37,739.44 658.23,751.51 " fill="none" id="uc1-a4" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[fa5ec02be63414bb041865a2f286ee4c]
+link uc2 to a4--><path d="M533.89,830.51 C573.18,820.3 619.08,808.37 658.25,798.19 " fill="none" id="uc2-a4" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[3f987d654c7a376f4b373feecbd55d2c]
+link uc3 to a4--><path d="M492.72,567.13 C547.68,598.53 629,645 629,645 C629,645 669.14,689.04 702.7,725.85 " fill="none" id="uc3-a4" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[95875918968a678253afe86f383eedc4]
+link uc5 to a4--><path d="M496.66,981.76 C551.47,949.56 629,904 629,904 C629,904 668.87,860.59 702.36,824.14 " fill="none" id="uc5-a4" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f6b40a725f39236cee18160907bdd8ec]
+@startuml
+left to right direction
+skinparam linetype polyline
+
+frame f1 as "uc [site] Project Tetra Docs [Use Cases and Associated Stakeholders] " {
+
+  actor a1 <<Project Tetra team member>> as "<b>Documentation Maintainer</b>"
+
+  actor a2 <<Project Tetra team member>> as "<b>Documentation Reader</b>"
+
+  actor a3 <<Project Tetra contributor>> as "<b>Documentation Contributor</b>"
+
+  actor a4 <<Project Tetra users>> as "<b>Documentation Reader</b>"
+
+  rectangle p1 <<static site>> as "<b>Project Tetra Docs</b>" {
+
+    rectangle p11 <<section>> as "<b>Explanations</b>" {
+      usecase uc1 <<use case>> as "<b>Provides context</b>
+                                  <b>into key topics</b>"
+    }
+
+    rectangle p12 <<section>> as "<b>Tutorials</b>" {
+      usecase uc2 <<use case>> as "<b>Provides assembly, build,</b>
+                                    <b>and testing instructions</b>"
+    }
+
+    rectangle p13 <<section>> as "<b>How-to Guides</b>" {
+      usecase uc3 <<use case>> as "<b>Provides usage instructions</b>
+                                    <b>for Project Tetra</b>"
+      usecase uc4 <<use case>> as "<b>Provides contributing guidelines</b>
+                                    <b>for Project Tetra</b>"
+    }
+
+    rectangle p14 <<section>> as "<b>References</b>" {
+      usecase uc5 <<use case>> as "<b>Provides technical</b>
+                                    <b>reference and resources</b>"
+    }
+
+  }
+
+  rectangle p2 <<GitHub repo>> as "<b>Project Tetra Docs</b>" {
+    rectangle p15 <<section>> as "<b>Issues</b>" {
+      usecase uc6 <<use case>> as "<b>Provides section for feedback</b>
+                                    <b>on content or layout</b>"
+    }
+  }
+
+  a1 - - uc6
+  a2 - - uc4
+  a2 - - uc5
+
+  uc6 - - a3
+  uc4 - - a3
+  uc1 - - a4
+  uc2 - - a4
+  uc3 - - a4
+  uc5 - - a4
+
+}
+
+@enduml
+
+PlantUML version 1.2020.06(Sun Apr 05 07:38:32 CDT 2020)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.7+10-post-Ubuntu-3ubuntu1
+Operating System: Linux
+Default Encoding: ANSI_X3.4-1968
+Language: en
+Country: US
+--></g></svg>

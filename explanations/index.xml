@@ -1,1 +1,44 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Tetra – Explanations</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/explanations/</link><description>Recent content in Explanations on Project Tetra</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/project-tetra-docs/explanations/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Tetra – Explanations</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/explanations/</link><description>Recent content in Explanations on Project Tetra</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://tetrabiodistributed.github.io/project-tetra-docs/explanations/index.xml" rel="self" type="application/rss+xml"/><item><title>Explanations: Documentation Overview</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/explanations/docs_overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/explanations/docs_overview/</guid><description>
+&lt;div class="sect1">
+&lt;h2 id="_use_cases">Use cases&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>The Project Tetra documentation is intended to serve multiple use cases, illustrated by the following use-case-diagram.&lt;/p>
+&lt;/div>
+&lt;div class="imageblock">
+&lt;div class="content">
+&lt;img src="uc-docs.svg" alt="uc docs" width="883" height="1122">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_languages">Languages&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>The site is generated from a combination of the &lt;a href="https://asciidoctor.org/docs/what-is-asciidoc/">AsciiDoc markup language&lt;/a> and &lt;a href="https://gohugo.io/templates/introduction/">Hugo template language&lt;/a>. Asciidoc is a markup language that was designed specifically for technical writing and documentation.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_tools">Tools&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>We use &lt;a href="https://gohugo.io/">Hugo&lt;/a> and &lt;a href="https://asciidoctor.org/">Asciidoctor&lt;/a> to format and generate our website,
+the &lt;a href="https://github.com/google/docsy">Docsy&lt;/a> theme for styling and site structure,
+&lt;a href="https://graphviz.org/">Graphviz&lt;/a> and &lt;a href="https://plantuml.com/">PlantUML&lt;/a> for rendering diagrams,
+and &lt;a href="https://github.com/peaceiris/actions-gh-pages">GitHub Actions for GitHub Pages&lt;/a> to manage the deployment of the site.
+Hugo is an open-source static site generator that provides us with templates,
+content organisation in a standard directory structure, and a website generation engine.
+You write the pages in AsciiDoc (or HTML if you want), and Hugo wraps them up into a website.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_methodologies">Methodologies&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="paragraph">
+&lt;p>We use a &lt;a href="https://www.writethedocs.org/guide/docs-as-code/">Docs as Code&lt;/a> (i.e., &lt;em>maintain documentation using the same tools used to maintain code&lt;/em>) with &lt;a href="https://www.writethedocs.org/videos/portland/2019/lessons-learned-in-a-year-of-docs-driven-development-jessica-parsons/">Documentation Driven Development&lt;/a> (i.e., &lt;em>Document first, then implement what you documented&lt;/em>) approach, using the GitHub workflow, to facilitate documentation for Project Tetra. Content is organized using &lt;a href="https://documentation.divio.com/">The Documentation System&lt;/a>. The documentation for this project is maintained in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a> with the project source code maintained in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra">Project Tetra repo&lt;/a>.&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

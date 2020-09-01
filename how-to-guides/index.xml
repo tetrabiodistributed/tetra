@@ -10,15 +10,6 @@
 &lt;h2 id="_how_to_contribute">How to Contribute&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
-&lt;p>We use &lt;a href="https://gohugo.io/">Hugo&lt;/a> and &lt;a href="https://asciidoctor.org/"> Asciidoctor&lt;/a> to format and generate our website,
-the &lt;a href="https://github.com/google/docsy">Docsy&lt;/a> theme for styling and site structure,
-&lt;a href="https://graphviz.org/">Graphviz&lt;/a> and &lt;a href="https://plantuml.com/">plantuml&lt;/a> for rendering diagrams,
-and &lt;a href="https://github.com/peaceiris/actions-gh-pages">GitHub Actions for GitHub Pages&lt;/a> to manage the deployment of the site.
-Hugo is an open-source static site generator that provides us with templates,
-content organisation in a standard directory structure, and a website generation engine.
-You write the pages in Markdown (or HTML if you want), and Hugo wraps them up into a website.&lt;/p>
-&lt;/div>
-&lt;div class="paragraph">
 &lt;p>All submissions, including submissions by project members, require review.
 We use GitHub pull requests for this purpose.
 Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHub Help&lt;/a> for more information on using pull requests.&lt;/p>
@@ -148,9 +139,6 @@ cd project-tetra-docs&lt;/code>&lt;/pre>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>How-to-Guides: Writing Documentation</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/internal-guides/documentation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/how-to-guides/internal-guides/documentation/</guid><description>
-&lt;div class="paragraph">
-&lt;p>We use a &lt;a href="https://www.writethedocs.org/guide/docs-as-code/">Docs as Code&lt;/a> and &lt;a href="https://www.writethedocs.org/videos/portland/2019/lessons-learned-in-a-year-of-docs-driven-development-jessica-parsons/">Docs-Driven Development&lt;/a> (i.e., &lt;em>Document first, then implement what you documented&lt;/em>) approach, using the GitHub workflow, to facilitate documentation for Project Tetra. The documentation for this project is maintained in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a> with the project source code maintained in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra">Project Tetra repo&lt;/a>.&lt;/p>
-&lt;/div>
 &lt;div class="sect1">
 &lt;h2 id="_how_to_write_good_documentation">How to write good documentation&lt;/h2>
 &lt;div class="sectionbody">
