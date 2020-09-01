@@ -2,10 +2,7 @@
 
 This repository contains the content and source code for generating the https://tetrabiodistributed.github.io/project-tetra-docs[Project Tetra Docs] site.
 
-We use https://gohugo.io/[Hugo] and https://asciidoctor.org/[ Asciidoctor] to format and generate our website,
-the https://github.com/google/docsy[Docsy] theme for styling and site structure,
-https://graphviz.org/[Graphviz] and https://plantuml.com/[plantuml] for rendering diagrams,
-and https://github.com/peaceiris/actions-gh-pages[GitHub Actions for GitHub Pages] to manage the deployment of the site.
+See https://tetrabiodistributed.github.io/project-tetra-docs/explanations/docs_overview/[Documentation Overview].
 
 == Running the website locally
 
