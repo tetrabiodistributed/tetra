@@ -39,7 +39,7 @@ Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHu
 &lt;/div>
 &lt;/li>
 &lt;li>
-&lt;p>Commit your changes and create a pull request (PR).&lt;/p>
+&lt;p>Commit your changes and create a pull request (PR). Be sure to include a closing keyword followed by the associated issue number in the PR description, e.g., &lt;code>closes #1701&lt;/code>. If the pull request closes multiple issues, add a closing keyword for each issue. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>

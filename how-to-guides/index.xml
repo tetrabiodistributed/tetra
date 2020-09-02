@@ -39,7 +39,7 @@ Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHu
 &lt;/div>
 &lt;/li>
 &lt;li>
-&lt;p>Commit your changes and create a pull request (PR).&lt;/p>
+&lt;p>Commit your changes and create a pull request (PR). Be sure to include a closing keyword followed by the associated issue number in the PR description, e.g., &lt;code>closes #1701&lt;/code>. If the pull request closes multiple issues, add a closing keyword for each issue. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
@@ -219,7 +219,7 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;p>Write or update the appropriate documentation page relevant to the design changes to be made in your working branch. All documentation should be nested under &lt;a href="../../tutorials">Tutorials&lt;/a>, &lt;a href="../../how-to-guides">How-To Guides&lt;/a>, &lt;a href="../../explanations">Explanations&lt;/a>, and/or &lt;a href="../../references">References&lt;/a>. (See &lt;a href="#_how_to_write_good_documentation">How to write good documentation&lt;/a>)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Commit your changes and create a pull request (PR). Prepend the pull request title with the keyword for closing an issue, followed by the issue number, then issue description, e.g., &lt;code>Closes #1701: add tricorder with touchscreen docs&lt;/code>. If the pull request closes multiple issues, simply reference each issue prepended with a closing keyword. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
+&lt;p>Commit your changes and create a pull request (PR). Be sure to include a closing keyword followed by the associated issue number in the PR description, e.g., &lt;code>closes #1701&lt;/code>. If the pull request closes multiple issues, add a closing keyword for each issue. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
@@ -252,7 +252,7 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;/div>
 &lt;/li>
 &lt;li>
-&lt;p>Commit your changes and create a pull request (PR). Prepend the pull request title with the keyword for closing an issue, followed by the issue number, then issue description, e.g., &lt;code>Closes #1031: add tricorder with touchscreen&lt;/code>. If the pull request closes multiple issues, simply reference each issue prepended with a closing keyword. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
+&lt;p>Commit your changes and create a pull request (PR). Be sure to include a closing keyword followed by the associated issue number in the PR description, e.g., &lt;code>closes #1031&lt;/code>. If the pull request closes multiple issues, add a closing keyword for each issue. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
