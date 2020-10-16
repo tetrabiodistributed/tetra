@@ -1,0 +1,17 @@
+---
+title: "Stakeholder Concerns & Requirements"
+linkTitle: "Stakeholder Concerns & Requirements"
+weight: 2
+description: >
+  Identifying stakeholder concerns & deriving top-level requirements.
+---
+
+[plantuml, pkg-stakeholder-concerns, svg]
+....
+include::system_model/pkg-stakeholder-concerns.puml[]
+....
+
+[plantuml, pkg-requirements, svg]
+....
+include::system_model/pkg-requirements.puml[]
+....
