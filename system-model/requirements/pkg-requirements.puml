@@ -86,16 +86,16 @@ req6 +.. req62 : <<derivedReq>>
 !includesub system-model/requirements/pkg-stakeholder-concerns.puml!C9
 !includesub system-model/requirements/pkg-stakeholder-concerns.puml!C10
 
-c1 <|.. req1 : <<addresses>>
-c2 <|.. req2 : <<addresses>>
-c3 <|.. req6 : <<addresses>>
+c1 <.. req1 : <<addresses>>
+c2 <.. req2 : <<addresses>>
+c3 <.. req6 : <<addresses>>
 note right of c3 : Patients require constant\nmonitoring anyway
-c4 <|.. req3 : <<addresses>>
-c5 <|.. req1 : <<addresses>>
-c6 <|.. req4 : <<addresses>>
-c7 <|.. req5 : <<addresses>>
-c8 <|.. req6 : <<addresses>>
-c9 <|.. req1 : <<addresses>>
-c10 <|.. req4 : <<addresses>>
+c4 <.. req3 : <<addresses>>
+c5 <.. req1 : <<addresses>>
+c6 <.. req4 : <<addresses>>
+c7 <.. req5 : <<addresses>>
+c8 <.. req6 : <<addresses>>
+c9 <.. req1 : <<addresses>>
+c10 <.. req4 : <<addresses>>
 
 @enduml
