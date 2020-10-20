@@ -8,5 +8,5 @@ description: >
 
 [plantuml, ibd-system-ventilator-splitter-assembly-airflow, svg]
 ....
-include::system_model/ibd-system-ventilator-splitter-assembly-airflow.puml[]
+include::system-model/structure/ibd-system-ventilator-splitter-assembly-airflow.puml[]
 ....

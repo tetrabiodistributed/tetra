@@ -75,16 +75,16 @@ req1 +.. req11 : <<derivedReq>>
 req6 +.. req61 : <<derivedReq>>
 req6 +.. req62 : <<derivedReq>>
 
-!includesub system_model/pkg-stakeholder-concerns.puml!C1
-!includesub system_model/pkg-stakeholder-concerns.puml!C2
-!includesub system_model/pkg-stakeholder-concerns.puml!C3
-!includesub system_model/pkg-stakeholder-concerns.puml!C4
-!includesub system_model/pkg-stakeholder-concerns.puml!C5
-!includesub system_model/pkg-stakeholder-concerns.puml!C6
-!includesub system_model/pkg-stakeholder-concerns.puml!C7
-!includesub system_model/pkg-stakeholder-concerns.puml!C8
-!includesub system_model/pkg-stakeholder-concerns.puml!C9
-!includesub system_model/pkg-stakeholder-concerns.puml!C10
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C1
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C2
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C3
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C4
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C5
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C6
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C7
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C8
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C9
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C10
 
 c1 <|.. req1 : <<addresses>>
 c2 <|.. req2 : <<addresses>>
