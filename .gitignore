@@ -8,3 +8,4 @@ static/
 # asciidoctor
 .asciidoctor/
 *.svg
+.DS_Store

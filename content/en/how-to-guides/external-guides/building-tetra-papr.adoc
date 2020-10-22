@@ -23,34 +23,104 @@ The core of the idea is fairly simple: put a fan behind a filter in an airtight 
 
 You will need to print, using an FDM printer, PLA resin, at 0.2mm spacing:
 
-1.  The box case that holds the fan
-2.  The box case that holds the filter
-3.  The funnel that takes air from the fan into the hose
-4.  The grill that holds the filter in place
-5.  The case to hold the battery and fan control board
-6.  The plate to protect the fan control board
+1.  The fan box bottom half (holds the fan)
+2.  The fan box top half (holds the filter)
+3.  The fan box funnel that takes air from the fan into the hose
+4.  The fan box grill that holds the filter in place
+5.  The battery case to hold the battery and fan control board
+6.  The battery plate to protect the fan control board
 7.  The face mask
 8.  Four spacers
 
 == Bill Of Materials
 
-You will need to buy these parts:
+You will need to buy these parts  (prices fluctuate, so are not included here):
 
-1.  A Type-A HEPA filter
-2.  A fan
-3.  Solid wiring
-4.  Twisted wiring
-5.  Spade connectors
-6.  m4 20mm screws
-7.  m4 hex nuts
-8.  Two wiring sockets
-9.  One cable to connect the fan to the control board
-10.  A Battery
-11.  Straps/webbing
-12.  CPAP hoses
-13.  Solder
-14.  Dryer Tape
-15.  A sheet of 2mm-thick foam
+.Table Title
+|===
+| Count | Description | URL | Number in Package 
+
+| 1 
+| Onyehn DC Motor PWM Speed Controller3V 6V 12V 24V 35V Speed Control Switch Mini LED Dimmer 5A 90W	 
+| https://www.amazon.com/gp/product/B07GP72BWV/ 
+| 2 
+
+| 1	
+| UTUO Brushless Radial Blower Dual Ball Bearing High Speed 12V DC Centrifugal Fan with XH-2.5 Plug 120mm by 120mm by 32mm 4.72x4.72x1.26 inch	
+| https://www.amazon.com/gp/product/B01CSNEO2G/ 
+| 1	
+
+| 1	
+| 2Pack Upgraded 3.5Ah M 12 Battery for Milwaukee 12V Battery Lithium XC M 12B Batteries 
+| https://www.amazon.com/gp/product/B082WW688D/	
+| 2	
+
+| 2	
+| Baomain Male Spade Quick Splice Crimp Terminals 6.3mm Crimp Connector Non Insulated	
+| https://www.amazon.com/gp/product/B01MQ332R6/ 
+| 	100	
+
+| 1	
+| Guardian Technologies FLT4010 Genuine High-Performance Allergen Air Purifier Replacement Filter A With Activated Charcoal Layer 
+| https://www.amazon.com/gp/product/B003AKNK4A/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1	
+| 1	
+
+| 2	
+| TOTOT 30 Pack 5.5mm x 2.1mm 3 Pin Female DC Power Jack Panel Mount Screw Nut Kit DC Socket Electrical Plug 
+| https://www.amazon.com/gp/product/B077YC457J/ 
+| 	30	
+
+| 1	
+| Donner 60CM Guitar Pedal Power Cable Cord 10-Pack 
+| 	https://www.amazon.com/gp/product/B078XRM3W4/ 
+| 10	
+
+| 8	
+| binifiMux 150pcs M4 x 0.7mm 304 Stainless Steel Hex Nuts Bright Finish 
+| https://www.amazon.com/gp/product/B07J6C1XTD/ 
+| 150	
+
+| 8	
+| 50 Pcs M4-0.70 x 20mm Button Head Socket Cap Bolts Screws, 18-8 Stainless Steel, Allen Hex Drive, ISO 7380, by Fullerkreg,Come in a Plastic Case 
+| https://www.amazon.com/M4-0-7X-Available-Stainless-Machine-Fastener/dp/B081JYXLK7/ 
+| 	50	 
+
+| 6	
+| BNTECHGO 20 Gauge Silicone wire 10 ft red and 10 ft black Flexible 20 AWG Stranded Copper Wire 
+| https://www.amazon.com/gp/product/B01AAX64EC/ 
+| 120	 
+
+| 6"	
+| 20 awg Solid wire kit Electrical wire Cable 7 colors 23ft each spools 20 gauge UL1007 Tinned Copper Hook up wire kit breadboard wire for DIY 
+| https://www.amazon.com/Electrical-colors-spools-UL1007-breadboard/dp/B083DNGSPV/ 
+| 	276	 
+
+|
+| Foam 
+| 
+| 
+
+|  
+| Weather stripping 
+| 
+|
+
+|
+| Dryer Tape 
+| 
+| 
+
+|  
+| Webbing/Straps
+| 
+|
+
+|
+| CPAP Hoses 
+| 
+| 
+|===
+
 
 == Necessary Tools
 
@@ -62,6 +132,7 @@ You will need these tools:
 4.  A hex screwdriver for the m4 screws
 5.  Tin snips
 6.  An x-acto knife
+7.  A 3D printer capable of printing all of the listed components (note the size of the print bed for the fan box)
 
 == Building the Battery/Controller Box
 
