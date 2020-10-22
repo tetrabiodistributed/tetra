@@ -1,0 +1,90 @@
+
+---
+title: "How to build a PAPR"
+linkTitle: "How to build a PAPR"
+weight: 1
+description: >
+  Describes how to build a PAPR.
+---
+
+== Quick Synopsis
+
+This guide will walk you through how to build a PAPR.  It assumes that you have some knowledge of soldering, 3D-printing, and cutting foam with a knife using a stencil, or that you're willing to learn, as the steps are fairly bsaic.  In the end, you will have three things: a box with a filter and a fan in it, a second box with batteries and a fan controller, and a mask.  These three things will be connected by hoses, wires, and straps, and you'll have something that will protect you and those around you from breathing COVID-19 or any other airborne virus transmitted through breathing, coughing, etc.  
+
+Please note that this system will not protect you from anything landing in your eyes.  For that protection, either the mask will need to be modified to be a helmet, or you will need a face shield.
+
+== Introduction
+
+Now, in the time of COVID-19, many people are at risk for exposure to the virus and cannot afford to get infected.  These people can isolate themselves, but often, their professions or requirements for daily life will take them in contact with other people, and they need some form of protection.  Masks definitely help, but can become uncomfortable to wear, and also obscure the face of the wearer.  This guide will walk you through creating a Powered Air-Purifying Respirator, which will protect the wearer and those around them from airborne viruses and bacteria, while at the same time providing positive airflow to the wearer's face.  That airflow makes sure that the wearer has a supply of fresh, cooled, clean air that has gone through a filtration process, and, in our tests, is the equivalent of wearing an N99 mask.
+
+The core of the idea is fairly simple: put a fan behind a filter in an airtight box, have the fan pull air through the filter, and push that air through a hose.  The hose goes to a mask on the wearer's face.  The wearer then breathes out, and air travels through a second hose back into the box and back out through the same filter.  This system means that the wearer only needs one filter for both inhalation and exhalation.  The wearer is protected from their surroundings, and anyone in the surroundings is protected from the wearer, both by the same filter.  The filter itself lasts for 3 months or so, while the battery is rechargeable for repeated use.
+
+== 3D Printed Parts
+
+You will need to print, using an FDM printer, PLA resin, at 0.2mm spacing:
+
+1.  The box case that holds the fan
+2.  The box case that holds the filter
+3.  The funnel that takes air from the fan into the hose
+4.  The grill that holds the filter in place
+5.  The case to hold the battery and fan control board
+6.  The plate to protect the fan control board
+7.  The face mask
+8.  Four spacers
+
+== Bill Of Materials
+
+You will need to buy these parts:
+
+1.  A Type-A HEPA filter
+2.  A fan
+3.  Solid wiring
+4.  Twisted wiring
+5.  Spade connectors
+6.  m4 20mm screws
+7.  m4 hex nuts
+8.  Two wiring sockets
+9.  One cable to connect the fan to the control board
+10.  A Battery
+11.  Straps/webbing
+12.  CPAP hoses
+13.  Solder
+14.  Dryer Tape
+15.  A sheet of 2mm-thick foam
+
+== Necessary Tools
+
+You will need these tools:
+
+1.  A crimper
+2.  Needlenose pliers
+3.  A soldering iron
+4.  A hex screwdriver for the m4 screws
+5.  Tin snips
+6.  An x-acto knife
+
+== Building the Battery/Controller Box
+
+
+== Building the Fan Box
+
+
+== Attaching to the Mask
+
+
+== Care and Maintenance
+
+Filter swaps every 3 months
+
+Battery charge as necessary
+
+Cleaning the exhalation line of condensed water
+
+== Alternative designs
+
+You can create a version of this with no egress tube, but instead have an egress one-way valve on the mask.  This approach will mean that those around you are not protected, but avoids the problem of water building up in the exhalation line.
+
+You can create a design using a mask fitment device, as in this guide: <guide>  However, you will compromise your mask, and that may mean less protection for you.  You will also have to replace the mask as frequently as if you did not have your PAPR in place.
+
+For both of these designs, the dual funnel from the fan box can be replaced with a single-funnel variant.
+

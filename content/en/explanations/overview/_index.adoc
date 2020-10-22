@@ -1,13 +1,13 @@
 
 ---
-title: "Executive Summary"
-linkTitle: "Executive Summary"
+title: "Project Tetra Overview"
+linkTitle: "Project Tetra Overview"
 weight: 1
 description: >
   Broad summary and context of Project Tetra.
 ---
 
-== Project Tetra Overview
+== Executive Summary
 
 Current medical standard operating procedure requires that patients who become severely ill with COVID-19 be treated using external ventilation.
 As the virus spreads, projections suggest that there are not enough ventilators to meet the expected numbers of patients throughout the world.
