@@ -1,10 +1,10 @@
 
 ---
-title: "How to build a PAPR"
-linkTitle: "How to build a PAPR"
+title: "How to build a Tetra PAPR"
+linkTitle: "How to build a Tetra PAPR"
 weight: 1
 description: >
-  Describes how to build a PAPR.
+  Describes how to build the October 2020 version of the Tetra PAPR.
 ---
 
 == Quick Synopsis
@@ -23,20 +23,53 @@ The core of the idea is fairly simple: put a fan behind a filter in an airtight 
 
 You will need to print, using an FDM printer, PLA resin, at 0.2mm spacing:
 
-1.  The fan box bottom half (holds the fan)
-2.  The fan box top half (holds the filter)
-3.  The fan box funnel that takes air from the fan into the hose
-4.  The fan box grill that holds the filter in place
-5.  The battery case to hold the battery and fan control board
-6.  The battery plate to protect the fan control board
-7.  The face mask
-8.  Four spacers
+.Table Printed Parts
+|===
+| Part | Quantity | STL File Location
+
+| The fan box bottom half (holds the fan) 
+| 1
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/FanBox.stl
+
+| The fan box top half (holds the filter)
+| 1
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/TypeABoxIsolate.stl
+
+| The fan box funnel that takes air from the fan into the hose
+| 1 
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/DoubleFunnelThin.stl
+
+| The fan box grill that holds the filter in place
+| 1
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/Cover.stl
+
+| The battery case to hold the battery and fan control board
+| 1 
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/M12%20Controller%20Body.stl
+
+| The battery plate to protect the fan control board
+| 1 
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/M12%20Lid.stl
+
+| The face mask
+| 1 
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/LargeMaskDoublePC.stl
+
+| Spacers
+| 4
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/NutSpacer.stl
+|===
+
+The files used in this build are v 1.0; later versions will require updates to this documentation.  You can download all files together here: https://github.com/tetrabiodistributed/papr-print-files/releases/tag/1.0
+
+There are also stencils for the foam cutting parts.
+ 
 
 == Bill Of Materials
 
 You will need to buy these parts  (prices fluctuate, so are not included here):
 
-.Table Title
+.Table Bill Of Materials (BOM)
 |===
 | Count | Description | URL | Number in Package 
 
@@ -58,7 +91,7 @@ You will need to buy these parts  (prices fluctuate, so are not included here):
 | 2	
 | Baomain Male Spade Quick Splice Crimp Terminals 6.3mm Crimp Connector Non Insulated	
 | https://www.amazon.com/gp/product/B01MQ332R6/ 
-| 	100	
+| 100	
 
 | 1	
 | Guardian Technologies FLT4010 Genuine High-Performance Allergen Air Purifier Replacement Filter A With Activated Charcoal Layer 
@@ -68,11 +101,11 @@ You will need to buy these parts  (prices fluctuate, so are not included here):
 | 2	
 | TOTOT 30 Pack 5.5mm x 2.1mm 3 Pin Female DC Power Jack Panel Mount Screw Nut Kit DC Socket Electrical Plug 
 | https://www.amazon.com/gp/product/B077YC457J/ 
-| 	30	
+| 30	
 
 | 1	
 | Donner 60CM Guitar Pedal Power Cable Cord 10-Pack 
-| 	https://www.amazon.com/gp/product/B078XRM3W4/ 
+| https://www.amazon.com/gp/product/B078XRM3W4/ 
 | 10	
 
 | 8	
@@ -83,7 +116,7 @@ You will need to buy these parts  (prices fluctuate, so are not included here):
 | 8	
 | 50 Pcs M4-0.70 x 20mm Button Head Socket Cap Bolts Screws, 18-8 Stainless Steel, Allen Hex Drive, ISO 7380, by Fullerkreg,Come in a Plastic Case 
 | https://www.amazon.com/M4-0-7X-Available-Stainless-Machine-Fastener/dp/B081JYXLK7/ 
-| 	50	 
+| 50	 
 
 | 6	
 | BNTECHGO 20 Gauge Silicone wire 10 ft red and 10 ft black Flexible 20 AWG Stranded Copper Wire 
@@ -93,7 +126,12 @@ You will need to buy these parts  (prices fluctuate, so are not included here):
 | 6"	
 | 20 awg Solid wire kit Electrical wire Cable 7 colors 23ft each spools 20 gauge UL1007 Tinned Copper Hook up wire kit breadboard wire for DIY 
 | https://www.amazon.com/Electrical-colors-spools-UL1007-breadboard/dp/B083DNGSPV/ 
-| 	276	 
+| 276	 
+
+| 
+| Heat shrink connector covering
+|
+|
 
 |
 | Foam 
@@ -122,19 +160,119 @@ You will need to buy these parts  (prices fluctuate, so are not included here):
 |===
 
 
+Here is a picture of all the parts, printed and purchased, for the build:
+
+https://photos.smugmug.com/photos/i-zqXBt9Q/0/X2/i-zqXBt9Q-X2.jpg
+
 == Necessary Tools
 
 You will need these tools:
 
 1.  A crimper
 2.  Needlenose pliers
-3.  A soldering iron
+3.  A soldering iron, solder, & some way to hold a part to be soldered
 4.  A hex screwdriver for the m4 screws
 5.  Tin snips
 6.  An x-acto knife
 7.  A 3D printer capable of printing all of the listed components (note the size of the print bed for the fan box)
+8.  A deburring tool
+9.  A small Phillips head screwdriver for the screw connections on the fan controller board
+10.  A hex wrench for the m4 screw heads
 
 == Building the Battery/Controller Box
+
+We start by building the battery controller box.  You will need these components on hand:
+
+1.  Battery Case ("M12 Controller Body")
+2.  Battery lid ("M12 Lid")
+3.  Crimper
+4.  Needle-nose pliers
+5.  Soldering iron/solder/soldering tools
+6.  2 red jacketed stranded wire ~2-3 inches (7-10 cm) long
+7.  2 black jacketed stranded wire ~2-3 inches (7-10 cm) long
+8.  Heat Shrink (to protect wire connections)
+9.  2 Male Spade Quick Splice Crimp Terminals
+10.  Tin snips
+11.  Wire stripper
+12.  Deburring tool
+
+## Build Steps
+
+### Prepare the wires
+
+#### Cut the wires to size.
+
+To do so, you will need to cut them down to their lengths (our build used ~3 inch/10 cm lengths).  We prepared all six wires (4 stranded and 2 solid) to be basically the same dimensions: ~3 inches/~10 in length, 0.5 cm insulation stripped from both ends.
+
+#### Tin the stranded wires.  
+
+Follow this guide here: 
+https://www.thespruce.com/tinning-stranded-electrical-wires-1152893
+
+Video describing the amount of wire to be tinned:
+https://photos.smugmug.com/photos/i-sTSdVhN/0/1920/i-sTSdVhN-1920.mp4
+
+Photo showing tinning of the wires:
+https://photos.smugmug.com/photos/i-vGx3mbh/0/O/i-vGx3mbh-O.jpg
+
+#### Crimp a red and black tinned wire each into the spade connectors
+How to crimp:
+https://photos.smugmug.com/photos/i-QjXdLPr/0/1920/i-QjXdLPr-1920.mp4
+
+Here's a photo for bad crimping:
+https://photos.smugmug.com/photos/i-4B25qFs/0/X2/i-4B25qFs-X2.jpg
+
+and the video explanation: 
+https://photos.smugmug.com/photos/i-2BHSLBL/0/1920/i-2BHSLBL-1920.mp4
+
+#### Attach remaining red and black tinned wires to the power socket
+
+How to build the power socket with tinned wires:
+https://photos.smugmug.com/photos/i-fDvHdXv/0/1920/i-fDvHdXv-1920.mp4
+
+#### Attach remaining red and black solid wires to the power socket
+
+How to build the power socket for the fan box with solid wires:
+https://photos.smugmug.com/photos/i-mfGN68v/0/1920/i-mfGN68v-1920.mp4
+
+
+Final prepared wiring looks like:
+https://photos.smugmug.com/photos/i-jmpfcwg/0/X2/i-jmpfcwg-X2.jpg
+
+#### Snip a portion of the spade connector
+A video describing this step:
+https://photos.smugmug.com/photos/i-bJ9DFfB/0/1920/i-bJ9DFfB-1920.mp4
+
+#### Clean the M12 battery holder spade ports
+On the inside of the printed M12 box, there are two slots where the spade connector should fit in.  These slots may have some extra plastic around them due to print quality issues, so use an x-acto knife to clean those slots:
+https://photos.smugmug.com/photos/i-V6kxqFR/0/1920/i-V6kxqFR-1920.mp4
+
+#### Insert the spade connectors into the M12 box
+These spade connectors should be inserted with red on the left, black on the right.  The snipped connector should slide in place and prevent the spade connector from coming back out again.
+https://photos.smugmug.com/photos/i-XgNPVmq/0/1920/i-XgNPVmq-1920.mp4
+
+Tab to hold the spade connector in place:
+https://photos.smugmug.com/photos/i-gtfQpgx/0/1920/i-gtfQpgx-1920.mp4
+
+Wire orientation: 
+https://photos.smugmug.com/photos/i-7LFMxCm/0/1920/i-7LFMxCm-1920.mp4
+
+Test the spade connectors are in place:
+https://photos.smugmug.com/photos/i-dGMrbD7/0/1920/i-dGMrbD7-1920.mp4
+
+#### Insert the power socket into the M12 box
+
+You may need to deburr the edges of the hole: https://photos.smugmug.com/photos/i-KNWz64M/0/O/i-KNWz64M-O.jpg
+Insert the plug into the hole, and then screw the nut into the back of the socket to keep the socket in place
+
+#### Connect the wires to the fan controller board
+
+
+
+
+
+
+
 
 
 == Building the Fan Box
