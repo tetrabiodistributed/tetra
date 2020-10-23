@@ -239,6 +239,8 @@ https://photos.smugmug.com/photos/i-mfGN68v/0/1920/i-mfGN68v-1920.mp4
 Final prepared wiring looks like:
 https://photos.smugmug.com/photos/i-jmpfcwg/0/X2/i-jmpfcwg-X2.jpg
 
+### M12 controller circuitry 
+
 #### Snip a portion of the spade connector
 A video describing this step:
 https://photos.smugmug.com/photos/i-bJ9DFfB/0/1920/i-bJ9DFfB-1920.mp4
