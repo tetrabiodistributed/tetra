@@ -305,6 +305,51 @@ Congratulations, you have completed the assembly of the power box for your PAPR!
 
 == Building the Fan Box
 
+The fan box is assembled in such a way that different regions of the HEPA filter are used for the inspiratory and expiratory air pathways, and uses foam, dryer tape, and weather sealing to ensure the separation between chambers.
+
+### Install the fan, funnel, and power
+
+#### Install the power socket
+
+This socket will allow the guitar cable to connect the fan box to the power box so that the knob on the power box can control the fan.  Inserting the socket is fairly straightforward, and is explained in this video:
+
+video::https://photos.smugmug.com/photos/i-ZP5x4Hh/0/1920/i-ZP5x4Hh-1920.mp4[]
+
+#### Connect the fan to the power cable. 
+
+Insert the red wire into the side fan connector where the red cable enters the connector, and the black wire into the black side of the fan connector.  You can test by plugging the guitar cable into the power socket and into the fan socket; turning the knob should power the fan.
+
+
+#### Install the funnel and fan in the box
+
+Place the dryer tape around the junction between the fan and the funnel, and then slide the complex into the hole into the fan box.  Once the complex is snapped in place, wrap the rest of the tape around the junction between the fan and the funnel.
+
+video::https://photos.smugmug.com/photos/i-ZWcDgSs/0/1920/i-ZWcDgSs-1920.mp4[]
+
+#### Test that the fan blows
+
+Connect the guitar cable between the M12 power box and the fan box.  The knob should control the fan and allow for variable blower settings, and air should not be coming out of any part of the system except one side of the funnel.
+
+video::https://photos.smugmug.com/photos/i-tGbPSJR/0/1920/i-tGbPSJR-1920.mp4[]
+
+
+### Install the foam and weather stripping
+
+#### Use the stencils to cut foam inserts
+
+There are three foam inserts, and two have stencils in this build that are 3d printable.  Cutting the foam follows the procedure outlined in this video:
+
+video::https://photos.smugmug.com/photos/i-8pkKGjH/0/1920/i-8pkKGjH-1920.mp4[]
+
+#### After the foam is cut, punch holes for the screws
+
+The purpose of this step is to allow screws to connect the fan holder box to the filter holder box and not twist the foam insert.
+
+image::https://photos.smugmug.com/photos/i-M7jLBqH/0/X2/i-M7jLBqH-X2.jpg[]
+
+### Install the filter and the top grill
+
+
 
 == Attaching to the Mask
 
