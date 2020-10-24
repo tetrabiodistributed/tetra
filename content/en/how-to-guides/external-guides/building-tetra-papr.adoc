@@ -58,6 +58,15 @@ You will need to print, using an FDM printer, PLA resin, at 0.2mm spacing:
 | Spacers
 | 4
 | https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/NutSpacer.stl
+
+| Filter Gasket Stencil
+| 1
+| https://github.com/tetrabiodistributed/papr-print-files/blob/4fbd564866b682f1d9324b8bf24bd5a0270a0f18/STLs/FilterGasket.stl
+
+| Box Gasket Stencil
+| 1
+| https://github.com/tetrabiodistributed/papr-print-files/blob/4fbd564866b682f1d9324b8bf24bd5a0270a0f18/STLs/BoxGasket.stl
+
 |===
 
 The files used in this build are v 1.0; later versions will require updates to this documentation.  You can download all files together here: https://github.com/tetrabiodistributed/papr-print-files/releases/tag/1.0
@@ -118,7 +127,7 @@ You will need to buy these parts  (prices fluctuate, so are not included here):
 | https://www.amazon.com/M4-0-7X-Available-Stainless-Machine-Fastener/dp/B081JYXLK7/ 
 | 50	 
 
-| 6	
+| 6"	
 | BNTECHGO 20 Gauge Silicone wire 10 ft red and 10 ft black Flexible 20 AWG Stranded Copper Wire 
 | https://www.amazon.com/gp/product/B01AAX64EC/ 
 | 120	 
@@ -194,6 +203,7 @@ We start by building the battery controller box.  You will need these components
 10.  Tin snips
 11.  Wire stripper
 12.  Deburring tool
+13.  Philips head screwdriver
 
 ## Build Steps
 
@@ -279,6 +289,7 @@ video::https://photos.smugmug.com/photos/i-mm5wPfK/0/1920/i-mm5wPfK-1920.mp4[]
 #### Install the board into the M12 box
 
 This video captures the entire process:
+
 video::https://photos.smugmug.com/photos/i-fHTTM3s/0/1920/i-fHTTM3s-1920.mp4[]
 
 Essentially, these steps are followed:
@@ -289,7 +300,7 @@ Essentially, these steps are followed:
 4.  Place the board in the box
 5.  Screw the nut and motor control knob onto the board from the outside of the box
 6.  Check the connection by turning on the power knob and looking for the red LED on the board to light up
-6.  Close access to the circuitboard using the M12 Lid
+7.  Close access to the circuitboard using the M12 Lid
 
 You may need to deburr the edges of the hole: 
 
@@ -297,13 +308,31 @@ image::https://photos.smugmug.com/photos/i-KNWz64M/0/X2/i-KNWz64M-O.jpg[]
 
 The final board:
 
-https://photos.smugmug.com/photos/i-kMLkq5k/0/X2/i-kMLkq5k-X2.jpg
-
+image::https://photos.smugmug.com/photos/i-kMLkq5k/0/X2/i-kMLkq5k-X2.jpg[]
 
 Congratulations, you have completed the assembly of the power box for your PAPR!
 
 
 == Building the Fan Box
+
+You will need these parts for this step:
+
+1.  Fan box 
+2.  Filter box
+3.  Completed power plug with solid wires
+4.  Dryer tape
+5.  Funnel
+6.  Weather stripping
+7.  2mm foam
+8.  Filter Box Stencil
+9.  Box Gasket Stencil
+10.  An x-acto knife
+11.  The deburring tool
+12.  Hex screw driver
+13.  HEPA Type-A Filter
+14.  Hex screws
+15.  Hex nuts
+
 
 The fan box is assembled in such a way that different regions of the HEPA filter are used for the inspiratory and expiratory air pathways, and uses foam, dryer tape, and weather sealing to ensure the separation between chambers.
 
@@ -318,6 +347,8 @@ video::https://photos.smugmug.com/photos/i-ZP5x4Hh/0/1920/i-ZP5x4Hh-1920.mp4[]
 #### Connect the fan to the power cable. 
 
 Insert the red wire into the side fan connector where the red cable enters the connector, and the black wire into the black side of the fan connector.  You can test by plugging the guitar cable into the power socket and into the fan socket; turning the knob should power the fan.
+
+image::https://photos.smugmug.com/photos/i-wSJHwgM/0/X2/i-wSJHwgM-X2.jpg[]
 
 
 #### Install the funnel and fan in the box
@@ -335,38 +366,84 @@ video::https://photos.smugmug.com/photos/i-tGbPSJR/0/1920/i-tGbPSJR-1920.mp4[]
 
 ### Install the foam and weather stripping
 
+This video explains the process and explain the reasoning behind the different types of sealing:
+
+video::https://photos.smugmug.com/photos/i-St3Htsb/0/1920/i-St3Htsb-1920.mp4[]
+
 #### Use the stencils to cut foam inserts
 
 There are three foam inserts, and two have stencils in this build that are 3d printable.  Cutting the foam follows the procedure outlined in this video:
 
 video::https://photos.smugmug.com/photos/i-8pkKGjH/0/1920/i-8pkKGjH-1920.mp4[]
 
-#### After the foam is cut, punch holes for the screws
+#### After the foam is cut, punch holes for the screws in the Box Gasket foam
 
 The purpose of this step is to allow screws to connect the fan holder box to the filter holder box and not twist the foam insert.
 
 image::https://photos.smugmug.com/photos/i-M7jLBqH/0/X2/i-M7jLBqH-X2.jpg[]
 
+#### Place foam cut to match the foam gasket inside the filter box
+
+As per this photo, finger fitting is fine:
+
+image::https://photos.smugmug.com/photos/i-f452mKq/0/X2/i-f452mKq-X2.jpg[]
+
+#### Place the nuts and spacers inside the filter box
+
+As per this photo.  Drop the nut in first, and then the spacer.  A mallet may be required to facilitate insertion of the spacers, depending on print quality.  A hammer may damage the PLA.
+
+image::https://photos.smugmug.com/photos/i-rMsPCGd/0/X2/i-rMsPCGd-X2.jpg[]
+
+#### Place the foam cut to match the box gasket insert around the outer lower edge of the filter box
+
+As per this photo:
+
+image::https://photos.smugmug.com/photos/i-96G4GCn/0/X2/i-96G4GCn-X2.jpg[]
+
+#### Connect the two boxes
+
+Take the foam insert portion remaining from cutting the Box Gasket foam, and place that between the two boxes.  You will need to cut out the foam to match the image below:
+
+image::https://photos.smugmug.com/photos/i-x2ZwDdw/0/X2/i-x2ZwDdw-X2.jpg[]
+
+
+Place hex nuts in the outer screw wells and screw the boxes together.
+
+#### Place the weather stripping on the rails of the filter box
+
+Following this photo:
+https://photos.smugmug.com/photos/i-fQ7gKh2/0/X2/i-fQ7gKh2-X2.jpg
+ 
+
 ### Install the filter and the top grill
 
+The filter should fit directly into the top, but will be a tight squeeze.  Place your filter with these lines down towards the fan:
+
+image::https://photos.smugmug.com/photos/i-ZLxMzcg/0/X2/i-ZLxMzcg-X2.jpg[]
 
 
 == Attaching to the Mask
 
+Attaching to the mask is a matter of first deciding where the box will be worn (on the chest, as a backpack, or some other orientation).  We recommend cutting the webbing such that the box can be worn comfortably with the m12 controller box threaded through the webbing.  You may need someone to help you with this:
+
+image::https://photos.smugmug.com/photos/i-8rj2S5Z/0/X2/i-8rj2S5Z-X2.jpg[]
+
+The hoses can be fit by tension by pushing into the mask and into the funnel boxes.
+
+And now your PAPR is done!
+
+Mix and match colors by doing various prints:
+
+image::https://photos.smugmug.com/photos/i-xgj7v3S/0/X2/i-xgj7v3S-X2.jpg[]
+
 
 == Care and Maintenance
 
-Filter swaps every 3 months
+This PAPR has been found to easily exceed n95 filtration both for the wearer and for those around them (in the sense that the wearer's exhaled air is filtered).  These types of devices can last for a long time, but some care and maintenance must be performed.
 
-Battery charge as necessary
 
-Cleaning the exhalation line of condensed water
+1.  The filter should last for around 3 months with relatively constant use.  The system will just blow less air as the filter becomes more clogged, so replace the filter if your PAPR is not pushing enough air for you.
+2.  The battery will need to be charged after several hours of use.  If you're using the PAPR for more than a few hours at a time, you may want a second battery.
+3.  Water will condense in the exhalation hose during the normal course of use.  We recommend regularly cleaning out the hoses; there are several CPAP hose cleaning kits, or a bottle brush could work as well.
 
-== Alternative designs
-
-You can create a version of this with no egress tube, but instead have an egress one-way valve on the mask.  This approach will mean that those around you are not protected, but avoids the problem of water building up in the exhalation line.
-
-You can create a design using a mask fitment device, as in this guide: <guide>  However, you will compromise your mask, and that may mean less protection for you.  You will also have to replace the mask as frequently as if you did not have your PAPR in place.
-
-For both of these designs, the dual funnel from the fan box can be replaced with a single-funnel variant.
 
