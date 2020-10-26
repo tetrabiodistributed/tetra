@@ -9,7 +9,7 @@ description: >
 
 == Quick Synopsis
 
-This guide will walk you through how to build a PAPR.  It assumes that you have some knowledge of soldering, 3D-printing, and cutting foam with a knife using a stencil, or that you're willing to learn, as the steps are fairly bsaic.  In the end, you will have three things: a box with a filter and a fan in it, a second box with batteries and a fan controller, and a mask.  These three things will be connected by hoses, wires, and straps, and you'll have something that will protect you and those around you from breathing COVID-19 or any other airborne virus transmitted through breathing, coughing, etc.  
+This guide will walk you through how to build a PAPR.  It assumes that you have some knowledge of soldering, 3D-printing, and cutting foam with a knife using a stencil, or that you're willing to learn, as the steps are fairly bsaic.  In the end, you will have three things: a box with a filter and a fan in it, a second box with batteries and a fan controller, and a mask.  These three things will be connected by hoses, wires, and straps, and you'll have something that will protect both you from breathing in aerosolized virii and prevent you from spreading virii to those around you.  
 
 Please note that this system will not protect you from anything landing in your eyes.  For that protection, either the mask will need to be modified to be a helmet, or you will need a face shield.
 
@@ -59,6 +59,16 @@ You will need to print, using an FDM printer, PLA resin, at 0.2mm spacing:
 | 4
 | https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/NutSpacer.stl
 
+|===
+
+The files used in this build are v 1.0; later versions will require updates to this documentation.  You can download all files together here: https://github.com/tetrabiodistributed/papr-print-files/releases/tag/1.0
+
+There are also stencils for the foam cutting parts.
+
+.Table Printed Stencils
+|===
+| Part | Quantity | STL File Location
+
 | Filter Gasket Stencil
 | 1
 | https://github.com/tetrabiodistributed/papr-print-files/blob/4fbd564866b682f1d9324b8bf24bd5a0270a0f18/STLs/FilterGasket.stl
@@ -68,10 +78,6 @@ You will need to print, using an FDM printer, PLA resin, at 0.2mm spacing:
 | https://github.com/tetrabiodistributed/papr-print-files/blob/4fbd564866b682f1d9324b8bf24bd5a0270a0f18/STLs/BoxGasket.stl
 
 |===
-
-The files used in this build are v 1.0; later versions will require updates to this documentation.  You can download all files together here: https://github.com/tetrabiodistributed/papr-print-files/releases/tag/1.0
-
-There are also stencils for the foam cutting parts.
  
 
 == Bill Of Materials
@@ -138,34 +144,45 @@ You will need to buy these parts  (prices fluctuate, so are not included here):
 | 276	 
 
 | 
-| Heat shrink connector covering
+| Heat shrink connector covering (optional)
 |
 |
 
-|
-| Foam 
-| 
-| 
+| 1
+| 2mm Craft Foam 
+| https://www.amazon.com/Foam-Sheet-X18-2mm-White-pack/dp/B004M5QGBQ
+| 10
 
-|  
-| Weather stripping 
-| 
-|
+| 7
+| Frost King EPDM Rubber Self-Stick Weatherseal Tape, D-Section, 
+| https://www.amazon.com/Frost-King-Self-Stick-Weatherseal-D-Section/dp/B00FQ5A5RM
+| 204
 
-|
-| Dryer Tape 
-| 
-| 
+| 6
+| Nashua Dryer Vent Installation Tape 
+| https://www.homedepot.com/p/Nashua-Tape-1-89-in-x-30-yd-Dryer-Vent-Installation-Tape-1390801/207203955
+| 1080
 
-|  
-| Webbing/Straps
-| 
-|
+| 4 
+| MTP 1" Seat-belt Black Polyester Webbing Strap
+| https://www.amazon.com/gp/product/B0711VNY5M
+| 30
 
+| 4
+| 1 Inch Plastic Triglides Slides
+| https://www.amazon.com/gp/product/B07KRTRGDK
+| 100
+
+| 2
+| CPAP Hoses (possible candidate-- this product is 3 feet, you may want something longer or shorter)
+| https://www.amazon.com/Gray-Standard-CPAP-Tubing-foot/dp/B073GBQN73
+| 200 yards
+
+
+| (Length depends on head size and wearing preferences)
+| Bathing Suit Elastic
+| https://www.amazon.com/Elastic-Shed-Protector-Handmade-Stretch/dp/B088DB6JQ8
 |
-| CPAP Hoses 
-| 
-| 
 |===
 
 
@@ -173,19 +190,44 @@ Here is a picture of all the parts, printed and purchased, for the build:
 
 image::https://photos.smugmug.com/photos/i-zqXBt9Q/0/X2/i-zqXBt9Q-X2.jpg[All Parts]
 
-== Necessary Tools
+== Recommeded Tools
 
-You will need these tools:
+These tools are recommended. URLs are for tools purchased and used in the building of the prototypes:
 
-1.  A crimper
-2.  Needlenose pliers
-3.  A soldering iron, solder, & some way to hold a part to be soldered
-4.  A hex screwdriver for the m4 screws
-5.  Tin snips
-6.  An x-acto knife
-7.  A 3D printer capable of printing all of the listed components (note the size of the print bed for the fan box)
-8.  A deburring tool
-9.  A small Phillips head screwdriver for the screw connections on the fan controller board
+.Table Tool List
+|===
+| Description | URL
+
+| Iwiss SN-48B Pin Crimping Tool 
+| https://www.amazon.com/gp/product/B00OMMZ502
+
+| 4-3/4 In. Bent Long Nose Pliers
+| https://www.harborfreight.com/4-34-in-bent-long-nose-pliers-63819.html
+
+| Soldering iron
+| https://www.amazon.com/gp/product/B01MD12DYT
+
+| A hex screwdriver for the m4 screws
+| https://www.amazon.com/gp/product/B007ICWAJC
+
+| Flush cutter
+| https://www.harborfreight.com/micro-flush-cutter-90708.html
+
+| X-acto knife
+| https://www.amazon.com/Xacto-X3201-N0-Precision-Knife/dp/B00004Z2TQ
+
+| 3D Printer (note the size of the print bed for the fan box)
+|  https://www.creality3d.shop/collections/ender-series-3d-printer/products/creality3d-ender-3-pro-high-precision-3d-printer
+
+| A deburring tool
+| https://www.amazon.com/gp/product/B01L2XR4P2
+
+| #0 Phillips head screwdriver
+| https://www.homedepot.com/p/Husky-8-in-1-Screwdriver-with-LED-Light-232360016/301959976
+
+| CPAP hose cleaner (for maintenance)
+| https://www.amazon.com/Cleaning-DreamStation-Diameter-Stainless-Cleaner/dp/B08HLQV2VK/
+|===
 
 == Building the Battery/Controller Box
 
@@ -200,7 +242,7 @@ We start by building the battery controller box.  You will need these components
 7.  2 black jacketed stranded wire ~2-3 inches (7-10 cm) long
 8.  Heat Shrink (to protect wire connections)
 9.  2 Male Spade Quick Splice Crimp Terminals
-10.  Tin snips
+10.  Flush Cutters
 11.  Wire stripper
 12.  Deburring tool
 13.  Philips head screwdriver
@@ -436,6 +478,10 @@ Mix and match colors by doing various prints:
 
 image::https://photos.smugmug.com/photos/i-xgj7v3S/0/X2/i-xgj7v3S-X2.jpg[]
 
+The printed box has 8 locations that are intended to thread 1-inch webbing, and the M12 controller box also has a slot for the same webbing, so that the controller can be worn on the webbing.  If you use the recommended webbing, cut the lengths that you need for how you want to wear the box, being careful to use a lighter or some other open flame to melt the ends of the webbing to prevent fraying in the future.  The arrangement of webbing is much more of a personal style choice, and there are plenty of configurations that someone can choose.  
+
+The mask can be held in place with elastic, a shoestring, or another form of cloth or plastic that will fit through the printed holes.  We use the listed bathing suit elastic. 
+
 
 == Care and Maintenance
 
@@ -444,6 +490,6 @@ This PAPR has been found to easily exceed n95 filtration both for the wearer and
 
 1.  The filter should last for around 3 months with relatively constant use.  The system will just blow less air as the filter becomes more clogged, so replace the filter if your PAPR is not pushing enough air for you.
 2.  The battery will need to be charged after several hours of use.  If you're using the PAPR for more than a few hours at a time, you may want a second battery.
-3.  Water will condense in the exhalation hose during the normal course of use.  We recommend regularly cleaning out the hoses; there are several CPAP hose cleaning kits, or a bottle brush could work as well.
+3.  Water will condense in the exhalation hose during the normal course of use.  We recommend regularly cleaning out the hoses; there are several CPAP hose cleaning kits, or a bottle brush could work as well, with one candidate in the tool list above.
 
 
