@@ -2,7 +2,7 @@
 &lt;div class="paragraph">
 &lt;div class="pageinfo pageinfo-primary">
 &lt;div class="paragraph">
-&lt;p>These guidelines assume that you&amp;#8217;re familiar with the GitHub workflow.&lt;/p>
+&lt;p>These guidelines assume that you’re familiar with the GitHub workflow.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -20,7 +20,7 @@ Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHu
 &lt;h2 id="_creating_an_issue">Creating an issue&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
-&lt;p>If you&amp;#8217;ve found a problem in the docs, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
+&lt;p>If you’ve found a problem in the docs, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -28,24 +28,24 @@ Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHu
 &lt;h2 id="_updating_the_site">Updating the site&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
-&lt;p>Here&amp;#8217;s a quick guide to updating the site:&lt;/p>
+&lt;p>Here’s a quick guide to updating the site:&lt;/p>
 &lt;/div>
 &lt;div class="olist arabic">
 &lt;ol class="arabic">
 &lt;li>
 &lt;p>Create a new branch, or checkout an existing branch, in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>. The branch name should be prepended with its associated issue label followed by a &lt;code>/&lt;/code>, followed by a &lt;code>dash-separated&lt;/code> description of the changes to be made, followed by its associated issue number, e.g., &lt;code>feature/add-tricoder-with-touchscreen-docs-1701&lt;/code>. If no such issue exists, &lt;a href="#_creating_an_issue">create a new issue&lt;/a>.&lt;/p>
 &lt;div class="paragraph">
-&lt;p>Note: If you haven&amp;#8217;t been added as a collaborator to the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>, you will need to either fork the repo or contact the repo admin to request write access. The repo admin can be contacted via the HelpfulEngineering slack group on the &lt;a href="https://app.slack.com/client/TUTSYURT3/C0103QJMA84">#project-tetra&lt;/a> channel.&lt;/p>
+&lt;p>Note: If you haven’t been added as a collaborator to the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>, you will need to either fork the repo or contact the repo admin to request write access. The repo admin can be contacted via the HelpfulEngineering slack group on the &lt;a href="https://app.slack.com/client/TUTSYURT3/C0103QJMA84">#project-tetra&lt;/a> channel.&lt;/p>
 &lt;/div>
 &lt;/li>
 &lt;li>
 &lt;p>Commit your changes and create a pull request (PR). Be sure to include a closing keyword followed by the associated issue number in the PR description, e.g., &lt;code>closes #1701&lt;/code>. If the pull request closes multiple issues, add a closing keyword for each issue. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
+&lt;p>If you’re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it’s a work in progress. Continue updating your doc and pushing your changes until you’re happy with the content.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>When you&amp;#8217;re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
+&lt;p>When you’re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Once your PR is merged, you may safely delete your branch.&lt;/p>
@@ -58,14 +58,14 @@ Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHu
 &lt;h2 id="_updating_a_single_page">Updating a single page&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
-&lt;p>If you&amp;#8217;ve just spotted something you&amp;#8217;d like to change while using the docs, Docsy has a shortcut for you:&lt;/p>
+&lt;p>If you’ve just spotted something you’d like to change while using the docs, Docsy has a shortcut for you:&lt;/p>
 &lt;/div>
 &lt;div class="olist arabic">
 &lt;ol class="arabic">
 &lt;li>
 &lt;p>Click &lt;strong>Edit this page&lt;/strong> in the top right hand corner of the page. The appropriate page will be displayed in edit mode.&lt;/p>
 &lt;div class="paragraph">
-&lt;p>Note: If you haven&amp;#8217;t been added as a collaborator, you will be prompted to fork the repo or update your fork of the repo - click &lt;strong>Fork this repository and propose changes&lt;/strong> or &lt;strong>Update your Fork&lt;/strong> to get an up to date version of the project to edit.&lt;/p>
+&lt;p>Note: If you haven’t been added as a collaborator, you will be prompted to fork the repo or update your fork of the repo - click &lt;strong>Fork this repository and propose changes&lt;/strong> or &lt;strong>Update your Fork&lt;/strong> to get an up to date version of the project to edit.&lt;/p>
 &lt;/div>
 &lt;/li>
 &lt;li>
@@ -87,7 +87,7 @@ Consult &lt;a href="https://help.github.com/articles/about-pull-requests/">GitHu
 &lt;p>Install &lt;a href="https://www.docker.com/">docker&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>Clone the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>. Don&amp;#8217;t forget to use &lt;code>--recurse-submodules&lt;/code> or you won&amp;#8217;t pull down some of the code you need to generate a working site.&lt;/p>
+&lt;p>Clone the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs">Project Tetra docs repo&lt;/a>. Don’t forget to use &lt;code>--recurse-submodules&lt;/code> or you won’t pull down some of the code you need to generate a working site.&lt;/p>
 &lt;div class="listingblock">
 &lt;div class="content">
 &lt;pre class="highlight">&lt;code class="language-bash" data-lang="bash">git clone --recurse-submodules https://github.com/tetrabiodistributed/project-tetra-docs.git
@@ -115,7 +115,7 @@ cd project-tetra-docs&lt;/code>&lt;/pre>
 &lt;/div>
 &lt;/li>
 &lt;li>
-&lt;p>Now that you&amp;#8217;re serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.&lt;/p>
+&lt;p>Now that you’re serving your site locally, Hugo will watch for changes to the content and automatically refresh your site.&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/div>
@@ -167,7 +167,7 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;div class="paragraph">
 &lt;div class="pageinfo pageinfo-primary">
 &lt;div class="paragraph">
-&lt;p>These guidelines assume that you&amp;#8217;re familiar with the GitHub workflow.&lt;/p>
+&lt;p>These guidelines assume that you’re familiar with the GitHub workflow.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -203,7 +203,7 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;h2 id="_creating_an_issue">Creating an issue&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
-&lt;p>If you&amp;#8217;ve found a problem in the docs, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
+&lt;p>If you’ve found a problem in the docs, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -222,10 +222,10 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;p>Commit your changes and create a pull request (PR). Be sure to include a closing keyword followed by the associated issue number in the PR description, e.g., &lt;code>closes #1701&lt;/code>. If the pull request closes multiple issues, add a closing keyword for each issue. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
+&lt;p>If you’re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it’s a work in progress. Continue updating your doc and pushing your changes until you’re happy with the content.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>When you&amp;#8217;re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
+&lt;p>When you’re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Once your PR is merged, you may safely delete your branch.&lt;/p>
@@ -255,10 +255,10 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;p>Commit your changes and create a pull request (PR). Be sure to include a closing keyword followed by the associated issue number in the PR description, e.g., &lt;code>closes #1031&lt;/code>. If the pull request closes multiple issues, add a closing keyword for each issue. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
+&lt;p>If you’re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it’s a work in progress. Continue updating your doc and pushing your changes until you’re happy with the content.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>When you&amp;#8217;re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
+&lt;p>When you’re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Once your PR is merged, you may safely delete your branch.&lt;/p>

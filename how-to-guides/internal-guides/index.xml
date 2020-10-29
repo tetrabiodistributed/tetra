@@ -27,7 +27,7 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;div class="paragraph">
 &lt;div class="pageinfo pageinfo-primary">
 &lt;div class="paragraph">
-&lt;p>These guidelines assume that you&amp;#8217;re familiar with the GitHub workflow.&lt;/p>
+&lt;p>These guidelines assume that you’re familiar with the GitHub workflow.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -63,7 +63,7 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;h2 id="_creating_an_issue">Creating an issue&lt;/h2>
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
-&lt;p>If you&amp;#8217;ve found a problem in the docs, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
+&lt;p>If you’ve found a problem in the docs, please create an issue in the &lt;a href="https://github.com/tetrabiodistributed/project-tetra-docs/issues">Project Tetra docs repo&lt;/a>. You can also create an issue about a specific page by clicking the &lt;strong>Create documentation issue&lt;/strong> button in the top right hand corner of the page.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -82,10 +82,10 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;p>Commit your changes and create a pull request (PR). Be sure to include a closing keyword followed by the associated issue number in the PR description, e.g., &lt;code>closes #1701&lt;/code>. If the pull request closes multiple issues, add a closing keyword for each issue. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
+&lt;p>If you’re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it’s a work in progress. Continue updating your doc and pushing your changes until you’re happy with the content.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>When you&amp;#8217;re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
+&lt;p>When you’re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Once your PR is merged, you may safely delete your branch.&lt;/p>
@@ -115,10 +115,10 @@ Consult the &lt;a href="https://documentation.divio.com/">The Documentation Syst
 &lt;p>Commit your changes and create a pull request (PR). Be sure to include a closing keyword followed by the associated issue number in the PR description, e.g., &lt;code>closes #1031&lt;/code>. If the pull request closes multiple issues, add a closing keyword for each issue. (See &lt;a href="https://docs.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords">closing issues using keywords&lt;/a>.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>If you&amp;#8217;re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it&amp;#8217;s a work in progress. Continue updating your doc and pushing your changes until you&amp;#8217;re happy with the content.&lt;/p>
+&lt;p>If you’re not yet ready for a review, mark the PR as &lt;em>Draft&lt;/em> to indicate it’s a work in progress. Continue updating your doc and pushing your changes until you’re happy with the content.&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>When you&amp;#8217;re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
+&lt;p>When you’re ready for a review, mark the PR as &lt;em>Ready for review&lt;/em>.&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Once your PR is merged, you may safely delete your branch.&lt;/p>
