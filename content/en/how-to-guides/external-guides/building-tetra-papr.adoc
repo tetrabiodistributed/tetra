@@ -7,6 +7,10 @@ description: >
   Describes how to build the October 2020 version of the Tetra PAPR.
 ---
 
+== IMPORTANT NOTE
+
+Our most recent analysis has shown that this device has significant CO2 rebreathing issues.  Please do not use this product as described below; we're including these instructions to show progress towards the ultimate PAPR products.
+
 == Quick Synopsis
 
 This guide will walk you through how to build a PAPR.  It assumes that you have some knowledge of soldering, 3D-printing, and cutting foam with a knife using a stencil, or that you're willing to learn, as the steps are fairly bsaic.  In the end, you will have three things: a box with a filter and a fan in it, a second box with batteries and a fan controller, and a mask.  These three things will be connected by hoses, wires, and straps, and you'll have something that will protect both you from breathing in aerosolized virii and prevent you from spreading virii to those around you.  
