@@ -13,7 +13,7 @@ The Project Tetra documentation is intended to serve multiple use cases, illustr
 
 [plantuml, uc-docs, svg]
 ....
-include::system_model/uc-docs.puml[]
+include::system-model/behavior/uc-docs.puml[]
 ....
 
 == Languages ==

@@ -21,7 +21,7 @@ frame "ibd [System] Ventilator Splitter Assembly [Air flow] " {
   pIn ..> armIn
 
   component "<b>Ventilator Splitter Assembly</b>" <<block>> as vsb {
-    !include system_model/block-ventilator-splitter-assembly.puml
+    !include system-model/structure/block-ventilator-splitter-assembly.puml
 
     vsbpOut -- vsbOut
     vsbpIn -- vsbIn
