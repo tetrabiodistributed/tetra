@@ -2,7 +2,7 @@
 
 This repository contains the content and source code for generating the https://tetrabiodistributed.github.io/project-tetra-docs[Project Tetra Docs] site.
 
-See https://tetrabiodistributed.github.io/project-tetra-docs/explanations/docs_overview/[Documentation Overview].
+See https://tetrabiodistributed.github.io/project-tetra-docs/explanations/documentation-overview/[Documentation Overview].
 
 == Running the website locally
 
