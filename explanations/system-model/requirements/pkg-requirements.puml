@@ -1,0 +1,101 @@
+@startuml
+left to right direction
+
+!startsub REQ1
+object "<U+00AB>requirement<U+00bb>\n<b>Volume Adjustment</b>" as req1 {
+        id : 1
+        text : "Volumes shall be adjustable per-patient"
+}
+!endsub
+
+!startsub REQ11
+object "<U+00AB>requirement<U+00bb>\n<b>Matching Protocol</b>" as req11 {
+        id : 1.1
+        text : "Volumes should have matching protocol"
+}
+!endsub
+
+!startsub REQ2
+object "<U+00AB>requirement<U+00bb>\n<b>PEEP Management</b>" as req2 {
+        id : 2
+        text : "PEEP shall be managed by the ventilator when the circuit is properly closed"
+}
+!endsub
+
+!startsub REQ3
+object "<U+00AB>requirement<U+00bb>\n<b>Pressure Loss Alarms</b>" as req3 {
+        id : 3
+        text : "Pressure loss shall trigger alarms"
+}
+!endsub
+
+!startsub REQ4
+object "<U+00AB>requirement<U+00bb>\n<b>Patient Attachment/Detachment</b>" as req4 {
+        id : 4
+        text : "Patients shall be attachable/detachable without compromising other patients"
+}
+!endsub
+
+!startsub REQ5
+object "<U+00AB>requirement<U+00bb>\n<b>Bias Circuit</b>" as req5 {
+        id : 5
+        text : "Expiratory gas shall not be shared between circuits"
+}
+!endsub
+
+!startsub REQ6
+object "<U+00AB>requirement<U+00bb>\n<b>External Monitor</b>" as req6 {
+        id : 6
+        text : "External monitors shall provide average pressures & volumes"
+}
+!endsub
+
+!startsub REQ61
+object "<U+00AB>requirement<U+00bb>\n<b>External Monitor: Average Pressure</b>" as req61 {
+        id : 6.1
+        text : "External monitors shall provide telemetry data on average expiratory pressures"
+}
+!endsub
+
+!startsub REQ62
+object "<U+00AB>requirement<U+00bb>\n<b>External Monitor: Volume</b>" as req62 {
+        id : 6.2
+        text : "External monitors shall provide telemetry data on circuit volume"
+}
+!endsub
+
+!startsub REQ7
+object "<U+00AB>requirement<U+00bb>\n<b>External Monitor: Volume</b>" as req62 {
+        id : 6.2
+        text : "External monitors shall provide telemetry data on circuit volume"
+}
+!endsub
+
+req1 +.. req11 : <<derivedReq>>
+req6 +.. req61 : <<derivedReq>>
+req6 +.. req62 : <<derivedReq>>
+
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C1
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C2
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C3
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C4
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C5
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C6
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C7
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C8
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C9
+!includesub system-model/requirements/pkg-stakeholder-concerns.puml!C10
+
+c1 <.. req1 : <<addresses>>
+c2 <.. req2 : <<addresses>>
+c3 <.. req6 : <<addresses>>
+note right of c3 : Patients require constant\nmonitoring anyway
+c4 <.. req3 : <<addresses>>
+c5 <.. req1 : <<addresses>>
+c6 <.. req4 : <<addresses>>
+c7 <.. req5 : <<addresses>>
+c8 <.. req6 : <<addresses>>
+c9 <.. req1 : <<addresses>>
+c10 <.. req4 : <<addresses>>
+
+@enduml
