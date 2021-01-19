@@ -24,14 +24,14 @@ These parts should be printed at 0.2 spacing:
 | 1 
 | PLA
 | No
-| https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/M12%20Controller%20Lid.stl
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/M12%20Controller%20Body.stl
 
 | The Controller Lid
 | 1 
 | PLA
 | Yes
-| https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/M12%20Controller%20Lid.stl
-
+| https://github.com/tetrabiodistributed/papr-print-files/blob/15d2646571625c84bc1cf04a3f13bcbb808990b3/STLs/M12%20Lid.stl
+|===
 
 ## Bill Of Materials
 
@@ -76,6 +76,7 @@ You will need these components.  Prices fluctuate, and so are not included here.
 | Heat shrink connector covering (optional)
 |
 |
+|===
 
 ## Recommeded Tools
 
@@ -103,22 +104,20 @@ These tools are recommended. URLs are for tools purchased and used in the buildi
 | X-acto knife
 | https://www.amazon.com/Xacto-X3201-N0-Precision-Knife/dp/B00004Z2TQ
 
-| 3D Printer (note the size of the print bed for the fan box)
-|  https://www.creality3d.shop/collections/ender-series-3d-printer/products/creality3d-ender-3-pro-high-precision-3d-printer
-
 | A deburring tool
 | https://www.amazon.com/gp/product/B01L2XR4P2
 
 | #0 Phillips head screwdriver
 | https://www.homedepot.com/p/Husky-8-in-1-Screwdriver-with-LED-Light-232360016/301959976
+|===
 
 == Build Steps
 
 
-We start by building the battery controller box.  You will need these components on hand:
+You will need these components on hand:
 
-1.  Battery Case ("M12 Controller Body")
-2.  Battery lid ("M12 Lid")
+1.  Battery Case ("Controller Body")
+2.  Battery lid ("Controller Lid")
 3.  Crimper
 4.  Needle-nose pliers
 5.  Soldering iron/solder/soldering tools
@@ -130,7 +129,6 @@ We start by building the battery controller box.  You will need these components
 11.  Wire stripper
 12.  Deburring tool
 13.  Philips head screwdriver
-
 
 
 ### Prepare the wires
