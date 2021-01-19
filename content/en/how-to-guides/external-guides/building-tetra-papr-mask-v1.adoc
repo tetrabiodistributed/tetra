@@ -44,9 +44,9 @@ You will need these components.  Prices fluctuate, and so are not included here.
 | Count | Description | URL | Number in Package 
 
 | 1 
-| O-ring
-| 
-| 1
+| -231 N70 O-ring
+| https://www.mcmaster.com/9452K159/
+| 50
 
 | 1
 | 3-ply Medical Face Mask

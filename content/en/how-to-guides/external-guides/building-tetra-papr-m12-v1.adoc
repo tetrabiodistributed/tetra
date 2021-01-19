@@ -26,11 +26,12 @@ These parts should be printed at 0.2 spacing:
 | No
 | https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/M12%20Controller%20Lid.stl
 
-| The inner fan control board protector
+| The Controller Lid
 | 1 
 | PLA
 | Yes
-| https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/M12%20Controller%20Plate.stl
+| https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/M12%20Controller%20Lid.stl
+
 
 ## Bill Of Materials
 
