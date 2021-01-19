@@ -1,0 +1,11 @@
+---
+title: "How to build a Tetra PAPRa Mask (v1)"
+linkTitle: "How to build a Tetra PAPRa Mask (v1)"
+weight: 1
+description: >
+  Describes how to build the January 2021 version of the Tetra PAPRa Mask component.
+---
+
+== Quick Synopsis
+
+The Tetra Powered Air Purified Respirator 

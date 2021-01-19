@@ -1,0 +1,283 @@
+---
+title: "How to build a Tetra PAPRa Fan Box (v1)"
+linkTitle: "How to build a Tetra PAPRa Fan Box (v1)"
+weight: 1
+description: >
+  Describes how to build the January 2021 version of the Tetra PAPRa fan box component.
+---
+
+== Quick Synopsis
+
+The Tetra Powered Air Purified Respirator requires that the air be purified; this purification is accomplished by powering a fan to pull air through a filter and then pushing that purified air through a hose to a mask worn on the face.  This section contains the instructions for building the box that holds the fan and filter.
+
+== Parts Required
+
+This photo shows all the parts laid out for building this component:
+
+image::https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-6bLNC5f/0/00bd23da/X2/DSC09680-X2.jpg[]
+
+## 3D Printed Parts
+
+These parts should be printed at 0.2 spacing.  They should be oriented such that the large plates are closest to the build plate:
+
+.Table Printed Parts
+|===
+| Part | Quantity | Material | Supports required? | STL File Location
+
+| The Fan Box (holds the fan) 
+| 1
+| PLA
+| Yes
+| https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/Fan%20Box.stl
+
+| The Bottom Plate
+| 1
+| PLA
+| Yes
+| https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/Base%20Plate.stl
+
+| The Filter Box (holds the filter)
+| 1
+| PLA
+| Yes
+| https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/Tetra%20UniFram.stl
+
+| The Funnel (attaches hose to fan box)
+| 1
+| PLA
+| Yes
+| https://github.com/tetrabiodistributed/papr-print-files/blob/069ee8212b07bd58bc4ea83722a825267ecaf0e5/STLs/SingleFunnel.stl
+
+
+|===
+
+## Gaskets
+
+Gaskets should be cut from 2mm craft foam.  Ideally, they should be cut by something such as Cricut (https://www.cricut.com/), but can also be cut using scissors or an Xacto knife so long as the templates are followed closely.
+
+.Table Gaskets
+|===
+| Part | Quantity | Material | Pattern
+| Box Gasket
+| 1
+| Craft Foam
+| 
+
+| Fan Gasket
+| 1
+| Craft Foam
+| 
+
+| Filter Gasket
+| 1
+| Craft Foam
+| 
+|===
+
+## Bill Of Materials
+
+These are components that need to be purchased.  Prices fluctuate, and so are not included here.  Alternative versions can be sourced, and we welcome edits for tested alternatives.
+
+.Table Bill Of Materials (BOM)
+|===
+| Count | Description | URL | Number in Package 
+| 1 
+| UTUO Brushless Radial Blower Dual Ball Bearing High Speed 12V DC Centrifugal Fan with XH-2.5 Plug 120mm by 120mm by 32mm 4.72x4.72x1.26 inch  
+| https://www.amazon.com/gp/product/B01CSNEO2G/ 
+| 1 
+
+| 2 
+| TOTOT 30 Pack 5.5mm x 2.1mm 3 Pin Female DC Power Jack Panel Mount Screw Nut Kit DC Socket Electrical Plug 
+| https://www.amazon.com/gp/product/B077YC457J/ 
+| 30  
+
+| 1 
+| Donner 60CM Guitar Pedal Power Cable Cord 10-Pack 
+| https://www.amazon.com/gp/product/B078XRM3W4/ 
+| 10  
+
+| 8 
+| binifiMux 150pcs M4 x 0.7mm 304 Stainless Steel Hex Nuts Bright Finish 
+| https://www.amazon.com/gp/product/B07J6C1XTD/ 
+| 150 
+
+| 8 
+| 50 Pcs M4-0.70 x 20mm Button Head Socket Cap Bolts Screws, 18-8 Stainless Steel, Allen Hex Drive, ISO 7380, by Fullerkreg,Come in a Plastic Case 
+| https://www.amazon.com/M4-0-7X-Available-Stainless-Machine-Fastener/dp/B081JYXLK7/ 
+| 50  
+
+| 6"  
+| 20 awg Solid wire kit Electrical wire Cable 7 colors 23ft each spools 20 gauge UL1007 Tinned Copper Hook up wire kit breadboard wire for DIY 
+| https://www.amazon.com/Electrical-colors-spools-UL1007-breadboard/dp/B083DNGSPV/ 
+| 276  
+
+| 
+| Heat shrink connector covering (optional)
+|
+|
+
+| 1
+| 2mm Craft Foam 
+| https://www.amazon.com/Foam-Sheet-X18-2mm-White-pack/dp/B004M5QGBQ
+| 10
+
+| 7
+| Frost King EPDM Rubber Self-Stick Weatherseal Tape, D-Section, 
+| https://www.amazon.com/Frost-King-Self-Stick-Weatherseal-D-Section/dp/B00FQ5A5RM
+| 204
+|===
+
+## Recommended Tools
+
+These tools are recommended. URLs are for tools purchased and used in the building of the prototypes:
+
+.Table Tool List
+|===
+| Description | URL
+
+| Iwiss SN-48B Pin Crimping Tool 
+| https://www.amazon.com/gp/product/B00OMMZ502
+
+| 4-3/4 In. Bent Long Nose Pliers
+| https://www.harborfreight.com/4-34-in-bent-long-nose-pliers-63819.html
+
+| Soldering iron
+| https://www.amazon.com/gp/product/B01MD12DYT
+
+| A hex screwdriver for the m4 screws
+| https://www.amazon.com/gp/product/B007ICWAJC
+
+| Flush cutter
+| https://www.harborfreight.com/micro-flush-cutter-90708.html
+
+| X-acto knife
+| https://www.amazon.com/Xacto-X3201-N0-Precision-Knife/dp/B00004Z2TQ
+
+| 3D Printer (note the size of the print bed for the fan box)
+|  https://www.creality3d.shop/collections/ender-series-3d-printer/products/creality3d-ender-3-pro-high-precision-3d-printer
+
+| A deburring tool
+| https://www.amazon.com/gp/product/B01L2XR4P2
+
+| #0 Phillips head screwdriver
+| https://www.homedepot.com/p/Husky-8-in-1-Screwdriver-with-LED-Light-232360016/301959976
+
+| CPAP hose cleaner (for maintenance)
+| https://www.amazon.com/Cleaning-DreamStation-Diameter-Stainless-Cleaner/dp/B08HLQV2VK/
+|===
+
+== Build Steps
+
+1.  Printed Fan box 
+2.  Printed Filter box
+3.  Printed Bottom Plate
+4.  Single-Spout Funnel
+5.  Dryer tape
+7.  Fan Gasket
+8.  Box Gasket
+9.  Filter Gasket
+10.  An x-acto knife
+11.  The deburring tool
+12.  Hex screw driver
+13.  HEPA Type-A Filter
+14.  Hex screws
+15.  Hex nuts
+
+## Prepare the wires
+
+You will need to prepare the wires to connect the fan to power.  This socket does not require tinned wires, but can use solid wires. 
+
+#### Cut the wires to size.
+
+To do so, you will need to cut them down to their lengths (our build used ~3 inch/10 cm lengths).  Both the red and black solid wire should be basically the same dimensions: ~3 inches/~10 in length, 0.5 cm insulation stripped from both ends.
+
+#### Attach remaining red and black solid wires to the power socket
+
+How to build the power socket for the fan box with solid wires:
+
+video::https://photos.smugmug.com/photos/i-mfGN68v/0/1920/i-mfGN68v-1920.mp4[]
+
+Final prepared wiring looks like:
+
+image::https://photos.smugmug.com/photos/i-jmpfcwg/0/X2/i-jmpfcwg-X2.jpg[]
+
+## Remove printed supports
+
+Removing print supports can be done with a chisel, an x-acto knife, the bent-nose pliers, or your fingernails (which can be painful if something slips).
+
+Here are some ways in which we've removed supports:
+
+image::https://https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-5FtPxmM/0/9fb59b8f/X2/DSC09696-X2.jpg[]
+
+image::https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-bt5vLXV/0/76fed790/X2/DSC09705-X2.jpg[]
+
+image::https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-bt5vLXV/0/76fed790/X2/DSC09705-X2.jpg[]
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-49tz7x8/0/e93842e6/X2/DSC09724-X2.jpg[]
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-SMbj9LG/0/94b6efc2/X2/DSC09689-X2.jpg[]
+
+On the fan box, make sure to remove the supports for where the nuts will be placed, as well as where the gasket will be placed (near Darryl's thumb in this picture):
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-f4JgVh9/0/473f4b8d/X2/DSC09715-X2.jpg[]
+
+## Assembly
+
+1. Place the assmbled wires into the Fan Box:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-cGb78gg/0/3a858826/X2/DSC09731-X2.jpg[]
+
+3.  Insert the Fan Gasket into the Fan Box:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-FTZ8mPt/0/4317f9da/X2/DSC09748-X2.jpg[]
+
+3.  Tape the Funnel to the Fan Box:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-DXhmmkW/2/398b4321/X2/IMG_5065_HEIC-X2.jpg[]
+
+4.  Connect the fan controller, red wire to red wire, black wire to black wire:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-vTrTx82/1/fc7cf3fe/X2/IMG_5066_HEIC-X2.jpg[]
+
+5.  Insert the taped funnel into the Fan Box.  This step may require some jostling until the funnel is flush with the box; also note that the fan has been flipped relative to the previous image, such that the fan side is facing down in this photo:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-z9vdbVz/0/94e141af/X2/DSC09762-X2.jpg[]
+
+6.  Make sure to trim and remove any tape that may block the fan
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-xRv88vW/0/d851212d/X2/DSC09765-X2.jpg[]
+
+7.  Place the Box Gasket into the Bottom Plate:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-b9fzD55/0/b91bc73c/X2/DSC09770-X2.jpg[]
+
+8.  Place nuts into the slots in the Fan Box:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-C7K3ZBb/0/55e98f0e/X2/DSC09771-X2.jpg[]
+
+9.  Screw the Bottom Plate into the Fan Box.  The Bottom Plate may bow out a bit:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-CZ3HbXK/0/6eb46616/X2/DSC09772-X2.jpg[]
+
+10.  Once done with all four screws, flip the Fan Box:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-nGMDGCn/0/7f1dfb46/X2/DSC09776-X2.jpg[]
+
+11.  Place the Filter Gasket on the Fan Box:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-qtH247G/0/7d620c5b/X2/DSC09778-X2.jpg
+
+12.  Place the filter into the Filter Box, ripple side up.  The gasket on the side of the filter may move a bit, which is fine, as that snugness indicates a good fit:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-HvGS7m7/0/b44bbbc9/X2/DSC09779-X2.jpg[]
+
+13.  Flip the Filter Box and screw it into the Fan Box:
+
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wXx4TF5/0/a62d4e50/X2/DSC09784-X2.jpg[]
+
+Congratulations!  You've now built a Tetra PAPRa Fan Box!  The Guitar Pedal Power cable can now be plugged into the M12 unit to power the device.
+
+== Questions
+
+### How frequently should I change the filter?
+
+Changing the filter depends on how much you use the device.  If you're using the device where there are a lot of particulates in the air (such as a construction site or a woodshop), you may want to change every month or so.  If you're using the device where there are less particulates, every two to three months should be fine.  HEPA filters just get dirtier and eventually the fan will have a hard time pulling air through the filter, and the filter should be swapped before that happens.  

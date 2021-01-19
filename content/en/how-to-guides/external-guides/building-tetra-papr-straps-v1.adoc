@@ -1,0 +1,11 @@
+---
+title: "Tetra PAPRa over-the-shoulder strap setup"
+linkTitle: "Tetra PAPRa over-the-shoulder strap setup"
+weight: 1
+description: >
+  Describes how configure the over-the-shoulder straps for the Tetra PAPRa.
+---
+
+== Quick Synopsis
+
+The Tetra Powered Air Purified Respirator 

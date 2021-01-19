@@ -1,0 +1,11 @@
+---
+title: "How to build a Tetra PAPRa m12 Battery Controller (v2)"
+linkTitle: "How to build a Tetra PAPRa m12 Battery Controller (v2)"
+weight: 1
+description: >
+  Describes how to build the January 2021 version of the Tetra PAPRa m12 battery controller component.
+---
+
+== Quick Synopsis
+
+The Tetra Powered Air Purified Respirator 
