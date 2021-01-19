@@ -1,9 +1,9 @@
 
 ---
-title: "External Guides"
-linkTitle: "External Guides"
+title: "PAPRa Build Guide"
+linkTitle: "PAPRa Build Guide"
 weight: 10
 description: >
-  How to use or contribute to Project Tetra
+  How to Build A Tetra PAPRa
 ---
 

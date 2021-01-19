@@ -1,9 +1,9 @@
 
 ---
-title: "External Guides"
-linkTitle: "External Guides"
+title: "Tetra PAPRa Components"
+linkTitle: "Tetra PAPRa Components"
 weight: 10
 description: >
-  How to use or contribute to Project Tetra
+  Component files for building a Tetra PAPRa
 ---
 
