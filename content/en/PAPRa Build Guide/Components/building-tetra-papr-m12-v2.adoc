@@ -24,7 +24,7 @@ These parts should be printed at 0.2 spacing:
 
 .Table Printed Parts
 |===
-| Part | Quantity | Material | Supports Required? STL File Location
+| Part | Quantity | Material | Supports Required? | STL File Location
 
 | The Body
 | 1 

@@ -207,11 +207,9 @@ Removing print supports can be done with a chisel, an x-acto knife, the bent-nos
 
 Here are some ways in which we've removed supports:
 
-image::https://https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-5FtPxmM/0/9fb59b8f/X2/DSC09696-X2.jpg[]
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-5FtPxmM/0/9fb59b8f/X2/DSC09696-X2.jpg[]
 
-image::https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-bt5vLXV/0/76fed790/X2/DSC09705-X2.jpg[]
-
-image::https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-bt5vLXV/0/76fed790/X2/DSC09705-X2.jpg[]
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-bt5vLXV/0/76fed790/X2/DSC09705-X2.jpg[]
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-49tz7x8/0/e93842e6/X2/DSC09724-X2.jpg[]
 

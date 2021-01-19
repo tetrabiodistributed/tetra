@@ -1,7 +1,7 @@
 
 ---
-title: "How to build a Tetra PAPR"
-linkTitle: "How to build a Tetra PAPR"
+title: "How to build a Tetra PAPRa (Jan 2021 Edition)"
+linkTitle: "How to build a Tetra PAPRa (Jan 2021 Edition)"
 weight: 1
 description: >
   Describes how to build the January 2021 version of the Tetra PAPR.
@@ -27,10 +27,10 @@ image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-L
 
 There are four components to build:
 
-1.  The M12 Controller Box ([v2]({{< relref "building-tetra-papr-m12-v2.adoc">}}) if you have the controller circuit board, [v1]({{< relref "building-tetra-papr-m12-v1.adoc">}}) if you do not)
-2.  The [Fan Box]({{< relref "building-tetra-papr-fan-box-v1.adoc">}})
-3.  The [Mask]({{< relref "building-tetra-papr-mask-v1.adoc">}})
-4.  The [Straps]({{< relref "building-tetra-papr-straps-v1.adoc">}})
+1.  The M12 Controller Box ([v2]({{< relref "building-tetra-papr-m12-v2.adoc">}} "v2 Controller") if you have the controller circuit board, [v1]({{< relref "building-tetra-papr-m12-v1.adoc">}} "v1 Controller") if you do not)
+2.  The [Fan Box]({{< relref "building-tetra-papr-fan-box-v1.adoc">}} "Fan Box")
+3.  The [Mask]({{< relref "building-tetra-papr-mask-v1.adoc">}} "Mask")
+4.  The [Straps]({{< relref "building-tetra-papr-straps-v1.adoc">}} "Straps")
 
 A completed build looks like:
 
