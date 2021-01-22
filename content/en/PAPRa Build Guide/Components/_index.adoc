@@ -1,0 +1,9 @@
+
+---
+title: "Tetra PAPRa Components"
+linkTitle: "Tetra PAPRa Components"
+weight: 10
+description: >
+  Component files for building a Tetra PAPRa
+---
+
