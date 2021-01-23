@@ -48,7 +48,7 @@ These parts should be printed at 0.2 spacing:
 | 1 
 | PLA
 | No
-| 
+| https://github.com/tetrabiodistributed/papr-print-files/blob/5c4d2f3f7bb8e9e4d57cfeb9304f1fe18e535111/STLs/M12%20Controller%20Knob.stl
 
 |===
 
@@ -72,13 +72,13 @@ You will need these components.  Prices fluctuate, and so are not included here.
 
 | 3
 | Washers
-| 
-| 
+| Should come with the board
+| 3
 
 | 3
 | Nuts
-| 
-| 
+| Should come with the board
+| 3
 
 |===
 
