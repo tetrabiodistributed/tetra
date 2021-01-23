@@ -54,41 +54,41 @@ These tools are recommended. URLs are for tools purchased and used in the buildi
 
 Once the PAPRa has been built, it should be worn.  This guide provides a simple way to put components together in an over-the-shoulder configuration.  The Fan Box has multiple attachment points, so other configurations are possible-- and please let us know if you come up with something you really like!
 
-###  Get at least two arm lengths of webbing:
+Get at least two arm lengths of webbing:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-kWnJdXn/0/90f9e949/X2/DSC09922-X2.jpg[]
 
-###  After cutting the webbing, burning the ends will prevent the webbing from unraveling:
+After cutting the webbing, burning the ends will prevent the webbing from unraveling:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-gsMdRzp/0/e081070a/X2/DSC09925-X2.jpg[]
 
-###  Place one triglide in the M12 controller as shown below.  This triglide prevents the controller from sliding around on the strap:
+Place one triglide in the M12 controller as shown below.  This triglide prevents the controller from sliding around on the strap:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-KMWVjkt/0/7c3b7b4b/X2/DSC09930-X2.jpg[]
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-x47gdjL/0/95249c26/X2/DSC09931-X2.jpg[]
 
-###  Anchor the PAPR on one point near the funnel using triglides:
+Anchor the PAPR on one point near the funnel using triglides:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-XCd6dwJ/0/1f035bc8/X2/DSC09939-X2.jpg[]
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-jcT7CQ4/0/f5fb5a9c/X2/DSC09940-X2.jpg[]
 
-###  Choose another anchor point on the opposite side of the Fan Box:
+Choose another anchor point on the opposite side of the Fan Box:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-ssPZbPx/0/8dd3ad32/X2/IMG_5067_HEIC-X2.jpg[]
 
-###  This configuration will allow the Fan Box to be worn in the small of the back:
+This configuration will allow the Fan Box to be worn in the small of the back:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-6hRwhm4/0/97a52902/X2/DSC09947-X2.jpg[]
 
-###  Hold a loop of the webbing out to be cut where you want clips to be attached:
+Hold a loop of the webbing out to be cut where you want clips to be attached:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-FKZrLNN/0/2ed9fc06/X2/DSC09948-X2.jpg[]
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-cZRBh2m/0/9463e03f/X2/DSC09950-X2.jpg[]
 
-###  Attach the clips as shown in this photo, with the extra triglide to make sure that the clip position can be adjusted:
+Attach the clips as shown in this photo, with the extra triglide to make sure that the clip position can be adjusted:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-GLWHvzK/0/05de208c/X2/IMG_5068_HEIC-X2.jpg[]
 

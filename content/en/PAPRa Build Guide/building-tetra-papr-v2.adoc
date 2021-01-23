@@ -27,7 +27,7 @@ image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-L
 
 There are four components to build:
 
-1.  The M12 Controller Box (v2 if you have the controller circuit board, v1 if you do not)
+1.  The M12 Controller Box (v2 if you have the controller circuit board found here: https://github.com/tetrabiodistributed/PAPRA-PCB, v1 if you do not)
 2.  The Fan Box
 3.  The Mask
 4.  The Straps

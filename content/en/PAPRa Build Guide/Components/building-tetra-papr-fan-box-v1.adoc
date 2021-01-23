@@ -221,55 +221,55 @@ image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-f
 
 ## Assembly
 
-### Place the assmbled wires into the Fan Box:
+Place the assmbled wires into the Fan Box:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-cGb78gg/0/3a858826/X2/DSC09731-X2.jpg[]
 
-###  Insert the Fan Gasket into the Fan Box:
+Insert the Fan Gasket into the Fan Box:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-FTZ8mPt/0/4317f9da/X2/DSC09748-X2.jpg[]
 
-###  Tape the Funnel to the Fan Box:
+Tape the Funnel to the Fan Box:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-DXhmmkW/2/398b4321/X2/IMG_5065_HEIC-X2.jpg[]
 
-###  Connect the fan controller, red wire to red wire, black wire to black wire:
+Connect the fan controller, red wire to red wire, black wire to black wire:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-vTrTx82/1/fc7cf3fe/X2/IMG_5066_HEIC-X2.jpg[]
 
-###  Insert the taped funnel into the Fan Box.  This step may require some jostling until the funnel is flush with the box; also note that the fan has been flipped relative to the previous image, such that the fan side is facing down in this photo:
+Insert the taped funnel into the Fan Box.  This step may require some jostling until the funnel is flush with the box; also note that the fan has been flipped relative to the previous image, such that the fan side is facing down in this photo:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-z9vdbVz/0/94e141af/X2/DSC09762-X2.jpg[]
 
-###  Make sure to trim and remove any tape that may block the fan
+Make sure to trim and remove any tape that may block the fan
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-xRv88vW/0/d851212d/X2/DSC09765-X2.jpg[]
 
-###  Place the Box Gasket into the Bottom Plate:
+Place the Box Gasket into the Bottom Plate:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-b9fzD55/0/b91bc73c/X2/DSC09770-X2.jpg[]
 
-###  Place nuts into the slots in the Fan Box:
+Place nuts into the slots in the Fan Box:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-C7K3ZBb/0/55e98f0e/X2/DSC09771-X2.jpg[]
 
-###  Screw the Bottom Plate into the Fan Box.  The Bottom Plate may bow out a bit:
+Screw the Bottom Plate into the Fan Box.  The Bottom Plate may bow out a bit:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-CZ3HbXK/0/6eb46616/X2/DSC09772-X2.jpg[]
 
-###  Once done with all four screws, flip the Fan Box:
+Once done with all four screws, flip the Fan Box:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-nGMDGCn/0/7f1dfb46/X2/DSC09776-X2.jpg[]
 
-###  Place the Filter Gasket on the Fan Box:
+Place the Filter Gasket on the Fan Box:
 
-image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-qtH247G/0/7d620c5b/X2/DSC09778-X2.jpg
+image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-qtH247G/0/7d620c5b/X2/DSC09778-X2.jpg[]
 
-###  Place the filter into the Filter Box, ripple side up.  The gasket on the side of the filter may move a bit, which is fine, as that snugness indicates a good fit:
+Place the filter into the Filter Box, ripple side up.  The gasket on the side of the filter may move a bit, which is fine, as that snugness indicates a good fit:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-HvGS7m7/0/b44bbbc9/X2/DSC09779-X2.jpg[]
 
-###  Flip the Filter Box and screw it into the Fan Box:
+Flip the Filter Box and screw it into the Fan Box:
 
 image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wXx4TF5/0/a62d4e50/X2/DSC09784-X2.jpg[]
 

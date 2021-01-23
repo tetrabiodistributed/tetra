@@ -10,6 +10,8 @@ description: >
 
 The Tetra Powered Air Purified Respirator requires power to function, and the m12 battery controller provides that power for these models.  The controller consists of internal circuitry, a potentiometer to adjust fan speeds, a cable to connect to the fan box, and a port for a Milwaulkee M12 Battery to be inserted.
 
+If you can build or buy custom circuitboards, then the v2 version is much more straightforward to assemble.  The plans can be found here: https://github.com/tetrabiodistributed/PAPRA-PCB
+
 == Parts required
 
 ## 3D Printed Parts
