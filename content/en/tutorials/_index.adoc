@@ -2,7 +2,7 @@
 ---
 title: "Tutorials"
 linkTitle: "Tutorials"
-weight: 2
+weight: 3
 description: >
   Assembly, build, and testing instructions through end-to-end examples.
 ---
