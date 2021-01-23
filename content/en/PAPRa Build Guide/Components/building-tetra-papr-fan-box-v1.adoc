@@ -72,6 +72,7 @@ Gaskets should be cut from 2mm craft foam.  Ideally, they should be cut by somet
 | 1
 | Craft Foam
 | https://github.com/tetrabiodistributed/papr-print-files/blob/f84fa02edfc247a236c2cf34c395c1230df5827e/Gaskets/FilterGasket.svg
+
 |===
 
 ## Bill Of Materials
