@@ -36,7 +36,7 @@
 &lt;div class="olist arabic">
 &lt;ol class="arabic">
 &lt;li>
-&lt;p>The M12 Controller Box (v2 if you have the controller circuit board, v1 if you do not)&lt;/p>
+&lt;p>The M12 Controller Box (v2 if you have the controller circuit board found here: &lt;a href="https://github.com/tetrabiodistributed/PAPRA-PCB" class="bare">https://github.com/tetrabiodistributed/PAPRA-PCB&lt;/a>, v1 if you do not)&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>The Fan Box&lt;/p>
@@ -438,86 +438,86 @@ Your browser does not support the video tag.
 &lt;div class="sect1">
 &lt;h2 id="_assembly">Assembly&lt;/h2>
 &lt;div class="sectionbody">
-&lt;div class="sect2">
-&lt;h3 id="_place_the_assmbled_wires_into_the_fan_box">Place the assmbled wires into the Fan Box:&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Place the assmbled wires into the Fan Box:&lt;/p>
+&lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-cGb78gg/0/3a858826/X2/DSC09731-X2.jpg" alt="DSC09731 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Insert the Fan Gasket into the Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_insert_the_fan_gasket_into_the_fan_box">Insert the Fan Gasket into the Fan Box:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-FTZ8mPt/0/4317f9da/X2/DSC09748-X2.jpg" alt="DSC09748 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Tape the Funnel to the Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_tape_the_funnel_to_the_fan_box">Tape the Funnel to the Fan Box:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-DXhmmkW/2/398b4321/X2/IMG_5065_HEIC-X2.jpg" alt="IMG 5065 HEIC X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Connect the fan controller, red wire to red wire, black wire to black wire:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_connect_the_fan_controller_red_wire_to_red_wire_black_wire_to_black_wire">Connect the fan controller, red wire to red wire, black wire to black wire:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-vTrTx82/1/fc7cf3fe/X2/IMG_5066_HEIC-X2.jpg" alt="IMG 5066 HEIC X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Insert the taped funnel into the Fan Box. This step may require some jostling until the funnel is flush with the box; also note that the fan has been flipped relative to the previous image, such that the fan side is facing down in this photo:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_insert_the_taped_funnel_into_the_fan_box_this_step_may_require_some_jostling_until_the_funnel_is_flush_with_the_box_also_note_that_the_fan_has_been_flipped_relative_to_the_previous_image_such_that_the_fan_side_is_facing_down_in_this_photo">Insert the taped funnel into the Fan Box. This step may require some jostling until the funnel is flush with the box; also note that the fan has been flipped relative to the previous image, such that the fan side is facing down in this photo:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-z9vdbVz/0/94e141af/X2/DSC09762-X2.jpg" alt="DSC09762 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Make sure to trim and remove any tape that may block the fan&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_make_sure_to_trim_and_remove_any_tape_that_may_block_the_fan">Make sure to trim and remove any tape that may block the fan&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-xRv88vW/0/d851212d/X2/DSC09765-X2.jpg" alt="DSC09765 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the Box Gasket into the Bottom Plate:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_the_box_gasket_into_the_bottom_plate">Place the Box Gasket into the Bottom Plate:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-b9fzD55/0/b91bc73c/X2/DSC09770-X2.jpg" alt="DSC09770 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place nuts into the slots in the Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_nuts_into_the_slots_in_the_fan_box">Place nuts into the slots in the Fan Box:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-C7K3ZBb/0/55e98f0e/X2/DSC09771-X2.jpg" alt="DSC09771 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Screw the Bottom Plate into the Fan Box. The Bottom Plate may bow out a bit:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_screw_the_bottom_plate_into_the_fan_box_the_bottom_plate_may_bow_out_a_bit">Screw the Bottom Plate into the Fan Box. The Bottom Plate may bow out a bit:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-CZ3HbXK/0/6eb46616/X2/DSC09772-X2.jpg" alt="DSC09772 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Once done with all four screws, flip the Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_once_done_with_all_four_screws_flip_the_fan_box">Once done with all four screws, flip the Fan Box:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-nGMDGCn/0/7f1dfb46/X2/DSC09776-X2.jpg" alt="DSC09776 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
-&lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_the_filter_gasket_on_the_fan_box">Place the Filter Gasket on the Fan Box:&lt;/h3>
 &lt;div class="paragraph">
-&lt;p>image:https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-qtH247G/0/7d620c5b/X2/DSC09778-X2.jpg&lt;/p>
+&lt;p>Place the Filter Gasket on the Fan Box:&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-qtH247G/0/7d620c5b/X2/DSC09778-X2.jpg" alt="DSC09778 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_the_filter_into_the_filter_box_ripple_side_up_the_gasket_on_the_side_of_the_filter_may_move_a_bit_which_is_fine_as_that_snugness_indicates_a_good_fit">Place the filter into the Filter Box, ripple side up. The gasket on the side of the filter may move a bit, which is fine, as that snugness indicates a good fit:&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Place the filter into the Filter Box, ripple side up. The gasket on the side of the filter may move a bit, which is fine, as that snugness indicates a good fit:&lt;/p>
+&lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-HvGS7m7/0/b44bbbc9/X2/DSC09779-X2.jpg" alt="DSC09779 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Flip the Filter Box and screw it into the Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_flip_the_filter_box_and_screw_it_into_the_fan_box">Flip the Filter Box and screw it into the Fan Box:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wXx4TF5/0/a62d4e50/X2/DSC09784-X2.jpg" alt="DSC09784 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>Congratulations! You’ve now built a Tetra PAPRa Fan Box! The Guitar Pedal Power cable can now be plugged into the M12 unit to power the device.&lt;/p>
-&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -537,6 +537,9 @@ Your browser does not support the video tag.
 &lt;div class="sectionbody">
 &lt;div class="paragraph">
 &lt;p>The Tetra Powered Air Purified Respirator requires power to function, and the m12 battery controller provides that power for these models. The controller consists of internal circuitry, a potentiometer to adjust fan speeds, a cable to connect to the fan box, and a port for a Milwaulkee M12 Battery to be inserted.&lt;/p>
+&lt;/div>
+&lt;div class="paragraph">
+&lt;p>If you can build or buy custom circuitboards, then the v2 version is much more straightforward to assemble. The plans can be found here: &lt;a href="https://github.com/tetrabiodistributed/PAPRA-PCB" class="bare">https://github.com/tetrabiodistributed/PAPRA-PCB&lt;/a>&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -1004,7 +1007,7 @@ Your browser does not support the video tag.
 &lt;p>The Tetra Powered Air Purified Respirator requires power to function, and the m12 battery controller provides that power for these models. The controller consists of internal circuitry, a potentiometer to adjust fan speeds, a cable to connect to the fan box, and a port for a Milwaulkee M12 Battery to be inserted.&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
-&lt;p>This build differs from the v1 version in that it uses a custom-built circuitboard to remove many of the difficult steps of the build, add a battery charge indicator, and a separate power port for use in a car. If you cannot get the custom board (found in this repository: &lt;a href="https://github.com/tetrabiodistributed/tetra-papr-electronics" class="bare">https://github.com/tetrabiodistributed/tetra-papr-electronics&lt;/a>), then please refer to the v1 version of this guide.&lt;/p>
+&lt;p>This build differs from the v1 version in that it uses a custom-built circuitboard to remove many of the difficult steps of the build, add a battery charge indicator, and a separate power port for use in a car. If you cannot get the custom board (found in this repository: &lt;a href="https://github.com/tetrabiodistributed/PAPRA-PCB" class="bare">https://github.com/tetrabiodistributed/PAPRA-PCB&lt;/a>), then please refer to the v1 version of this guide.&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -1070,7 +1073,7 @@ Your browser does not support the video tag.
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">PLA&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">No&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/papr-print-files/blob/5c4d2f3f7bb8e9e4d57cfeb9304f1fe18e535111/STLs/M12%20Controller%20Knob.stl" class="bare">https://github.com/tetrabiodistributed/papr-print-files/blob/5c4d2f3f7bb8e9e4d57cfeb9304f1fe18e535111/STLs/M12%20Controller%20Knob.stl&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -1102,7 +1105,7 @@ Your browser does not support the video tag.
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Circuit board&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://github.com/tetrabiodistributed/PAPRA-PCB" class="bare">https://github.com/tetrabiodistributed/PAPRA-PCB&lt;/a>&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">1&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -1114,14 +1117,14 @@ Your browser does not support the video tag.
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">3&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Washers&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Should come with the board&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">3&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">3&lt;/p>&lt;/td>
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Nuts&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Should come with the board&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">3&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -1163,8 +1166,8 @@ Your browser does not support the video tag.
 &lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B01L2XR4P2" class="bare">https://www.amazon.com/gp/product/B01L2XR4P2&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">A socket wrench&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top">&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">A 10mm socket wrench&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;a href="https://www.amazon.com/gp/product/B0009ORXRU/" class="bare">https://www.amazon.com/gp/product/B0009ORXRU/&lt;/a>&lt;/p>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -1179,62 +1182,62 @@ Your browser does not support the video tag.
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-hHv42xS/0/5c2fb07a/X2/DSC09806-X2.jpg" alt="DSC09806 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_separate_the_light_pipe_from_the_board">Separate the light pipe from the board:&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Separate the light pipe from the board:&lt;/p>
+&lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wCHBtsf/0/16af8969/X2/DSC09850-X2.jpg" alt="DSC09850 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Seat the board into the Controller Box:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_seat_the_board_into_the_controller_box">Seat the board into the Controller Box:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-FbKm538/0/650de103/X2/DSC09853-X2.jpg" alt="DSC09853 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the light pipe onto the board:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_the_light_pipe_onto_the_board">Place the light pipe onto the board:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-DM9Tt4W/0/8296ea51/X2/DSC09854-X2.jpg" alt="DSC09854 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-KdTmRjN/0/d0fa7876/X2/DSC09855-X2.jpg" alt="DSC09855 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the Controller Plate into the battery socket of the Controller Box, then a washer, then screw in a nut. Note that the washer and nut will secure the Plate in place, but aren’t meant to do anything other than prevent random objects from falling onto the board:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_the_controller_plate_into_the_battery_socket_of_the_controller_box_then_a_washer_then_screw_in_a_nut_note_that_the_washer_and_nut_will_secure_the_plate_in_place_but_arent_meant_to_do_anything_other_than_prevent_random_objects_from_falling_onto_the_board">Place the Controller Plate into the battery socket of the Controller Box, then a washer, then screw in a nut. Note that the washer and nut will secure the Plate in place, but aren’t meant to do anything other than prevent random objects from falling onto the board:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-XDkB8Sg/0/1896c25b/X2/DSC09831-X2.jpg" alt="DSC09831 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Screw the Nut in place using the socket wrench:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_screw_the_nut_in_place_using_the_socket_wrench">Screw the Nut in place using the socket wrench:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-gcWWXNF/0/adf52aac/X2/DSC09834-X2.jpg" alt="DSC09834 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-CPfpSSq/0/7a971690/X2/DSC09835-X2.jpg" alt="DSC09835 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place washers and nuts on both external components of the Controller Box, and tighten with the socket wrench:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_washers_and_nuts_on_both_external_components_of_the_controller_box_and_tighten_with_the_socket_wrench">Place washers and nuts on both external components of the Controller Box, and tighten with the socket wrench:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-SgjPmD9/0/f1779fd3/X2/DSC09842-X2.jpg" alt="DSC09842 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place the Knob onto the potentiometer, and twist to turn on. If there is a charged battery in the Controller, you should see the lights in the light pipe:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_the_knob_onto_the_potentiometer_and_twist_to_turn_on_if_there_is_a_charged_battery_in_the_controller_you_should_see_the_lights_in_the_light_pipe">Place the Knob onto the potentiometer, and twist to turn on. If there is a charged battery in the Controller, you should see the lights in the light pipe:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wRdL8LF/0/24003e26/X2/DSC09848-X2.jpg" alt="DSC09848 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Snap the Lid in place. Note the orientation; snapping the lid in in the opposite orientation may cause the lower lip to break off:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_snap_the_lid_in_place">Snap the Lid in place:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-wpCgc7f/0/73af82d1/X2/DSC09862-X2.jpg" alt="DSC09862 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>Congratulations! You have built a Tetra PAPRa M12 Controller Box v2!&lt;/p>
-&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item><item><title>PAPRa Build Guide: How to build a Tetra PAPRa Mask (v1)</title><link>https://tetrabiodistributed.github.io/project-tetra-docs/papra-build-guide/components/building-tetra-papr-mask-v1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tetrabiodistributed.github.io/project-tetra-docs/papra-build-guide/components/building-tetra-papr-mask-v1/</guid><description>
@@ -1381,41 +1384,42 @@ Your browser does not support the video tag.
 &lt;div class="paragraph">
 &lt;p>Once the mask has been printed, the build consists mainly of getting the 3-ply Medical Face Mask material onto the mask so that the wearer’s exhalations can exit the mask without affecting those around them.&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_the_3_ply_mask_over_the_circular_hole_in_the_face_mask_and_then_place_the_o_ring_over_the_3_ply_mask_the_blue_side_of_the_face_mask_should_be_facing_out">Place the 3-ply mask over the circular hole in the face mask, and then place the o-ring over the 3-ply mask. The blue side of the face mask should be facing out:&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Place the 3-ply mask over the circular hole in the face mask, and then place the o-ring over the 3-ply mask. The blue side of the face mask should be facing out:&lt;/p>
+&lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-j9cv88d/0/e8fbac12/X2/DSC09878-X2.jpg" alt="DSC09878 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>You may need to cut the mask before the o-ring will fit:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_you_may_need_to_cut_the_mask_before_the_o_ring_will_fit">You may need to cut the mask before the o-ring will fit:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-Zwt28Q9/0/f408bfe3/X2/DSC09885-X2.jpg" alt="DSC09885 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Once the o-ring is in place, cover the mask with the Cover Frame, which should snap in place:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_once_the_o_ring_is_in_place_cover_the_mask_with_the_cover_frame_which_should_snap_in_place">Once the o-ring is in place, cover the mask with the Cover Frame, which should snap in place:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-CtQXsF3/0/1ca23e52/X2/DSC09891-X2.jpg" alt="DSC09891 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Trim any excess 3-ply material around the edge of the seal:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_trim_any_excess_3_ply_material_around_the_edge_of_the_seal">Trim any excess 3-ply material around the edge of the seal:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-pWr8vMf/0/f15db995/X2/DSC09902-X2.jpg" alt="DSC09902 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Attach the CPAP hose to the Mask and Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_attach_the_cpap_hose_to_the_mask_and_fan_box">Attach the CPAP hose to the Mask and Fan Box:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-BrkVnzW/0/9b073f6d/X2/DSC09906-X2.jpg" alt="DSC09906 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-qQPP2FB/0/c647b28e/X2/DSC09907-X2.jpg" alt="DSC09907 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Push the bathing suit elastic through the attachment points on the mask as one long strand. Some prefer to tie at the top of the head, while others may prefer behind the neck. Note how the elastic emerges from behind the attachment points to wrap around the head and neck:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_push_the_bathing_suit_elastic_through_the_attachment_points_on_the_mask_as_one_long_strand_some_prefer_to_tie_at_the_top_of_the_head_while_others_may_prefer_behind_the_neck_note_how_the_elastic_emerges_from_behind_the_attachment_points_to_wrap_around_the_head_and_neck">Push the bathing suit elastic through the attachment points on the mask as one long strand. Some prefer to tie at the top of the head, while others may prefer behind the neck. Note how the elastic emerges from behind the attachment points to wrap around the head and neck:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-KgNKtVC/0/8387024c/X2/DSC09910-X2.jpg" alt="DSC09910 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
@@ -1427,7 +1431,6 @@ Your browser does not support the video tag.
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>Congratulations! You now have a TETRA PAPRa face mask!&lt;/p>
-&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -1531,65 +1534,65 @@ Your browser does not support the video tag.
 &lt;div class="paragraph">
 &lt;p>Once the PAPRa has been built, it should be worn. This guide provides a simple way to put components together in an over-the-shoulder configuration. The Fan Box has multiple attachment points, so other configurations are possible-- and please let us know if you come up with something you really like!&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_get_at_least_two_arm_lengths_of_webbing">Get at least two arm lengths of webbing:&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Get at least two arm lengths of webbing:&lt;/p>
+&lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-kWnJdXn/0/90f9e949/X2/DSC09922-X2.jpg" alt="DSC09922 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>After cutting the webbing, burning the ends will prevent the webbing from unraveling:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_after_cutting_the_webbing_burning_the_ends_will_prevent_the_webbing_from_unraveling">After cutting the webbing, burning the ends will prevent the webbing from unraveling:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-gsMdRzp/0/e081070a/X2/DSC09925-X2.jpg" alt="DSC09925 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Place one triglide in the M12 controller as shown below. This triglide prevents the controller from sliding around on the strap:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_place_one_triglide_in_the_m12_controller_as_shown_below_this_triglide_prevents_the_controller_from_sliding_around_on_the_strap">Place one triglide in the M12 controller as shown below. This triglide prevents the controller from sliding around on the strap:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-KMWVjkt/0/7c3b7b4b/X2/DSC09930-X2.jpg" alt="DSC09930 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-x47gdjL/0/95249c26/X2/DSC09931-X2.jpg" alt="DSC09931 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Anchor the PAPR on one point near the funnel using triglides:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_anchor_the_papr_on_one_point_near_the_funnel_using_triglides">Anchor the PAPR on one point near the funnel using triglides:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-XCd6dwJ/0/1f035bc8/X2/DSC09939-X2.jpg" alt="DSC09939 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-jcT7CQ4/0/f5fb5a9c/X2/DSC09940-X2.jpg" alt="DSC09940 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Choose another anchor point on the opposite side of the Fan Box:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_choose_another_anchor_point_on_the_opposite_side_of_the_fan_box">Choose another anchor point on the opposite side of the Fan Box:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-ssPZbPx/0/8dd3ad32/X2/IMG_5067_HEIC-X2.jpg" alt="IMG 5067 HEIC X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>This configuration will allow the Fan Box to be worn in the small of the back:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_this_configuration_will_allow_the_fan_box_to_be_worn_in_the_small_of_the_back">This configuration will allow the Fan Box to be worn in the small of the back:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-6hRwhm4/0/97a52902/X2/DSC09947-X2.jpg" alt="DSC09947 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Hold a loop of the webbing out to be cut where you want clips to be attached:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_hold_a_loop_of_the_webbing_out_to_be_cut_where_you_want_clips_to_be_attached">Hold a loop of the webbing out to be cut where you want clips to be attached:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-FKZrLNN/0/2ed9fc06/X2/DSC09948-X2.jpg" alt="DSC09948 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-cZRBh2m/0/9463e03f/X2/DSC09950-X2.jpg" alt="DSC09950 X2"/>&lt;/span>&lt;/p>
 &lt;/div>
+&lt;div class="paragraph">
+&lt;p>Attach the clips as shown in this photo, with the extra triglide to make sure that the clip position can be adjusted:&lt;/p>
 &lt;/div>
-&lt;div class="sect2">
-&lt;h3 id="_attach_the_clips_as_shown_in_this_photo_with_the_extra_triglide_to_make_sure_that_the_clip_position_can_be_adjusted">Attach the clips as shown in this photo, with the extra triglide to make sure that the clip position can be adjusted:&lt;/h3>
 &lt;div class="paragraph">
 &lt;p>&lt;span class="image">&lt;img src="https://photos.smugmug.com/Tetra-Testing/09-Jan-2021-PAPRa-build-party/i-GLWHvzK/0/05de208c/X2/IMG_5068_HEIC-X2.jpg" alt="IMG 5068 HEIC X2"/>&lt;/span>&lt;/p>
 &lt;/div>
 &lt;div class="paragraph">
 &lt;p>And now you have a Tetra PAPRa in an over-the-shoulder configuration that can be worn comfortably for several hours!&lt;/p>
-&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;/div></description></item></channel></rss>
