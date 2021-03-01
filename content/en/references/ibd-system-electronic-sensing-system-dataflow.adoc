@@ -8,5 +8,5 @@ description: >
 
 [plantuml, ibd-system-electronic-sensing-system-dataflow, svg]
 ....
-include::system-model/structure/ibd-system-electronic-sensing-system-dataflow.puml[]
+include::ibd-system-electronic-sensing-system-dataflow.puml[]
 ....

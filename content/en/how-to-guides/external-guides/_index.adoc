@@ -1,9 +1,0 @@
-
----
-title: "External Guides"
-linkTitle: "External Guides"
-weight: 10
-description: >
-  How to use or contribute to Project Tetra
----
-
