@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1332px" preserveAspectRatio="none" style="width:537px;height:1332px;" version="1.1" viewBox="0 0 537 1332" width="537px" zoomAndPan="magnify"><defs><filter height="300%" id="fefkncmpfwm8f" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[b8de523b24ec101758821f27a12ea43c]
+entity sh--><ellipse cx="75.5" cy="558.79" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M75.5,566.79 L75.5,593.79 M62.5,574.79 L88.5,574.79 M75.5,593.79 L62.5,608.79 M75.5,593.79 L88.5,608.79 " fill="none" filter="url(#fefkncmpfwm8f)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="133" x="6" y="627.627">SCCM/AARC/ASA/</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="139" x="6" y="643.917">APSF/AACN/CHEST</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="95" x="28" y="546.3027">«stakeholder»</text><ellipse cx="366.0538" cy="41.9254" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="139.0538" ry="33.9254" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.5538" y="24.8008">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="171" x="280.5538" y="41.0909">Volumes would go to the</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="215" x="258.5538" y="57.3809">most compliant lung segments.</text><ellipse cx="365.836" cy="161.7639" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="160.836" ry="50.2639" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.336" y="134.2776">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="272" x="229.836" y="150.5677">Positive end‐expiratory pressure (PEEP),</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="204" x="263.836" y="166.8577">which is of critical importance</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="184" x="273.836" y="183.1478">in these patients, would be</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="155" x="288.336" y="199.4378">impossible to manage.</text><ellipse cx="365.8583" cy="290.0041" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="147.8583" ry="42.0041" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.3583" y="265.0598">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="242" x="244.8583" y="281.3498">Monitoring patients and measuring</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="217" x="257.3583" y="297.6399">pulmonary mechanics would be</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="206" x="262.8583" y="313.9299">challenging, if not impossible.</text><ellipse cx="365.8512" cy="400.8702" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="157.3512" ry="33.8702" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.3512" y="383.571">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="152" x="289.8512" y="399.8611">Alarm monitoring and</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="245" x="243.3512" y="416.1511">management would not be feasible.</text><ellipse cx="365.8822" cy="514.136" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="153.8822" ry="44.136" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.3822" y="486.8798">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="190" x="270.8822" y="503.1699">Individualized management</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="185" x="273.3822" y="519.4599">for clinical improvement or</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="239" x="246.3822" y="535.75">deterioration would be impossible.</text><ellipse cx="366.1816" cy="665.242" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="147.6816" ry="71.742" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.6816" y="612.9894">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="204" x="264.1816" y="629.2795">In the case of a cardiac arrest,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="169" x="281.6816" y="645.5695">ventilation to all patients</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="197" x="267.6816" y="661.8595">would need to be stopped to</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="240" x="246.1816" y="678.1496">allow the change to bag ventilation</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="234" x="249.1816" y="694.4396">without aerosolizing the virus and</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="203" x="264.6816" y="710.7297">exposing healthcare workers.</text><ellipse cx="366.1802" cy="814.9926" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="109.1802" ry="42.9926" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.6802" y="789.96">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="173" x="279.6802" y="806.25">The added circuit volume</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="159" x="286.6802" y="822.54">defeats the operational</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="155" x="288.6802" y="838.8301">self‐test (the test fails).</text><ellipse cx="366.0341" cy="948.1594" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="142.5341" ry="54.6594" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.5341" y="911.2824">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="213" x="259.5341" y="927.5724">Additional external monitoring</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="160" x="286.0341" y="943.8625">would be required. The</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="157" x="287.5341" y="960.1525">ventilator monitors the</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="220" x="256.0341" y="976.4425">average pressures and volumes.</text><ellipse cx="366.0835" cy="1088.8026" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="140.5835" ry="51.3026" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.5835" y="1056.0576">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="219" x="256.5835" y="1072.3476">Patients deteriorate and recover</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="232" x="250.0835" y="1088.6377">at different rates, and distribution</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="215" x="258.5835" y="1104.9277">of gas to each patient would be</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="184" x="274.0835" y="1121.2178">unequal and unmonitored.</text><ellipse cx="365.7962" cy="1248.8771" fill="#FEFECE" filter="url(#fefkncmpfwm8f)" rx="151.2962" ry="72.8771" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="331.2962" y="1193.7073">«concern»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="197" x="267.2962" y="1209.9973">The greatest risks occur with</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="175" x="278.2962" y="1226.2874">sudden deterioration of a</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="242" x="244.7962" y="1242.5774">single patient (e.g., pneumothorax,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="184" x="273.7962" y="1258.8675">kinked endotracheal tube),</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="206" x="262.7962" y="1275.1575">with the balance of ventilation</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="223" x="254.2962" y="1291.4475">distributed to the other patients.</text><!--MD5=[b25ee27ce940302551ea0c39eef30ae9]
+link sh to c1--><path d="M83.4386,532.8193 C100.6792,416.4374 144.8816,157.6478 205,94 C218.3118,79.9067 235.461,69.6239 253.5841,62.1236 " fill="none" id="sh-c1" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[bd86d7d09bb517b1888d26cc3f14bdd0]
+link sh to c2--><path d="M81.7896,532.6963 C93.1985,454.7771 124.1575,315.3579 205,230 C217.6231,216.6719 233.2718,205.8455 249.811,197.0828 " fill="none" id="sh-c2" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2eb642ef4c4fef34f376edcfe47e1697]
+link sh to c3--><path d="M92.8876,532.9633 C112.1515,478.7043 148.2177,398.2512 205,349 C219.7299,336.2237 237.4619,326.123 255.6956,318.165 " fill="none" id="sh-c3" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f9ca3ed77380988ff9c5b5ed638bb01e]
+link sh to c4--><path d="M117.7772,532.6729 C140.8428,504.9075 171.4981,473.0959 205,452 C221.6234,441.5324 240.5735,433.0506 259.4937,426.2321 " fill="none" id="sh-c4" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ddd88dc06a4090153db88d70ac19fbe3]
+link sh to c5--><path d="M145.082,571.7961 C177.1423,563.4085 216.0265,553.2358 252.1816,543.7769 " fill="none" id="sh-c5" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[59b935348421bcf29def8d3671084fdd]
+link sh to c6--><path d="M145.082,607.9644 C172.2745,614.9848 204.376,623.2726 235.5577,631.323 " fill="none" id="sh-c6" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[26be439cb5893afe72299c316daac205]
+link sh to c7--><path d="M109.2416,647.0561 C132.3928,682.0078 165.9311,725.3771 205,754 C226.0979,769.4569 251.5822,781.4738 275.9897,790.5967 " fill="none" id="sh-c7" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[7a3c10a9d9fcb839ac5e08bf21ae300c]
+link sh to c8--><path d="M88.5999,647.263 C105.6765,710.3293 141.1813,811.2326 205,875 C220.0885,890.0764 238.8508,902.3472 258.1799,912.2245 " fill="none" id="sh-c8" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e13fa7b805ac736d53b61b843540993c]
+link sh to c9--><path d="M86.4655,647.1275 C107.3466,750.7756 155.1961,964.26 205,1020 C218.778,1035.4203 236.5961,1047.5169 255.3358,1056.9676 " fill="none" id="sh-c9" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e94f8f6f1898d8f1c684b60d97f4115c]
+link sh to c10--><path d="M82.5798,647.0488 C99.2998,774.3281 144.4271,1076.6873 205,1158 C217.5634,1174.8651 234.2376,1189.0572 252.0966,1200.8402 " fill="none" id="sh-c10" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a4ffae5d131d362fd6e395447a1e44fc]
+@startuml
+left to right direction
+
+actor "<b>SCCM/AARC/ASA/</b>\n<b>APSF/AACN/CHEST</b>" <<stakeholder>> as sh
+
+usecase c1 <<concern>> as "Volumes would go to the
+most compliant lung segments."
+
+usecase c2 <<concern>> as "Positive end‐expiratory pressure (PEEP),
+which is of critical importance
+in these patients, would be
+impossible to manage."
+
+usecase c3 <<concern>> as "Monitoring patients and measuring
+pulmonary mechanics would be
+challenging, if not impossible."
+
+usecase c4 <<concern>> as "Alarm monitoring and
+management would not be feasible."
+
+usecase c5 <<concern>> as "Individualized management
+for clinical improvement or
+deterioration would be impossible."
+
+usecase c6 <<concern>> as "In the case of a cardiac arrest,
+ventilation to all patients
+would need to be stopped to
+allow the change to bag ventilation
+without aerosolizing the virus and
+exposing healthcare workers."
+
+usecase c7 <<concern>> as "The added circuit volume
+defeats the operational
+self‐test (the test fails)."
+
+usecase c8 <<concern>> as "Additional external monitoring
+would be required. The
+ventilator monitors the
+average pressures and volumes."
+
+usecase c9 <<concern>> as "Patients deteriorate and recover
+at different rates, and distribution
+of gas to each patient would be
+unequal and unmonitored."
+
+usecase c10 <<concern>> as "The greatest risks occur with
+sudden deterioration of a
+single patient (e.g., pneumothorax,
+kinked endotracheal tube),
+with the balance of ventilation
+distributed to the other patients."
+
+sh - - c1
+sh - - c2
+sh - - c3
+sh - - c4
+sh - - c5
+sh - - c6
+sh - - c7
+sh - - c8
+sh - - c9
+sh - - c10
+
+@enduml
+
+PlantUML version 1.2020.06(Sun Apr 05 12:38:32 GMT 2020)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_202-b08
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

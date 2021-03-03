@@ -1,0 +1,86 @@
+@startuml
+left to right direction
+
+!startsub a1
+actor "<b>SCCM/AARC/ASA/</b>\n<b>APSF/AACN/CHEST</b>" <<stakeholder>> as sh
+!endsub
+
+!startsub C1
+usecase c1 <<concern>> as "Volumes would go to the
+most compliant lung segments."
+!endsub
+
+!startsub C2
+usecase c2 <<concern>> as "Positive end‐expiratory pressure (PEEP),
+which is of critical importance
+in these patients, would be
+impossible to manage."
+!endsub
+
+!startsub C3
+usecase c3 <<concern>> as "Monitoring patients and measuring
+pulmonary mechanics would be
+challenging, if not impossible."
+!endsub
+
+!startsub C4
+usecase c4 <<concern>> as "Alarm monitoring and
+management would not be feasible."
+!endsub
+
+!startsub C5
+usecase c5 <<concern>> as "Individualized management
+for clinical improvement or
+deterioration would be impossible."
+!endsub
+
+!startsub C6
+usecase c6 <<concern>> as "In the case of a cardiac arrest,
+ventilation to all patients
+would need to be stopped to
+allow the change to bag ventilation
+without aerosolizing the virus and
+exposing healthcare workers."
+!endsub
+
+!startsub C7
+usecase c7 <<concern>> as "The added circuit volume
+defeats the operational
+self‐test (the test fails)."
+!endsub
+
+!startsub C8
+usecase c8 <<concern>> as "Additional external monitoring
+would be required. The
+ventilator monitors the
+average pressures and volumes."
+!endsub
+
+!startsub C9
+usecase c9 <<concern>> as "Patients deteriorate and recover
+at different rates, and distribution
+of gas to each patient would be
+unequal and unmonitored."
+!endsub
+
+!startsub C10
+usecase c10 <<concern>> as "The greatest risks occur with
+sudden deterioration of a
+single patient (e.g., pneumothorax,
+kinked endotracheal tube),
+with the balance of ventilation
+distributed to the other patients."
+!endsub
+
+sh -- c1
+sh -- c2
+sh -- c3
+sh -- c4
+sh -- c5
+sh -- c6
+sh -- c7
+sh -- c8
+sh -- c9
+sh -- c10
+
+@enduml
