@@ -2,7 +2,7 @@
 ---
 title: "References"
 linkTitle: "References"
-weight: 5
+weight: 4
 description: >
   Technical documents relevant to the project.
 ---
