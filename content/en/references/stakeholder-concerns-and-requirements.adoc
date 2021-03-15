@@ -1,17 +1,15 @@
 ---
-title: "Stakeholder Concerns & Requirements"
-linkTitle: "Stakeholder Concerns & Requirements"
+title: "Stakeholder Needs & Use Cases"
+linkTitle: "Stakeholder Needs & Use Cases"
 weight: 2
 description: >
-  Identifying stakeholder concerns & deriving top-level requirements.
+  Identifying stakeholder needs & use cases.
 ---
 
-[plantuml, pkg-stakeholder-concerns, svg]
+The Tetra Bio Distributed documentation is intended to serve multiple use cases, illustrated by the following use-case-diagram.
+
+[plantuml, uc-docs, svg]
 ....
-include::system-model/requirements/pkg-stakeholder-concerns.puml[]
+include::uc-docs.puml[]
 ....
 
-[plantuml, pkg-requirements, svg]
-....
-include::system-model/requirements/pkg-requirements.puml[]
-....

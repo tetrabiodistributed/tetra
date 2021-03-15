@@ -1,0 +1,65 @@
+@startuml
+left to right direction
+skinparam linetype polyline
+
+frame f1 as "uc [site] Project Tetra Docs [Use Cases and Associated Stakeholders] " {
+
+  /'Primary Actors'/
+  actor a1 <<Project Tetra team member>> as "<b>Documentation Maintainer</b>"
+
+  actor a2 <<Project Tetra team member>> as "<b>Documentation Reader</b>"
+
+  /'Secondary Actors'/
+  actor a3 <<Project Tetra contributor>> as "<b>Documentation Contributor</b>"
+
+  actor a4 <<Project Tetra users>> as "<b>Documentation Reader</b>"
+
+  rectangle p1 <<static site>> as "<b>Project Tetra Docs</b>" {
+
+    rectangle p11 <<section>> as "<b>Explanations</b>" {
+      usecase uc1 <<use case>> as "<b>Provides context</b>
+                                  <b>into key topics</b>"
+    }
+
+    rectangle p12 <<section>> as "<b>Tutorials</b>" {
+      usecase uc2 <<use case>> as "<b>Provides assembly, build,</b>
+                                    <b>and testing instructions</b>"
+    }
+
+    rectangle p13 <<section>> as "<b>How-to Guides</b>" {
+      usecase uc3 <<use case>> as "<b>Provides usage instructions</b>
+                                    <b>for Project Tetra</b>"
+      usecase uc4 <<use case>> as "<b>Provides contributing guidelines</b>
+                                    <b>for Project Tetra</b>"
+    }
+
+    rectangle p14 <<section>> as "<b>References</b>" {
+      usecase uc5 <<use case>> as "<b>Provides technical</b>
+                                    <b>reference and resources</b>"
+    }
+
+  }
+
+  rectangle p2 <<GitHub repo>> as "<b>Project Tetra Docs</b>" {
+    rectangle p15 <<section>> as "<b>Issues</b>" {
+      usecase uc6 <<use case>> as "<b>Provides section for feedback</b>
+                                    <b>on content or layout</b>"
+    }
+  }
+
+  /'Primary actors perform action'/
+  a1 -- uc6
+  a2 -- uc4
+  a2 -- uc5
+
+  /'Secondary actors respond'/
+  uc6 -- a3
+  uc4 -- a3
+  uc1 -- a4
+  uc2 -- a4
+  uc3 -- a4
+  uc5 -- a4
+
+}
+
+@enduml
