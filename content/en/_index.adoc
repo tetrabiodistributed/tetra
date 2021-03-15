@@ -1,10 +1,12 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
-weight: 20
-menu:
-  main:
-    weight: 20
+title: "Tetra Documentation"
+linkTitle: "Tetra Docs"
+weight: 5
+description: >
+  Welcome & thank you for coming to read our documentation!
 ---
 
+In effort to help navigate readers, this site is organized into the following:
+
+image::https://documentation.divio.com/_images/overview.png[overview, 758, 427]
