@@ -1,4 +1,4 @@
-baseURL = "https://tetrabiodistributed.github.io/project-tetra-docs"
+baseURL = "https://tetrabiodistributed.github.io/tetra"
 title = "Project Tetra"
 canonifyURLs = false
 
@@ -50,7 +50,7 @@ anchor = "smart"
 [[menu.main]]
     name = "GitHub"
     weight = 40
-    url = "https://github.com/tetrabiodistributed/project-tetra-docs"
+    url = "https://github.com/tetrabiodistributed/tetra"
 [[menu.main]]
     name = "Slack"
     weight = 50
@@ -114,7 +114,7 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/tetrabiodistributed/project-tetra-docs"
+github_repo = "https://github.com/tetrabiodistributed/tetra"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/tetrabiodistributed/project-tetra"
 
@@ -163,7 +163,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/tetrabiodistributed/project-tetra-docs/"
+	url = "https://github.com/tetrabiodistributed/tetra/"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 [[params.links.developer]]
