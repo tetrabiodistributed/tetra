@@ -1,0 +1,11 @@
+= Style Guide
+
+This document is a content style guide for content in the `architecture/` directory.
+
+=== Architecture
+
+Content in `architecture/` should be consistent with the https://github.com/Mach30/m30ml[Mach30 modeling language (m30ml)].
+YAML files specified in m30ml should subside in the `0-References/`, `1-StakeholderNeeds`, `2-UserStories`, or `3-Datastructures` directory,
+and be prependend with a number, followed by a dash, the content name in https://wiki.c2.com/?PascalCase[Pascal Case], and a `.yaml`,
+e.g., `2-CubeSatDesignSpecificationRev13.yaml`.
+
