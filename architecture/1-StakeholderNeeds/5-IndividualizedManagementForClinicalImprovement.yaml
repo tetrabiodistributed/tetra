@@ -1,0 +1,5 @@
+id: 5
+name: Individualized management for clinical improvement
+statement: Individualized management for clinical improvement or deterioration would be impossible.
+derivedFrom:
+  - "0-References/1-JointStatementOnMultiplePatientsPerVentilator.yaml"
