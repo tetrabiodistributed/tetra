@@ -1,0 +1,5 @@
+id: 3
+name: Monitoring pulmonary mechanics impossible
+statement: Monitoring patients and measuring pulmonary mechanics would be challenging, if not impossible.
+derivedFrom:
+  - "0-References/1-JointStatementOnMultiplePatientsPerVentilator.yaml"
