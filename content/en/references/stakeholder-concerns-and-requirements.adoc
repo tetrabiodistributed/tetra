@@ -6,12 +6,4 @@ description: >
   Identifying stakeholder concerns & deriving top-level requirements.
 ---
 
-[plantuml, pkg-stakeholder-concerns, svg]
-....
-include::system-model/requirements/pkg-stakeholder-concerns.puml[]
-....
-
-[plantuml, pkg-requirements, svg]
-....
-include::system-model/requirements/pkg-requirements.puml[]
-....
+include::dist/tetra-requirements.adoc[]
