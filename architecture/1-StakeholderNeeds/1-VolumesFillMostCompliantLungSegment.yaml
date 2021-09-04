@@ -1,0 +1,5 @@
+id: 1
+name: Volumes fill most compliant lung segment
+statement: Volumes would go to the most compliant lung segments
+derivedFrom:
+  - "0-References/1-JointStatementOnMultiplePatientsPerVentilator.yaml"
