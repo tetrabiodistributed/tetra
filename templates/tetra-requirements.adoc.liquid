@@ -1,12 +1,13 @@
 = {{architecture.package.description}}
-:doc-name: tetra-requirements.adoc
+:doc-name: tetra-requirements
+:doc-name-adoc: tetra-requirements.adoc
 :revnumber: v{{architecture.package.version}}
 :toc: left
 
 ifndef::backend-pdf[]
 image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT]
 image:https://img.shields.io/badge/Contribute%20on-GitHub-orange[Contribute on GitHub, link={{architecture.package.repository}}]
-image:https://img.shields.io/badge/Download%20-PDF-blue[Download PDF, link={{architecture.package.homepage}}/mission-conops.pdf]
+image:https://img.shields.io/badge/Download%20-PDF-blue[Download PDF, link={{architecture.package.homepage}}/{doc-name}.pdf]
 endif::[]
 
 <<<
@@ -56,7 +57,7 @@ As a *{{us.actor}}* I want to *{{us.behavior}}* so that I can *{{us.rationale}}*
 * {{architecture['elements'][derivedFromItem].url}}[{{architecture['elements'][derivedFromItem].title}}]
 {% endif %}
 {% if architecture['elements'][derivedFromItem].name %}
-* xref:{doc-name}#_{{architecture['elements'][derivedFromItem].id | downcase | replace: " ", "_" | replace: ".", "_"}}_{{architecture['elements'][derivedFromItem].name | downcase | replace: " ", "_"}}[{{architecture['elements'][derivedFromItem].name}}]
+* xref:{doc-name-adoc}#_{{architecture['elements'][derivedFromItem].id | downcase | replace: " ", "_" | replace: ".", "_"}}_{{architecture['elements'][derivedFromItem].name | downcase | replace: " ", "_"}}[{{architecture['elements'][derivedFromItem].name}}]
 {% endif %}
 {% endfor %}
 {% endif %}
