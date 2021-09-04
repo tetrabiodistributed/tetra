@@ -1,0 +1,5 @@
+id: 7
+name: Added circuit volume
+statement: The added circuit volume defeats the operational self‐test (the test fails).
+derivedFrom:
+  - "0-References/1-JointStatementOnMultiplePatientsPerVentilator.yaml"
