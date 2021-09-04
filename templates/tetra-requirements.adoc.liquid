@@ -11,9 +11,9 @@ endif::[]
 
 <<<
 
-== Stakeholder Needs
+== Stakeholder Concerns
  
-The {{architecture.package.description}} is guided by a series of stakeholder needs, listed below.
+The {{architecture.package.description}} is guided by a series of stakeholder concerns, listed below.
 
 {% for need in architecture['1-StakeholderNeeds'] %}
 === {{need.id}}: {{need.name}}
@@ -35,7 +35,7 @@ The {{architecture.package.description}} is guided by a series of stakeholder ne
 
 == User Stories
 
-The {{architecture.package.description}}'s stakeholder needs are then used to identify a series of user stories which then lead to design decisions captured in data structure and activity definitions.
+The {{architecture.package.description}}'s stakeholder concerns are then used to identify a series of user stories to capture the functional requirements of the {{architecture.package.description}} project.
 
 {% for us in architecture['2-UserStories'] %}
 === {{us.id}}: {{us.name}}
