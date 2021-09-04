@@ -1,0 +1,5 @@
+id: 10
+name: Greatest risk with sudden deterioration
+statement: The greatest risks occur with sudden deterioration of a single patient (e.g., pneumothorax, kinked endotracheal tube), with the balance of ventilation distributed to the other patients.
+derivedFrom:
+  - "0-References/1-JointStatementOnMultiplePatientsPerVentilator.yaml"
