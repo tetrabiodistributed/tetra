@@ -1,0 +1,10 @@
+id: 1
+name: Volume Adjustment
+actor: Clinician 
+behavior: individually adjust valves
+rationale: control volumetric flowrate per patient
+derivedFrom:
+- "1-StakeholderNeeds/01-VolumesFillMostCompliantLungSegment.yaml"
+- "1-StakeholderNeeds/05-IndividualizedManagementForClinicalImprovement.yaml"
+- "1-StakeholderNeeds/09-PatientsDeteriorateAndRecoverAtDifferentRates.yaml"
+example: Adjusting flow for each patient, decreasing PIP for the healthier lungs, and increasing PIP for the less healthy patient.
