@@ -1,0 +1,10 @@
+id: 2
+name: Matching Protocols
+actor: Clinician
+behavior: {activity-that-manages-matching-protocols}
+rationale: maintain matching protocols per patient volume
+derivedFrom:
+- "1-StakeholderNeeds/01-VolumesFillMostCompliantLungSegment.yaml"
+- "1-StakeholderNeeds/05-IndividualizedManagementForClinicalImprovement.yaml"
+- "1-StakeholderNeeds/09-PatientsDeteriorateAndRecoverAtDifferentRates.yaml"
+example: {example-here}
