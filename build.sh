@@ -2,6 +2,11 @@
 
 # Install node_modules, if not already installed
 if [ ! -r ./node_modules ]; then
+    docker run --rm --volume "$PWD:/src" -w "/src" capsulecorplab/asciidoctor-extended:asciidocsy-nodejs 'npm ci'
+fi
+
+# Install m30pm node_modules, if not already installed
+if [ ! -r ./m30pm/node_modules ]; then
     docker run --rm --volume "$PWD:/src" -w "/src" capsulecorplab/asciidoctor-extended:asciidocsy-nodejs 'cd m30pm && npm ci'
 fi
 
