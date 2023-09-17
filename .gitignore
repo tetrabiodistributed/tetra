@@ -9,3 +9,15 @@ static/
 .asciidoctor/
 *.svg
 .DS_Store
+
+# node modules
+node_modules/
+
+# bundler
+_build
+
+# build script generated files
+dist/
+
+# github action keys
+gh-pages*

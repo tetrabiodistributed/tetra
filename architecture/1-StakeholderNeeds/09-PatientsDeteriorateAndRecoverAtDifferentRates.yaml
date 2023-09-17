@@ -1,0 +1,5 @@
+id: 9
+name: Patients deteriorate and recover at different rates.
+statement: Patients deteriorate and recover at different rates, and distribution of gas to each patient would be unequal and unmonitored.
+derivedFrom:
+  - "0-References/1-JointStatementOnMultiplePatientsPerVentilator.yaml"

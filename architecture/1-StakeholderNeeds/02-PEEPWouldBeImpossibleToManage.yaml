@@ -1,0 +1,5 @@
+id: 2
+name: PEEP would be impossible to manage
+statement: Positive end‐expiratory pressure (PEEP), which is of critical importance in these patients, would be impossible to manage.
+derivedFrom:
+  - "0-References/1-JointStatementOnMultiplePatientsPerVentilator.yaml"

@@ -1,0 +1,5 @@
+id: 8
+name: External monitoring required
+statement: Additional external monitoring would be required. The ventilator monitors the average pressures and volumes.
+derivedFrom:
+  - "0-References/1-JointStatementOnMultiplePatientsPerVentilator.yaml"

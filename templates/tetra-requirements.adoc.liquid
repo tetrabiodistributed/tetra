@@ -1,0 +1,65 @@
+= {{architecture.package.description}}
+:doc-name: tetra-requirements
+:doc-name-adoc: tetra-requirements.adoc
+:revnumber: v{{architecture.package.version}}
+:toc: left
+
+ifndef::backend-pdf[]
+image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT]
+image:https://img.shields.io/badge/Contribute%20on-GitHub-orange[Contribute on GitHub, link={{architecture.package.repository}}]
+image:https://img.shields.io/badge/Download%20-PDF-blue[Download PDF, link=../dist/{doc-name}.pdf]
+endif::[]
+
+<<<
+
+== Stakeholder Concerns
+ 
+The {{architecture.package.description}} is guided by a series of stakeholder concerns, listed below.
+
+{% for need in architecture['1-StakeholderNeeds'] %}
+=== {{need.id}}: {{need.name}}
+****
+{{need.statement}}
+**** 
+
+{% if need.derivedFrom.length > 0 %}
+==== *Reference:*
+
+{% for derivedFromItem in need.derivedFrom %}
+{% if architecture['elements'][derivedFromItem].url %}
+* {{architecture['elements'][derivedFromItem].url}}[{{architecture['elements'][derivedFromItem].title}}]
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% endfor %}
+
+== User Stories
+
+The {{architecture.package.description}}'s stakeholder concerns are then used to identify a series of user stories to capture the functional requirements of the {{architecture.package.description}} project.
+
+{% for us in architecture['2-UserStories'] %}
+=== {{us.id}}: {{us.name}}
+
+****
+As a *{{us.actor}}* I want to *{{us.behavior}}* so that I can *{{us.rationale}}*.
+****
+
+==== Example:
+
+{{us.example}}
+
+{% if us.derivedFrom.length > 0 %}
+==== *Derived From:*
+
+{% for derivedFromItem in us.derivedFrom %}
+{% if architecture['elements'][derivedFromItem].url %}
+* {{architecture['elements'][derivedFromItem].url}}[{{architecture['elements'][derivedFromItem].title}}]
+{% endif %}
+{% if architecture['elements'][derivedFromItem].name %}
+* xref:{doc-name-adoc}#_{{architecture['elements'][derivedFromItem].id | downcase | replace: " ", "_" | replace: ".", "_"}}_{{architecture['elements'][derivedFromItem].name | downcase | replace: " ", "_"}}[{{architecture['elements'][derivedFromItem].name}}]
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% endfor %}

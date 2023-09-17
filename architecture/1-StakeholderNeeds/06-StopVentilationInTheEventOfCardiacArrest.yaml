@@ -1,0 +1,5 @@
+id: 6
+name: Stop ventilation in the event of cardiac arrest
+statement: In the case of a cardiac arrest, ventilation to all patients would need to be stopped to allow the change to bag ventilation without aerosolizing the virus and exposing healthcare workers.
+derivedFrom:
+  - "0-References/1-JointStatementOnMultiplePatientsPerVentilator.yaml"
